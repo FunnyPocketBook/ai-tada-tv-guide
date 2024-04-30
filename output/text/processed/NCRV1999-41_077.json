@@ -1,0 +1,903 @@
+{
+    "ARD": {
+        "special": "",
+        "programs": [
+            {
+                "time": "5.30",
+                "program": "Morgenmagaznn"
+            },
+            {
+                "time": "9.00",
+                "program": "Ta- gesschau."
+            },
+            {
+                "time": "9.03",
+                "program": "Verbotene Liebe."
+            },
+            {
+                "time": "9.28",
+                "program": "ARD- Frühstücksbuffet. Met om"
+            },
+            {
+                "time": "10.00",
+                "program": "Tagesschau."
+            },
+            {
+                "time": "10.25",
+                "program": "Klemperer - Ein Leben in Deutschland. (2)"
+            },
+            {
+                "time": "11.15",
+                "program": "Die Schlagerparade der Volksmusik."
+            },
+            {
+                "time": "12.00",
+                "program": "Tagesschau um"
+            },
+            {
+                "time": "12.15",
+                "program": "ARD-Buffet."
+            },
+            {
+                "time": "13.00",
+                "program": "Tages- schau."
+            },
+            {
+                "time": "13.05",
+                "program": "ARD-Mittags- magazin. Met heute."
+            },
+            {
+                "time": "14.00",
+                "program": "Tagesschau."
+            },
+            {
+                "time": "14.03",
+                "program": "dich, Brigitte. Komedie, A, 1952. 300283134"
+            },
+            {
+                "time": "15.30",
+                "program": "Tagesschau."
+            },
+            {
+                "time": "15.35",
+                "program": "Sport- schau extra. Met: Formule Samenvatting van de Grand Prix van Maleisië in Kuala Lumpur en Turnen: verslag van de WK in China."
+            },
+            {
+                "time": "16.30",
+                "program": "Alfredissimo! Ù"
+            },
+            {
+                "time": "17.00",
+                "program": "Tagesschau um & 793776"
+            },
+            {
+                "time": "17.15",
+                "program": "Brisant 692047"
+            },
+            {
+                "time": "17.43",
+                "program": "ARD vor acht"
+            },
+            {
+                "time": "17.43",
+                "program": "Regionale informatie."
+            },
+            {
+                "time": "17.55",
+                "program": "Verbotene Liebe."
+            },
+            {
+                "time": "18.25",
+                "program": "Marienhof."
+            },
+            {
+                "time": "18.55",
+                "program": "& 308904347"
+            },
+            {
+                "time": "19.52",
+                "program": "Weer & 205192738"
+            },
+            {
+                "time": "20.00",
+                "program": "Tagesschau 420283"
+            },
+            {
+                "time": "20.15",
+                "program": "Alphamann (2/2) Thriller, 1999. Met Han- nes Jaenicke, Renee Souten- dijk, Trischan e.a. Regie: Thomas Jauch. Afl: Amok. De blinde psycholoog Tom Leschek en de thera- peute Jessica van der Laan vormen na hun eerste ge- slaagde optreden een team dat opnieuw in actie komt als een vrouw van een flat wil springen."
+            },
+            {
+                "time": "21.45",
+                "program": "ARD-exclusiv Reportages. Afl: Ich brauche Freiheit. De 56-jarige Helmar Frankl wil alles behalve stil- zitten. & 241318"
+            },
+            {
+                "time": "22.15",
+                "program": "Tagesschau Met sport. 7682134"
+            },
+            {
+                "time": "22.25",
+                "program": "Bericht aus Berlin & 916842"
+            },
+            {
+                "time": "22.50",
+                "program": "Tatort & 713950 Politieserie, Commissa- ris Max Pulu heeft zorgen: zijn vriendin Jeanette en zijn collega's zeggen hem rond- uit dat hij te dik is."
+            },
+            {
+                "time": "0.20",
+                "program": "Nachtmagazin."
+            },
+            {
+                "time": "0.40",
+                "program": "Chronik der Wende."
+            },
+            {
+                "time": "0.55",
+                "program": "Tom OP Cen- ter. Thriller, VS, 1994. KGB- agent Yuri zorgt er voor dat er drie SS-19-kernkoppen in zijn bezit komen. CC 10114264"
+            },
+            {
+                "time": "3.50",
+                "program": "Nachttv."
+            }
+        ]
+    },
+    "ZDF": {
+        "special": "",
+        "programs": [
+            {
+                "time": "9.00",
+                "program": "Ta- gesschau."
+            },
+            {
+                "time": "9.03",
+                "program": "Volle Kanne, Susanne."
+            },
+            {
+                "time": "9.30",
+                "program": "Pride and Prejudice (2/3} Dramaserie, GB, 1995."
+            },
+            {
+                "time": "11.00",
+                "program": "Tages- schau."
+            },
+            {
+                "time": "11.04",
+                "program": "Leute heute."
+            },
+            {
+                "time": "11.15",
+                "program": "Die Wicherts von ne- benan."
+            },
+            {
+                "time": "12.00",
+                "program": "Tagesschau um"
+            },
+            {
+                "time": "12.15",
+                "program": "drehschei- be Deutschland."
+            },
+            {
+                "time": "13.00",
+                "program": "Ta- gesschau."
+            },
+            {
+                "time": "13.05",
+                "program": "ARD-Mit- tagsmagazin."
+            },
+            {
+                "time": "14.00",
+                "program": "Genies- sen auf gut deutsch."
+            },
+            {
+                "time": "14.25",
+                "program": "Das Wirtshaus im Spessart. Muziek, 1957. [T 8770776"
+            },
+            {
+                "time": "16.00",
+                "program": "heute - in Europa."
+            },
+            {
+                "time": "16.10",
+                "program": "Ein besonde- res Paar."
+            },
+            {
+                "time": "17.00",
+                "program": "heute & 954318"
+            },
+            {
+                "time": "17.15",
+                "program": "hallo Magazine. 929202"
+            },
+            {
+                "time": "17.45",
+                "program": "Leute heute 3 759641"
+            },
+            {
+                "time": "18.00",
+                "program": "Schlosshotel Orth Dramaserie, A. ! & 247824"
+            },
+            {
+                "time": "19.00",
+                "program": "heute 241860"
+            },
+            {
+                "time": "19.20",
+                "program": "Weer & 2028196"
+            },
+            {
+                "time": "19.25",
+                "program": "Forsthaus Faikenau Dramaserie, Vinzenz wil de bosbouw nieuw leven in- blazen. 8639689"
+            },
+            {
+                "time": "20.15",
+                "program": "Siska & 857467 Politieserie, Op een open terrein worden de scheikundeleraar Rüdiger Haug en enkele beschoten. Dezelfde avond wordt opnieuw een aanslag op Rüdiger gepleegd."
+            },
+            {
+                "time": "21.15",
+                "program": "Die ZDF-reportage Reportage over gletsjervlie- gen. 566738"
+            },
+            {
+                "time": "21.45",
+                "program": "heute & 9417301"
+            },
+            {
+                "time": "22.20",
+                "program": "100 Jahre - Der Countdown Documentaire: 1937 - Stalin, der Diktator. & 7384009"
+            },
+            {
+                "time": "22.30",
+                "program": "aspekte S 437486 Cultureel magazine."
+            },
+            {
+                "time": "23.00",
+                "program": "Pelle Erobreren/ Pelle Erovraren Drama, DK/S, 1987. Met Max von Sydow, Pelle Hvene- gaard e.a. Regie: Bille Au- gust. De Zweed Lasse son wil samen met zijn zoontje Pelle in Denemarken een nieuw leven opbouwen. Ze stellen zich Denemarken voor als een paradijs op aar- de voor. & 2031641"
+            },
+            {
+                "time": "1.25",
+                "program": "heute. 77368697"
+            },
+            {
+                "time": "1.30",
+                "program": "Versteckte Kamera."
+            },
+            {
+                "time": "1.55",
+                "program": "An unmarried woman. Drama, VS, 1978. Als ze hoort dat haar man een ander gevon- den heeft stort het georden- de leventje van Erica in. S 7896516"
+            },
+            {
+                "time": "3.55",
+                "program": "aspekte."
+            },
+            {
+                "time": "4.25",
+                "program": "Nachttv."
+            }
+        ]
+    },
+    "NORD 3": {
+        "special": "",
+        "programs": [
+            {
+                "time": "6.00",
+                "program": "Ochtendtv."
+            },
+            {
+                "time": "10.00",
+                "program": "Schleswig- Holstein-Magazin."
+            },
+            {
+                "time": "10.30",
+                "program": "Hallo Niedersachsen."
+            },
+            {
+                "time": "11.00",
+                "program": "buten un binnen."
+            },
+            {
+                "time": "11.30",
+                "program": "Tiere und Men- schen."
+            },
+            {
+                "time": "12.00",
+                "program": "Fliege."
+            },
+            {
+                "time": "13.00",
+                "program": "Kein schöner Land."
+            },
+            {
+                "time": "13.45",
+                "program": "Chronik der Wende."
+            },
+            {
+                "time": "14.00",
+                "program": "Die Sendung mit der Maus; Goldregen. Jeugd- serie"
+            },
+            {
+                "time": "15.00",
+                "program": "100 Deutsche Jahre."
+            },
+            {
+                "time": "15.30",
+                "program": "Jahrhundertprojekt Arbeit."
+            },
+            {
+                "time": "16.00",
+                "program": "N3 ab 4."
+            },
+            {
+                "time": "17.55",
+                "program": "N3 regio- nal."
+            },
+            {
+                "time": "18.00",
+                "program": "Hallo Spencer."
+            },
+            {
+                "time": "18.30",
+                "program": "Unser Sandmännchen."
+            },
+            {
+                "time": "18.35",
+                "program": "N3 regional."
+            },
+            {
+                "time": "18.45",
+                "program": "DAS!"
+            },
+            {
+                "time": "19.30",
+                "program": "N3 regional."
+            },
+            {
+                "time": "20.00",
+                "program": "Tagesschau."
+            },
+            {
+                "time": "20.15",
+                "program": "“Kapitän, oh wie &"
+            },
+            {
+                "time": "21.00",
+                "program": "NORDtour. &"
+            },
+            {
+                "time": "21.15",
+                "program": "Die aktuelle Schaubude."
+            },
+            {
+                "time": "22.00",
+                "program": "NDR Talk Show. O"
+            },
+            {
+                "time": "0.00",
+                "program": "NDR Talk Show Classics."
+            },
+            {
+                "time": "0.30",
+                "program": "ex- tra 3. Satire."
+            },
+            {
+                "time": "1.00",
+                "program": "Brisant."
+            },
+            {
+                "time": "1.30",
+                "program": "Zimmer frei!"
+            },
+            {
+                "time": "2.30",
+                "program": "Les soeurs Brontë. Drama, F, 1979."
+            },
+            {
+                "time": "4.25",
+                "program": "Nachttv,"
+            }
+        ]
+    },
+    "WDR": {
+        "special": "",
+        "programs": [
+            {
+                "time": "6.00",
+                "program": "Natuurkunde."
+            },
+            {
+                "time": "6.30",
+                "program": "Geld."
+            },
+            {
+                "time": "7.00",
+                "program": "Essen und Trinken."
+            },
+            {
+                "time": "7.30",
+                "program": "Kostprobe."
+            },
+            {
+                "time": "8.00",
+                "program": "Hier und Heu- te."
+            },
+            {
+                "time": "8.15",
+                "program": "Tele-Gym."
+            },
+            {
+                "time": "8.30",
+                "program": "Bedrijfseconomie."
+            },
+            {
+                "time": "9.00",
+                "program": "Dagtv."
+            },
+            {
+                "time": "15.00",
+                "program": "Tagesschau vor 20 Jahren. 15,15 Deutsche Städte und Landschaften: Hamburg."
+            },
+            {
+                "time": "15.25",
+                "program": "Blossoms in the dust. Dra- ma, VS, 1941. 3)"
+            },
+            {
+                "time": "17.00",
+                "program": "Lokalzeit."
+            },
+            {
+                "time": "17.05",
+                "program": "Verbotene Liebe."
+            },
+            {
+                "time": "17.30",
+                "program": "Lin- denstrasse."
+            },
+            {
+                "time": "18.00",
+                "program": "Lokalzeit."
+            },
+            {
+                "time": "18.05",
+                "program": "Hier und Heute."
+            },
+            {
+                "time": "18.20",
+                "program": "Bau- en und Wohnen."
+            },
+            {
+                "time": "18.50",
+                "program": "Aktuelle Stunde."
+            },
+            {
+                "time": "19.30",
+                "program": "Lokalzeit."
+            },
+            {
+                "time": "20.00",
+                "program": "Tagesschau."
+            },
+            {
+                "time": "20.15",
+                "program": "Kein schöner Land. &"
+            },
+            {
+                "time": "21.00",
+                "program": "Zauber- hafte Heimat."
+            },
+            {
+                "time": "21.45",
+                "program": "NRW am Abend."
+            },
+            {
+                "time": "22.00",
+                "program": "B. trifft. &:"
+            },
+            {
+                "time": "23.00",
+                "program": "Gretchenfrage. &"
+            },
+            {
+                "time": "23.45",
+                "program": "Rückblende."
+            },
+            {
+                "time": "0.00",
+                "program": "Nachttv."
+            }
+        ]
+    },
+    "SWF": {
+        "special": "",
+        "programs": [
+            {
+                "time": "6.00",
+                "program": "DASDING im TV."
+            },
+            {
+                "time": "7.30",
+                "program": "Be- drijfseconomie."
+            },
+            {
+                "time": "8.00",
+                "program": "Tele-gym."
+            },
+            {
+                "time": "8.15",
+                "program": "Step in."
+            },
+            {
+                "time": "8.30",
+                "program": "Wizadora."
+            },
+            {
+                "time": "8.40",
+                "program": "La bande des quatre."
+            },
+            {
+                "time": "9.00",
+                "program": "Asia"
+            },
+            {
+                "time": "9.15",
+                "program": "100 Deutsche Jahre."
+            },
+            {
+                "time": "9.45",
+                "program": "Dagtv."
+            },
+            {
+                "time": "15.00",
+                "program": "Abenteuer- Welt."
+            },
+            {
+                "time": "15.35",
+                "program": "Im Bann der Sterne."
+            },
+            {
+                "time": "16.00",
+                "program": "Köstliches Deutschland. 16,30 Die Fallers - eine Schwarz- waldfamilie."
+            },
+            {
+                "time": "17.00",
+                "program": "Wunsch- box."
+            },
+            {
+                "time": "18.00",
+                "program": "18.05 Hierzu- land."
+            },
+            {
+                "time": "18.15",
+                "program": "Johann Lafers Koch- schule."
+            },
+            {
+                "time": "18.50",
+                "program": "Treffpunkt."
+            },
+            {
+                "time": "19.20",
+                "program": "Landesschau."
+            },
+            {
+                "time": "19.45",
+                "program": "Aktuell."
+            },
+            {
+                "time": "20.00",
+                "program": "Tagesschau."
+            },
+            {
+                "time": "20.15",
+                "program": "Fröh- licher Alltag."
+            },
+            {
+                "time": "21.30",
+                "program": "21.45 Thema M... wie Menschen."
+            },
+            {
+                "time": "23.15",
+                "program": "Aktuell. &"
+            },
+            {
+                "time": "23.20",
+                "program": "100 Deutsche Jahre."
+            },
+            {
+                "time": "23.50",
+                "program": "Das waren Zeiten…"
+            },
+            {
+                "time": "0.20",
+                "program": "Ohne Fil- ter Extra. Manfred Man's Earth- band."
+            },
+            {
+                "time": "1.20",
+                "program": "Johann Lafers Koch- schule."
+            },
+            {
+                "time": "1.55",
+                "program": "Nachttv."
+            }
+        ]
+    },
+    "RTL+": {
+        "special": "",
+        "programs": [
+            {
+                "time": "6.00",
+                "program": "Ochtendtv."
+            },
+            {
+                "time": "12.00",
+                "program": "Punkt 12."
+            },
+            {
+                "time": "13.00",
+                "program": "Die Oliver Geissen Show."
+            },
+            {
+                "time": "14.00",
+                "program": "Birte Karalus."
+            },
+            {
+                "time": "15.00",
+                "program": "Bärbel Schäfer."
+            },
+            {
+                "time": "16.00",
+                "program": "Hans Meiser."
+            },
+            {
+                "time": "17.00",
+                "program": "The nanny."
+            },
+            {
+                "time": "17.30",
+                "program": "Unter uns."
+            },
+            {
+                "time": "18.00",
+                "program": "Guten Abend."
+            },
+            {
+                "time": "18.30",
+                "program": "Exclusiv."
+            },
+            {
+                "time": "18.45",
+                "program": "Aktuell."
+            },
+            {
+                "time": "19.10",
+                "program": "Ex- plosiv."
+            },
+            {
+                "time": "19.40",
+                "program": "Gute Zeiten, schlechte Zeiten. Soap, Did. 53575573"
+            },
+            {
+                "time": "20.15",
+                "program": "Life! Total ver- rückt! Amusement. & 8243115"
+            },
+            {
+                "time": "21.15",
+                "program": "Nikola. Comedyserie, 6680573"
+            },
+            {
+                "time": "21.45",
+                "program": "Ritas Welt. Co- medyserie, 6669080"
+            },
+            {
+                "time": "22.15",
+                "program": "7 Tage. Weekoverzicht. & 851819"
+            },
+            {
+                "time": "23.15",
+                "program": "Freitag Nacht News. Co- medy-talkshow."
+            },
+            {
+                "time": "0.00",
+                "program": "Nachttv."
+            }
+        ]
+    },
+    "SAT 1": {
+        "special": "",
+        "programs": [
+            {
+                "time": "5.30",
+                "program": "Ochtendtv."
+            },
+            {
+                "time": "10.30",
+                "program": "So ist das Leben."
+            },
+            {
+                "time": "11.00",
+                "program": "Jörg Pilawa."
+            },
+            {
+                "time": "12.00",
+                "program": "Vera am Mittag."
+            },
+            {
+                "time": "13.00",
+                "program": "Sonja."
+            },
+            {
+                "time": "14.00",
+                "program": "Ricky!"
+            },
+            {
+                "time": "15.00",
+                "program": "Star Trek: Deep Space Nine."
+            },
+            {
+                "time": "16.00",
+                "program": "Chicago Hope."
+            },
+            {
+                "time": "17.00",
+                "program": "Jeder gegen Jeden."
+            },
+            {
+                "time": "17.30",
+                "program": "Regionaal magazine."
+            },
+            {
+                "time": "18.00",
+                "program": "Richterin Barbara Salesch."
+            },
+            {
+                "time": "18.30",
+                "program": "Nieuws."
+            },
+            {
+                "time": "18.50",
+                "program": "Sport."
+            },
+            {
+                "time": "19.00",
+                "program": "Blitz. Boulevardmagazine."
+            },
+            {
+                "time": "19.40",
+                "program": "Echt wahr!"
+            },
+            {
+                "time": "20.15",
+                "program": "Die Stunde der Wahrheit."
+            },
+            {
+                "time": "21.15",
+                "program": "Die Rote Meile."
+            },
+            {
+                "time": "22.15",
+                "program": "Ran -"
+            },
+            {
+                "time": "23.15",
+                "program": "Die Harald Schmidt Show. Talk- show."
+            },
+            {
+                "time": "0.15",
+                "program": "Nachttv."
+            }
+        ]
+    },
+    "TMF": {
+        "special": "",
+        "programs": [
+            {
+                "time": "6.00",
+                "program": "Get up! (and dance). 74978931"
+            },
+            {
+                "time": "9.00",
+                "program": "Clip gallery. 3 55465134"
+            },
+            {
+                "time": "12.00",
+                "program": "Watch that video. & 85790383"
+            },
+            {
+                "time": "12.30",
+                "program": "USA charts. 46366592"
+            },
+            {
+                "time": "13.30",
+                "program": "NL (Made in Holland). Clips van ei- gen bodem. ©& 41025757"
+            },
+            {
+                "time": "15.00",
+                "program": "Hitzone. & 92431080"
+            },
+            {
+                "time": "17.00",
+                "program": "D-Day. 79288554"
+            },
+            {
+                "time": "19.00",
+                "program": "De Dag Top 5. 35446863"
+            },
+            {
+                "time": "20.00",
+                "program": "The movie factory. 19675738"
+            },
+            {
+                "time": "20.30",
+                "program": "Rockzone. 14865554"
+            },
+            {
+                "time": "21.30",
+                "program": "Aibum charts 100. Hitlijst. 3 21927115"
+            },
+            {
+                "time": "0.00",
+                "program": "Mental Theo on the road. Met om"
+            },
+            {
+                "time": "0.00",
+                "program": "Facto- ry Facts."
+            },
+            {
+                "time": "1.00",
+                "program": "CyberChoice."
+            }
+        ]
+    },
+    "MTV": {
+        "special": "",
+        "programs": [
+            {
+                "time": "5.00",
+                "program": "Non stop hits."
+            },
+            {
+                "time": "12.00",
+                "program": "Data videos."
+            },
+            {
+                "time": "13.00",
+                "program": "Bytesize. Snack- porties van je favoriete pro- gramma's."
+            },
+            {
+                "time": "15.00",
+                "program": "European top 20. Presentatie: Eden."
+            },
+            {
+                "time": "16.00",
+                "program": "The lick. show en interviews met Trevor."
+            },
+            {
+                "time": "17.00",
+                "program": "Select MTV. Maak je eigen jukebox met Trey."
+            },
+            {
+                "time": "18.00",
+                "program": "Global groove. Videoclips."
+            },
+            {
+                "time": "19.00",
+                "program": "Bytesize. Snackporties van je favoriete programma's."
+            },
+            {
+                "time": "20.00",
+                "program": "Megamix. Visuals en dance tunes."
+            },
+            {
+                "time": "21.00",
+                "program": "Celebrity death- match. Tim Allen vs. Jerry Sein- feld."
+            },
+            {
+                "time": "21.30",
+                "program": "Bytesize."
+            },
+            {
+                "time": "0.00",
+                "program": "Party zone."
+            },
+            {
+                "time": "2.00",
+                "program": "Night clips."
+            }
+        ]
+    }
+}

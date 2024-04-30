@@ -1,0 +1,383 @@
+{
+    "RADIO 1": {
+        "special": "Nieuws (NOS) Elk heel uur en om 6.30, 7.30, 8.30, 12.30, 13.30, 16.30, 17.30 en 18.30",
+        "programs": [
+            {
+                "time": "7.07",
+                "program": "Ochtendjournaal (NOS)"
+            },
+            {
+                "time": "8.33",
+                "program": "Nieuwsshow (TROS) Nieuws en informatie."
+            },
+            {
+                "time": "11.04",
+                "program": "Kamerbreed (TROS) Live politiek programma."
+            },
+            {
+                "time": "12.07",
+                "program": "Middagjournaal (NOS)"
+            },
+            {
+                "time": "14.04",
+                "program": "Langs de lijn (NOS) Sport en muziek."
+            },
+            {
+                "time": "17.07",
+                "program": "Avondjournaal (NOS)"
+            },
+            {
+                "time": "19.04",
+                "program": "Kruispunt (RKK/KRO) Nieuws en achtergronden uit kerk en samenleving."
+            },
+            {
+                "time": "19.30",
+                "program": "Langs de lijn (NOS)"
+            },
+            {
+                "time": "23.07",
+                "program": "Met het oog op morgen (NOS)"
+            },
+            {
+                "time": "0.04",
+                "program": "Easy listening (AVRO) Met als vast onderdeei na het nieuws van"
+            },
+            {
+                "time": "1.00",
+                "program": "De Sinatra- song van de week."
+            },
+            {
+                "time": "2.02",
+                "program": "Nachtdienst (AVRO)"
+            },
+            {
+                "time": "6.04",
+                "endtime": "7.00",
+                "program": "Van-nacht naar morgen (AVRO)"
+            }
+        ]
+    },
+    "RADIO 2": {
+        "special": "Nieuws (NOS) Elk heel uur",
+        "programs": [
+            {
+                "time": "6.04",
+                "program": "Plaza N(&V Muziek om rustig bij wakker te worden."
+            },
+            {
+                "time": "9.04",
+                "program": "Cappuccino Andere koffie op zaterdagmor- gen. Net iets pittiger en met een flinke scheut humor."
+            },
+            {
+                "time": "12.04",
+                "program": "Spijkers met koppen (VARA) Informatief en cabaretesk live- programma."
+            },
+            {
+                "time": "14.04",
+                "program": "KRO's Goudmijn (KRO) Herinneringen en muziek op ver- zoek."
+            },
+            {
+                "time": "16.04",
+                "program": "Weekendcafé (AVRO) Live magazine. Stamgast Marij- ke Höweler legt uit waarom ze al jaren niet meer schrijft. Colum- nist Paul Kempers geeft zijn visie op hedendaagse zaken."
+            },
+            {
+                "time": "18.04",
+                "program": "Andermans veren (AVRO) Een thematische keuze uit het theateramusement."
+            },
+            {
+                "time": "19.04",
+                "program": "music @ncrv.nl N(&V Een een sessie met de Ameri- kaanse zanggroep Mulberry Lane en een portret van de Engelse groep The Beatles."
+            },
+            {
+                "time": "22.04",
+                "program": "Volgspot-Live Zomertheater Actuele theatervoorstelling op de radio: cabaret en kleinkunst, pop en wereldmuziek. Met op- tredens van 0.a. Bennie Jolink en Frank van Panelen."
+            },
+            {
+                "time": "0.00",
+                "endtime": "6.00",
+                "program": "Als Radio 1"
+            }
+        ]
+    },
+    "RADIO 3": {
+        "special": "Nieuws (NOS) Elk heel uur",
+        "programs": [
+            {
+                "time": "6.04",
+                "program": "De havermoutshow (TROS)"
+            },
+            {
+                "time": "9.04",
+                "program": "Gouden uren (TROS)"
+            },
+            {
+                "time": "12.04",
+                "program": "Mega Top-100 (TROS)"
+            },
+            {
+                "time": "15.04",
+                "program": "De zinderende zaterdag (TROS)"
+            },
+            {
+                "time": "18.04",
+                "program": "Dier op drie (TROS)"
+            },
+            {
+                "time": "20.04",
+                "program": "Net Aid (VPRO)"
+            },
+            {
+                "time": "1.04",
+                "endtime": "6.00",
+                "program": "De overnachting (AVRO)"
+            }
+        ]
+    },
+    "RADIO 4": {
+        "special": "",
+        "programs": [
+            {
+                "time": "0.00",
+                "program": "en"
+            },
+            {
+                "time": "7.02",
+                "program": "Vroeg op vier (EO) A. 1. Blaasoctet opus 103 in Bes, Beethoven. Het blaasoctet van Zürich: La Gran Partita. 2. Finale in Bes, Clementi. Pietro Spada, piano. 3. Uit de Slavische dan- sen opus 46 nr. 7 in Dvorak. 4. Symfonie nr. 6 in Es, Mendels- sohn. Het 3de deel uit Symfo- nie nr. 3 in Es Beetho- ven. 6. Allegro vivace uit Symfo- nie nr. 4 in A -Italiaanse -, Men- delssohn. B. 1. Thema con varia- zioni in G KV 501, Mozart. 2. Concert voor viool en hobo in c BWV 1060, Bach. 3. Concerto nr. 4 in G, graaf Unico Wilhelm van Wassenaer. 4. Twee delen uit Concert voor hobo en orkest in Es,‚ C.PE. Bach. Concerto in d, Pisendel."
+            },
+            {
+                "time": "9.04",
+                "program": "Kopstukken (VARA) Gast: kunstschilder Jan Sierhuis."
+            },
+            {
+                "time": "10.30",
+                "program": "Ochtendconcert (Radio 4) Symfonie nr. 8, Bruckner. Con- certgebouw Orkest Eugen Jochum."
+            },
+            {
+                "time": "12.00",
+                "program": "Fiori musicali (AVRO) Liederen uit Le chansonnier du roi, een bundel met Noord- Franse liederen en dansen uit de 13de eeuw. Uitgevoerd door Medieval Strings."
+            },
+            {
+                "time": "13.02",
+                "program": "Senza parole (VPRO) 1. Canzon duodecimi toni a 10, Gabrieli. 2. Altri canti d'amor uit Madrigalenboek Montever- di. 3. Amore per tutti uit de film Giulietta degli spririti, Rota. | Campani. 4. Acqua, N. Campo- grande. Vocinblu. 5. Una furtiva lagrima, G. Donizetti. 6. Suite Frangaise, P. Bazelaire. Anke Anderson, harp. Mariëtte Gort, cello. 7. Calme des nuits, Saint- Saëns. Chanticleer. 8. What's he building?, T. Waits. 9. Wanderer- Fantasy uit Music for a summer evening, Crumb. 10. Uit De te- nebroso lacu, A. Scarlatti. Gérard Lesne & Seminario Musicale. 11. Nuit sur les Champs-Elysées uit Ascenseur pour M. Davis."
+            },
+            {
+                "time": "14.04",
+                "program": "Middagconcert (Radio 4) 1. Pianotrio Hob XV nr. 18, Haydn. 2. Pianotrio opus 15, Smetana. 3. Pianotrio opus 97 - Aartshertog Trio Beethoven. Weens Piano Trio."
+            },
+            {
+                "time": "16.00",
+                "program": "De Nederlanden (NPS) Romantische werken voor viool en piano. 1. Sonate in A opus 18, G.J. van Eijken. 2. Sonate nr. 2 in F opus 6, D."
+            },
+            {
+                "time": "17.00",
+                "program": "Passie N(&V Live amateurmagazine. Met"
+            },
+            {
+                "time": "18.02",
+                "program": "Het witte doek (VPRO) Met The Bergman suites, The classic film music of Erik Nordgren Women's waiting, Smiles of a summer night en Wild strawberries."
+            },
+            {
+                "time": "19.04",
+                "program": "Avondconcert/Opera live (NPS) De opera Don Carlos van Verdi. Ca."
+            },
+            {
+                "time": "22.30",
+                "program": "(NPS) Jazzmuziek tot 1940."
+            },
+            {
+                "time": "23.00",
+                "program": "4FM (NPS) Opname van Orquesta Aragon."
+            },
+            {
+                "time": "0.02",
+                "program": "Vincent na Middernacht (NPS)"
+            },
+            {
+                "time": "1.02",
+                "endtime": "7.00",
+                "program": "Euroclassic Notturno (Radio 4) O.m. 1. Concert voor viool en orkest, Berg. 2. Symfonie nr. 9 in Schubert."
+            }
+        ]
+    },
+    "RADIO 5": {
+        "special": "Nieuws (NOS) Elk uur 18.00 en om 20.00, 22.00, 0.00 en 1.00",
+        "programs": [
+            {
+                "time": "6.02",
+                "program": "Praise op zaterdag"
+            },
+            {
+                "time": "7.02",
+                "program": "Zeggus (EO)"
+            },
+            {
+                "time": "8.05",
+                "program": "Ronduit magazine (EO)"
+            },
+            {
+                "time": "8.30",
+                "program": "Meer dan een lied alleen (EO) Muziek met een boodschap."
+            },
+            {
+                "time": "9.03",
+                "program": "Man/Vrouw Radio Gevarieerd programma."
+            },
+            {
+                "time": "10.02",
+                "program": "De muzikale fruitmand (EO) Verzoekprogramma."
+            },
+            {
+                "time": "11.03",
+                "program": "Het interview (EO) Gesprek met ir. Bert Jan Heij, werkzaam bij het RUVM, het Rijksinstituut voor Volksgezond- heid en Milieu."
+            },
+            {
+                "time": "11.43",
+                "program": "Vragen naar de weg (EO) Vandaag: Hebreeën 13:10 - Wij hebben een altaar."
+            },
+            {
+                "time": "12.05",
+                "program": "De van je leven (AVRO) Magazine voor actieve 50+'ers."
+            },
+            {
+                "time": "12.55",
+                "program": "Vrijzinnig vizier (AVRO) Presentatie: Prof. dr. Anne van der Meiden."
+            },
+            {
+                "time": "13.02",
+                "program": "Zorg en Hoop (NPS)"
+            },
+            {
+                "time": "14.02",
+                "program": "Tema (TELEAC/NOT) Mini-tema: Leven met dementie. (2)"
+            },
+            {
+                "time": "15.02",
+                "program": "De rechten van het Kind (2) (TELEAC/NOT)"
+            },
+            {
+                "time": "16.02",
+                "program": "Faros (TELEAC/NOT)"
+            },
+            {
+                "time": "17.02",
+                "program": "Spektakel (HUMAN) Kunst- en cultuurprogramma. Met: Special over oud-directeur Frans Haks van het Groninger Museum. Het Radioverhaal. Actualiteit."
+            },
+            {
+                "time": "18.02",
+                "program": "Het roze rijk (NPS)"
+            },
+            {
+                "time": "18.45",
+                "program": "Postbus 51 (RVD)"
+            },
+            {
+                "time": "19.00",
+                "program": "Tambu (NPS)"
+            },
+            {
+                "time": "19.30",
+                "program": "Suara Maluku (NPS)"
+            },
+            {
+                "time": "20.00",
+                "program": "Onafhankelijke Senaats- fractie (PP)"
+            },
+            {
+                "time": "20.02",
+                "program": "Boeken wijzer (EO)"
+            },
+            {
+                "time": "20.30",
+                "program": "Laat ons de rustdag wijden (EO) Programma ter voorbereiding op de zondag, vanuit de Chr. Geref. Rehobothkerk in Zwaag- westeinde. De leiding heeft ds. H.D. Rietveld, chr. geref. predi- kant in Zwaagwesteinde. Muzi- kale medewerking verleent het"
+            },
+            {
+                "time": "21.20",
+                "program": "Metterdaad (EO)"
+            },
+            {
+                "time": "21.35",
+                "program": "Deze week"
+            },
+            {
+                "time": "22.02",
+                "program": "Refiector (EO) Aandacht voor actuele ontwikke- lingen in kerk en gemeente."
+            },
+            {
+                "time": "22.30",
+                "program": "Nederland zingt (EO)"
+            },
+            {
+                "time": "23.00",
+                "program": "Zaterdagavonduur (EO) Een programma met klassieke muziek en een column. Van- avond is de dichter Johan Klein gast in het programma. 1. Lord, trust Thee, Händel. Christ Church Cathedral Choir Oxford Stephen Darlington. Step- hen Farr, orgel. 2. Chanson de nuit, Elgar. English Symphony Orchestra William Bough- ton. 3. Deel 2 uit Symfonie nr. 1 in E, Schmidt. Detroits Symfonie Orkest Neeme Järvi. 4. When | survey the wondrouss cross, Miller. King's Choir Cambridge Stephen Cleobury. John Bowen, tenor. Ri- chard Farnes, orgel. Concerto nr. 4 in C. Bond. The Parley of Instruments Roy Goodman. 5. Air uit Orkestsuite nr. 3 in D, Bach. Oslo Philharmonic Orches- tra Mariss Jansons. 6. Ron- do in A D 951, Schubert. Yaara Tal en Andreas Groethuysen, piano-à-quatre-mains."
+            },
+            {
+                "time": "0.02",
+                "program": "San ming chi leung (EO)"
+            },
+            {
+                "time": "0.30",
+                "program": "Iyi haberler"
+            },
+            {
+                "time": "0.45",
+                "endtime": "1.00",
+                "program": "Kaven rasia (FO)"
+            }
+        ]
+    },
+    "CONCERT": {
+        "special": "",
+        "programs": [
+            {
+                "time": "8.30",
+                "program": "Luisteren of uitslapen? Wer- ken van Moessorgsky, Kabalevs- ky, Rimsky-Korsakov e.a."
+            },
+            {
+                "time": "10.00",
+                "program": "Blazers op zaterdag."
+            },
+            {
+                "time": "11.00",
+                "program": "De muzikant."
+            },
+            {
+                "time": "12.00",
+                "program": "De marathon. Werken van N. Gombert, Sam- martini, Benda, Schumann, Field e.a."
+            },
+            {
+                "time": "16.55",
+                "program": "Classical choice. Wer- ken van D. Terradella en J. Fà- brega."
+            },
+            {
+                "time": "18.00",
+                "program": "Encore."
+            },
+            {
+                "time": "19.00",
+                "endtime": "0.00",
+                "program": "Culturele raakvlakken, met om 19,00 An die Musik. Liederen van Poulenc."
+            },
+            {
+                "time": "20.00",
+                "program": "De hoorbare ruimte. Werken van T. Nikipro- wetzky."
+            },
+            {
+                "time": "20.25",
+                "program": "The sound of mo- vies: Ralph Burns."
+            },
+            {
+                "time": "22.00",
+                "program": "Door de mazen van het net."
+            },
+            {
+                "time": "23.00",
+                "program": "Neder- landse muziek. Werken van J.W. Lagerwaard."
+            },
+            {
+                "time": "0.00",
+                "endtime": "8.30",
+                "program": "De nacht."
+            }
+        ]
+    }
+}

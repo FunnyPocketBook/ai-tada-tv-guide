@@ -1,0 +1,641 @@
+{
+    "VRT": {
+        "special": "",
+        "programs": [
+            {
+                "time": "10.00",
+                "endtime": "12.00",
+                "program": "Donna op TV 1."
+            },
+            {
+                "time": "12.35",
+                "program": "Blokken."
+            },
+            {
+                "time": "13.00",
+                "program": "Nieuws en weer."
+            },
+            {
+                "time": "13.30",
+                "program": "Neighbours."
+            },
+            {
+                "time": "13.52",
+                "endtime": "16.00",
+                "program": "Herhaling nieuws en weer."
+            },
+            {
+                "time": "16.50",
+                "program": "Days of our Soap, VS. De storm in New Orleans barst in alle hevig- heid los. & 3180961"
+            },
+            {
+                "time": "17.35",
+                "program": "Neighbours Soap, Aus. Ondanks alle moeilijkheden eindigt het kampeeravontuur van Dar- ren en Libby met een happy end. & 237771"
+            },
+            {
+                "time": "18.00",
+                "program": "Journaal 376874"
+            },
+            {
+                "time": "18.10",
+                "program": "The and the beautiful Soap, VS. Dylan is trots op Jessica omdat ze toegelaten is voor het studieprogram- ma in Londen. & 5342619"
+            },
+            {
+                "time": "18.30",
+                "program": "Blokken Spel. O 653856"
+            },
+            {
+                "time": "19.00",
+                "program": "Journaal 800435"
+            },
+            {
+                "time": "19.40",
+                "program": "Man bijt hond & 800226 Aansl. Weer. [E"
+            },
+            {
+                "time": "20.05",
+                "program": "Thuis Soap, B. Kristoff wil nog steeds zijn moeder niet ont- moeten, maar lijkt goed te kunnen opschieten met zijn zus Sabine. O 106232"
+            },
+            {
+                "time": "20.30",
+                "program": "Vliegende start Spel. Presentatie: Phaedra Hoste en Sergio. 207145"
+            },
+            {
+                "time": "20.55",
+                "program": "Windkracht 10 Dramaserie, B. Een aange- slagen Dirk vindt steun bij Anne. D 35793110"
+            },
+            {
+                "time": "21.50",
+                "program": "Eindelijk vijftig! (3) Humor en sketches met Vlaamse komiek Urbanus. & 280464"
+            },
+            {
+                "time": "22.20",
+                "program": "Man bijt hond # 923961"
+            },
+            {
+                "time": "22.44",
+                "program": "Nieuws 400928416"
+            },
+            {
+                "time": "23.15",
+                "endtime": "9.00",
+                "program": "Nieuws"
+            }
+        ]
+    },
+    "RTBF": {
+        "special": "",
+        "programs": [
+            {
+                "time": "10.30",
+                "program": "Overzicht."
+            },
+            {
+                "time": "11.45",
+                "program": "Magazine Euro- news,"
+            },
+            {
+                "time": "11.55",
+                "program": "Les feux de"
+            },
+            {
+                "time": "12.50",
+                "program": "Nieuws."
+            },
+            {
+                "time": "13.30",
+                "program": "Cover. Show."
+            },
+            {
+                "time": "13.35",
+                "program": "Savannah."
+            },
+            {
+                "time": "14.25",
+                "program": "bla bla."
+            },
+            {
+                "time": "15.25",
+                "program": "Le jardin extraordi- naire. [H]"
+            },
+            {
+                "time": "16.00",
+                "program": "La belle et bête."
+            },
+            {
+                "time": "16.55",
+                "program": "Les rues de San Francisco."
+            },
+            {
+                "time": "17.50",
+                "program": "Murder, she wrote."
+            },
+            {
+                "time": "18.45",
+                "program": "Regionaal nieuws."
+            },
+            {
+                "time": "18.50",
+                "program": "Régions soir."
+            },
+            {
+                "time": "19.10",
+                "program": "Cartes sur table."
+            },
+            {
+                "time": "19.15",
+                "program": "Joker en"
+            },
+            {
+                "time": "19.25",
+                "program": "30 ans déjà. Archiefbeel- den."
+            },
+            {
+                "time": "19.30",
+                "program": "Nieuws."
+            },
+            {
+                "time": "20.15",
+                "program": "Au nom de la loi."
+            },
+            {
+                "time": "21.25",
+                "program": "Blood and wine. Thriller, VS, 1997. Regie: Bob Rafelson. O"
+            },
+            {
+                "time": "23.10",
+                "program": "Match 1 spécial."
+            },
+            {
+                "time": "0.05",
+                "program": "Nachttv."
+            }
+        ]
+    },
+    "KETNET": {
+        "special": "",
+        "programs": [
+            {
+                "time": "16.00",
+                "program": "703990"
+            },
+            {
+                "time": "18.00",
+                "program": "Mijn gedacht! 915787"
+            },
+            {
+                "time": "18.05",
+                "program": "Viavia D & 7663868"
+            },
+            {
+                "time": "18.15",
+                "program": "Mijn gedacht! 5755690"
+            },
+            {
+                "time": "18.20",
+                "program": "Hey Arnold & 285394"
+            },
+            {
+                "time": "18.35",
+                "program": "Mijn gedacht! 6848042"
+            },
+            {
+                "time": "18.40",
+                "program": "Bloep bloep Bloopers. 746435"
+            },
+            {
+                "time": "18.55",
+                "program": "Ket & Co 5678597"
+            },
+            {
+                "time": "19.00",
+                "program": "Doug Tekenfilmserie. 669961"
+            },
+            {
+                "time": "19.10",
+                "program": "De avonturen van Kuifje & 954226"
+            },
+            {
+                "time": "19.35",
+                "program": "Third rock from the sun 529990 Comedyserie, VS. Tommy toont interesse voor meisjes en klaagt over de bijwerkin- aen van de ouberteit"
+            }
+        ]
+    },
+    "CANVAS": {
+        "special": "",
+        "programs": [
+            {
+                "time": "20.00",
+                "program": "Journaal & 964868"
+            },
+            {
+                "time": "20.30",
+                "program": "TerZake & 205787"
+            },
+            {
+                "time": "20.55",
+                "program": "Jude Drama, GB, 1996. Met Chris- topher Eccleston, Kate Wins- let e.a. Regie: Michael Win- terbottom. Mijnwerker Jude is vastberaden zijn maat- schappelijke positie te ver- beteren. In het Victoriaanse Engeland is dat echter niet zo makkelijk. niet wanneer Jude verliefd wordt op zijn mooie nichtje Sue Bridehead. & 4868058"
+            },
+            {
+                "time": "23.00",
+                "program": "Het derde oog Serie documentaires. Een portret van Briek Schotte en Rik Van Steenbergen, de twee grote wielerkampioe- nen uit de Belgische ge- schiedenis. 141329"
+            },
+            {
+                "time": "23.50",
+                "endtime": "2.00",
+                "program": "TerZake H"
+            }
+        ]
+    },
+    "TVs": {
+        "special": "",
+        "programs": [
+            {
+                "time": "4.00",
+                "program": "Ochtendtv."
+            },
+            {
+                "time": "12.05",
+                "program": "100% question."
+            },
+            {
+                "time": "12.30",
+                "program": "Frans nieuws."
+            },
+            {
+                "time": "13.05",
+                "program": "Temps présent."
+            },
+            {
+                "time": "14.00",
+                "program": "Nieuws."
+            },
+            {
+                "time": "14.15",
+                "program": "P.J. police judi- ciaire (11 en 12/12). Politieserie, F."
+            },
+            {
+                "time": "16.00",
+                "program": "Nieuws. Questions."
+            },
+            {
+                "time": "16.30",
+                "program": "Grands gour- mands. 17,05 Pyramide."
+            },
+            {
+                "time": "17.30",
+                "program": "Ouestions pour un champion."
+            },
+            {
+                "time": "18.00",
+                "program": "Nieuws."
+            },
+            {
+                "time": "18.15",
+                "program": "police judiciaire (11 en 12/12). Politie- serie, F."
+            },
+            {
+                "time": "20.00",
+                "program": "Zwitsers nieuws."
+            },
+            {
+                "time": "20.30",
+                "program": "Frans nieuws."
+            },
+            {
+                "time": "21.05",
+                "program": "Au nom de la - spéciale XXe (2/2)."
+            },
+            {
+                "time": "22.00",
+                "program": "Nieuws."
+            },
+            {
+                "time": "22.15",
+                "program": "Madame proviseur. Drama- serie, F."
+            },
+            {
+                "time": "0.00",
+                "program": "Belgisch nieuws."
+            },
+            {
+                "time": "0.30",
+                "program": "Soir 3."
+            },
+            {
+                "time": "1.00",
+                "program": "Nachttv."
+            }
+        ]
+    },
+    "null": {
+        "special": "",
+        "programs": [
+            {
+                "time": "7.00",
+                "program": "Business breakfast."
+            },
+            {
+                "time": "8.00",
+                "program": "BBC Breakfast news."
+            },
+            {
+                "time": "10.00",
+                "program": "Kilroy."
+            },
+            {
+                "time": "11.00",
+                "program": "City hospital."
+            },
+            {
+                "time": "12.00",
+                "program": "Ainsley's meals in minutes."
+            },
+            {
+                "time": "12.30",
+                "program": "House invaders."
+            },
+            {
+                "time": "13.00",
+                "program": "Pass the buck."
+            },
+            {
+                "time": "13.30",
+                "program": "my bluff."
+            },
+            {
+                "time": "14.00",
+                "program": "Nieuws."
+            },
+            {
+                "time": "14.30",
+                "program": "Regionaal nieuws."
+            },
+            {
+                "time": "14.45",
+                "program": "Neighbours."
+            },
+            {
+                "time": "15.10",
+                "program": "Diagnosis murder."
+            },
+            {
+                "time": "15.55",
+                "program": "The good life."
+            },
+            {
+                "time": "16.25",
+                "program": "Tweenies."
+            },
+            {
+                "time": "16.45",
+                "program": "Spider."
+            },
+            {
+                "time": "16.50",
+                "program": "ChuckleVision."
+            },
+            {
+                "time": "17.10",
+                "program": "Insides out Spelprogramma over het menselijk lichaam. & 15301023"
+            },
+            {
+                "time": "17.35",
+                "program": "Belfry witches Jeugdserie. 65528665"
+            },
+            {
+                "time": "18.00",
+                "program": "Newsround T 25255394"
+            },
+            {
+                "time": "18.10",
+                "program": "Blue Peter 18280042"
+            },
+            {
+                "time": "18.35",
+                "program": "Neighbours Soap, Aus. Harold maakt zich zorgen over z'n geeste- lijke gezondheid. D 33105394"
+            },
+            {
+                "time": "19.00",
+                "program": "Nieuws 70134313"
+            },
+            {
+                "time": "19.30",
+                "program": "Regionaal nieuws 70133684"
+            },
+            {
+                "time": "20.00",
+                "program": "Celebrity ready, steady, cook Culinaire wedstrijd met beroemdheden. 70130597"
+            },
+            {
+                "time": "20.30",
+                "program": "Dream wheels (Slot) Automagazine. 70139868"
+            },
+            {
+                "time": "21.00",
+                "program": "Living proof Reportageserie over gezin- nen die voor een grote uit- daging staan. 70227077"
+            },
+            {
+                "time": "21.30",
+                "program": "Battersea dogs home Reportageserie over een hondenopvangcentrum. 90023464"
+            },
+            {
+                "time": "21.50",
+                "program": "The National Lottery third degree 74027435 Loterijtrekking."
+            },
+            {
+                "time": "22.00",
+                "program": "Nieuws 70216961"
+            },
+            {
+                "time": "22.30",
+                "program": "The first wives club Komedie, VS, 1996. Met Bette Midier, Goldie Hawn, Diane Keaton e.a. Regie: Hugh Wilson. Drie vrouwen op middelbare zien hun relaties stuk lopen. Ze voelen zich afgedankt en be- siuiten samen te spannen om wraak te nemen op hun ex-echtgenoten. B 32572619"
+            },
+            {
+                "time": "0.10",
+                "program": "Let them eat cake."
+            },
+            {
+                "time": "0.45",
+                "program": "Film"
+            },
+            {
+                "time": "1.15",
+                "program": "Trial by fire."
+            },
+            {
+                "time": "2.45",
+                "endtime": "7.00",
+                "program": "BBC News 24."
+            },
+            {
+                "time": "7.00",
+                "program": "Open University."
+            },
+            {
+                "time": "8.00",
+                "program": "wish wellingtons. H"
+            },
+            {
+                "time": "8.05",
+                "program": "Playdays."
+            },
+            {
+                "time": "8.25",
+                "program": "Tom and Jerry kids."
+            },
+            {
+                "time": "8.50",
+                "program": "The lowdown. D #"
+            },
+            {
+                "time": "9.15",
+                "program": "treasure hunt."
+            },
+            {
+                "time": "9.35",
+                "program": "Moomin."
+            },
+            {
+                "time": "10.00",
+                "program": "eyes."
+            },
+            {
+                "time": "10.15",
+                "program": "Cats' eyes."
+            },
+            {
+                "time": "10.30",
+                "program": "Words and pictu- res. D"
+            },
+            {
+                "time": "10.45",
+                "program": "Watch."
+            },
+            {
+                "time": "11.00",
+                "program": "Teletubbies."
+            },
+            {
+                "time": "11.30",
+                "program": "Tweenies."
+            },
+            {
+                "time": "11.50",
+                "program": "Numbertime."
+            },
+            {
+                "time": "12.05",
+                "program": "What? Where? When? Why?"
+            },
+            {
+                "time": "12.20",
+                "program": "English express."
+            },
+            {
+                "time": "12.40",
+                "program": "Megamaths."
+            },
+            {
+                "time": "13.00",
+                "program": "Space ark."
+            },
+            {
+                "time": "13.10",
+                "program": "Around Scotland."
+            },
+            {
+                "time": "13.30",
+                "program": "Working lunch."
+            },
+            {
+                "time": "14.00",
+                "program": "Juniper jungle."
+            },
+            {
+                "time": "14.10",
+                "program": "Megamaths."
+            },
+            {
+                "time": "14.30",
+                "program": "The band wagon. Muziek, VS, 1953. Met Fred Astaire, Cyd Charisse e.a. Regie: Vincente Minnelli. & 34276394"
+            },
+            {
+                "time": "16.20",
+                "program": "Nieuws."
+            },
+            {
+                "time": "16.30",
+                "program": "Whose house?"
+            },
+            {
+                "time": "17.00",
+                "program": "Ready, steady, cook Culinaire wedstrijd. & 48645684"
+            },
+            {
+                "time": "17.30",
+                "program": "Ask the family Spel. & 53346481"
+            },
+            {
+                "time": "17.55",
+                "program": "Lowri 80933139"
+            },
+            {
+                "time": "18.30",
+                "program": "Ask the family Spel. 14602936"
+            },
+            {
+                "time": "18.55",
+                "program": "When grow up Reportages. 63804139"
+            },
+            {
+                "time": "19.00",
+                "program": "TOTP 2 &] 56960042 Muziekprogramma."
+            },
+            {
+                "time": "19.45",
+                "program": "Star Trek: The next generation &; 74087077 Sf-serie, VS. Afl: Descent. De Borg dagen Data uit."
+            },
+            {
+                "time": "20.30",
+                "program": "Private investi- gations 70120110 Reportageserie waarin kijkers onderzoek verrichten naar gevoelige kwesties."
+            },
+            {
+                "time": "21.00",
+                "program": "Home front in the garden Tuinmagazine. &] 70225619"
+            },
+            {
+                "time": "21.30",
+                "program": "Looking good (Slot) Magazine over mode en schoonheid. 70217690"
+            },
+            {
+                "time": "22.00",
+                "program": "Living with the enemy Documentaireserie. Afl: Religie. &] 70214503"
+            },
+            {
+                "time": "22.30",
+                "program": "A childhood (2/3) Reportageserie. 76553435"
+            },
+            {
+                "time": "23.20",
+                "program": "When grow up Reportages. 10299961"
+            },
+            {
+                "time": "23.30",
+                "program": "Newsnight [T] 37636329"
+            },
+            {
+                "time": "0.20",
+                "program": "Royal Television Society Huw Weldon Memorial Lec- ture."
+            },
+            {
+                "time": "1.00",
+                "program": "Seinfeld."
+            },
+            {
+                "time": "1.30",
+                "program": "Onen IM"
+            }
+        ]
+    }
+}

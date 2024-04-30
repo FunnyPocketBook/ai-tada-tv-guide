@@ -1,0 +1,389 @@
+{
+    "NEDERLAND 1": {
+        "special": "",
+        "programs": [
+            {
+                "time": "7.00",
+                "program": "NOS-Journaal. 35443"
+            },
+            {
+                "time": "7.05",
+                "program": "NL Net. (AVRO) Act. uit de regio. 5938842"
+            },
+            {
+                "time": "7.30",
+                "program": "NOS-Journaal. & 3331153"
+            },
+            {
+                "time": "7.38",
+                "program": "Ontbijt- tv. (KRO) Met om"
+            },
+            {
+                "time": "8.00",
+                "program": "en"
+            },
+            {
+                "time": "8.30",
+                "program": "NOS- Journaal. 305827240"
+            },
+            {
+                "time": "9.00",
+                "program": "NOS-Jour- naal. 70578"
+            },
+            {
+                "time": "9.08",
+                "program": "De ochtenden. (AVRO) Actueel-informatief magazine. Presentatie: Judith de Bruijn. D 302331462"
+            },
+            {
+                "time": "9.46",
+                "program": "Kunstblik. (AVRO) [E! & 106945849"
+            },
+            {
+                "time": "10.13",
+                "program": "Studio RKK. 302466207"
+            },
+            {
+                "time": "10.38",
+                "program": "Man bijt hond. (NCRV) 302606191"
+            },
+            {
+                "time": "11.03",
+                "program": "Get the picture. (AVRO) 300007424 VVD. (PP) H & 204054424"
+            },
+            {
+                "time": "11.31",
+                "program": "KRO's Kindertijd. Met om"
+            },
+            {
+                "time": "11.31",
+                "program": "Musti."
+            },
+            {
+                "time": "11.36",
+                "program": "Avonturen van Beertje Padding- ton."
+            },
+            {
+                "time": "11.54",
+                "program": "Oake Doke. Afl: Het orkest. & 106882062"
+            },
+            {
+                "time": "12.08",
+                "program": "NOS-Tekst tv."
+            },
+            {
+                "time": "16.00",
+                "program": "NOS-Journaal 40733 NL Net (KRO) Actualiteiten uit de regio. & 454191"
+            },
+            {
+                "time": "16.30",
+                "program": "Het beste Weg van de snelweg H & 2559 Toeristisch programma. Afl: Arnhem."
+            },
+            {
+                "time": "17.00",
+                "program": "Alles kits (AKN) Met om"
+            },
+            {
+                "time": "17.02",
+                "program": "Catdog."
+            },
+            {
+                "time": "17.26",
+                "program": "Ship to shore."
+            },
+            {
+                "time": "17.49",
+                "program": "Speelgoed. 76578"
+            },
+            {
+                "time": "18.00",
+                "program": "The nanny Comedyserie, VS. moeder is niet blij met het advies van een therapeut, dat Fran wat minder aandacht aan de mannen moet schenken. & 7004"
+            },
+            {
+                "time": "18.27",
+                "program": "Man bijt hond Informatief programma. 200015004"
+            },
+            {
+                "time": "18.54",
+                "program": "VVD (PP) 404659849"
+            },
+            {
+                "time": "18.58",
+                "program": "Het straatmuseum (AVRO) Portretten van een straat ergens in Nederland. Afl: Valkkoog. Presentatie: Judith de Bruijn. & 302075559"
+            },
+            {
+                "time": "19.29",
+                "program": "Get the picture (KRO) & 400155608"
+            },
+            {
+                "time": "20.00",
+                "program": "NOS-Journaal 15646"
+            },
+            {
+                "time": "20.31",
+                "program": "Netwerk (AVRO) Actualiteitenrubriek. 100044172"
+            },
+            {
+                "time": "21.06",
+                "program": "Tien voor taal (KRO) Spelprogramma waarin een Nederlands en een Vlaams team tegen elkaar strij- den over hun kennis van de Nederlandse taal. Kandidaten: de televisiepresen- tatoren Kas van Bert van Leeuwen en Paula Udondek tegen Bob Vanouden- hoven, Bruno Wyndaele en Frieda Vanwyck. Presentatie: Anita Witzier en Marcel Vanthilt. & 105907337"
+            },
+            {
+                "time": "21.56",
+                "program": "Rondom tien Zie toelichting 105586882"
+            },
+            {
+                "time": "22.41",
+                "program": "Family money (2/4) (KRO) Thrillerserie, GB. Fran voelt nogal onbe- haaglijk in haar huis. Ze besluit het huis te koop te zetten. & 106222004"
+            },
+            {
+                "time": "23.39",
+                "program": "Birds of a feather (AVRO) Comedyserie, GB. Sharon wordt model voor grote maten en laat Tracy in het ziekenhuis in de steek. & 403759882"
+            },
+            {
+                "time": "0.08",
+                "program": "Voor en tegen (HUMAN) Mensen schetsen in vijf minuten hun zelfportret. Afl: Boulangé, producer/presentator. & 301650365"
+            },
+            {
+                "time": "0.13",
+                "endtime": "2.09",
+                "program": "Netwerk herh. (AVRO)"
+            }
+        ]
+    },
+    "NEDERLAND 2": {
+        "special": "",
+        "programs": [
+            {
+                "time": "7.00",
+                "program": "NOS-Tekst tv."
+            },
+            {
+                "time": "9.00",
+                "program": "TELEAC/NOT Met om"
+            },
+            {
+                "time": "9.00",
+                "program": "Kramerije. (15) H} 708240 Het liefdespaleis. (3) 2565608"
+            },
+            {
+                "time": "10.00",
+                "endtime": "10.25",
+                "program": "Teletubbies. 165511"
+            },
+            {
+                "time": "10.30",
+                "program": "Dossier Geschiedenis: Colijn. Zie toelichting & 6082801"
+            },
+            {
+                "time": "10.50",
+                "endtime": "11.50",
+                "program": "De Grieken. (1-3) [E] 32129917"
+            },
+            {
+                "time": "12.00",
+                "program": "NOS-Journaal."
+            },
+            {
+                "time": "12.05",
+                "program": "Rappatongo. (TROS)"
+            },
+            {
+                "time": "12.32",
+                "program": "Studio sport. 200603917"
+            },
+            {
+                "time": "13.59",
+                "program": "Puur na- (TROS)"
+            },
+            {
+                "time": "14.34",
+                "program": "Tekenen en schil- deren. (2) (TELEAC/NOT) & 400225172"
+            },
+            {
+                "time": "15.00",
+                "program": "Spreekuur. (TROS) 107337"
+            },
+            {
+                "time": "16.00",
+                "program": "Xieje op 2 & 107153 (TROS/EO/TELEAC/NOT)"
+            },
+            {
+                "time": "16.00",
+                "program": "Teletubbies. (H}"
+            },
+            {
+                "time": "16.26",
+                "program": "Kabouter S"
+            },
+            {
+                "time": "16.30",
+                "program": "op de wereld. [H]"
+            },
+            {
+                "time": "17.00",
+                "program": "Quiz van de 20ste eeuw (EO) Spelprogramma. 671337"
+            },
+            {
+                "time": "17.29",
+                "program": "2 Vandaag (EO/TROS/NOS)"
+            },
+            {
+                "time": "18.00",
+                "program": "Journaal. & 401473627"
+            },
+            {
+                "time": "19.00",
+                "program": "Rappatongo (TROS) Spel. Met: Jack van Gelder, Ernst Daniël Smid, Bruni Heinke en Chiel van Praag. Presentatie: Nance. 526288"
+            },
+            {
+                "time": "19.30",
+                "program": "Jong & 525559 Praatprogr. Ik val overal in slaap."
+            },
+            {
+                "time": "20.00",
+                "program": "Ingang Oost (EO) & 515172 Doc.: Diaconessenhuis in Eindhoven."
+            },
+            {
+                "time": "20.30",
+                "program": "In de praktijk Dramaserie, NL. Mevrouw Hillebrand knoopt de eindjes zo goed en zo kwaad als het gaat aan elkaar. Maar toch loopt ze regelmatig schulden op. 993917"
+            },
+            {
+                "time": "21.05",
+                "program": "Man/Vrouw (EO) & 6250578 Afl: Ik ben mishandeld door m'n klant."
+            },
+            {
+                "time": "21.40",
+                "program": "Antenne: Alles voor jou gedaan Documentaire. Anjella krijgt na de 24ste week van haar zwangerschap te horen dat haar kindje na de geboorte geen venskansen zal hebben. & 885917"
+            },
+            {
+                "time": "22.00",
+                "program": "De tien geboden (6/10) (EO) Afl: Het zevende gebod. & 502608"
+            },
+            {
+                "time": "22.30",
+                "program": "Allround Spelprogramma. 534207"
+            },
+            {
+                "time": "23.00",
+                "program": "Studio NOS Met o.m. WK turnen in China. 245917"
+            },
+            {
+                "time": "23.35",
+                "program": "Wie heeft hier de leiding? (7) (TELEAC/NOT) 7013646 Informatieve serie. Afl: Wessel Ganzevoort (1). Zie toelichting"
+            }
+        ]
+    },
+    "NEDERLAND 3": {
+        "special": "",
+        "programs": [
+            {
+                "time": "12.00",
+                "program": "NOS-Journaal."
+            },
+            {
+                "time": "12.10",
+                "program": "Lingo."
+            },
+            {
+                "time": "12.30",
+                "program": "Barend & Witteman."
+            },
+            {
+                "time": "13.00",
+                "program": "NOS-Journaal. 649559"
+            },
+            {
+                "time": "13.05",
+                "program": "MiddagEditie. 4941356"
+            },
+            {
+                "time": "13.30",
+                "program": "NOS- Sportjournaal. 666020"
+            },
+            {
+                "time": "13.41",
+                "program": "Het blau- we licht."
+            },
+            {
+                "time": "14.11",
+                "program": "Werken aan werk: In de vis. (RVU) 100377375"
+            },
+            {
+                "time": "14.36",
+                "program": "Lola da musica. 107080646"
+            },
+            {
+                "time": "15.16",
+                "program": "Lang leve de victorie. 107069153"
+            },
+            {
+                "time": "16.00",
+                "program": "NOS-Journaal ( 3 266240"
+            },
+            {
+                "time": "16.09",
+                "program": "Heartbreak High (VARA) Dramaserie, Aus. [H] & 403337795"
+            },
+            {
+                "time": "16.57",
+                "program": "Laat De Leeuw (VARA) Praatprogramma, bedoeld voor jonge- ren, met Paul de Leeuw. 203853066"
+            },
+            {
+                "time": "18.00",
+                "program": "Villa Achterwerk (VPRO) Met om"
+            },
+            {
+                "time": "18.00",
+                "program": "Swok. Jeugd-sport- programma."
+            },
+            {
+                "time": "18.07",
+                "program": "Lisa. & 207638172 Sesamstraat (NPS) 859559"
+            },
+            {
+                "time": "18.30",
+                "program": "NOS-Jeugdjournaal M 832066"
+            },
+            {
+                "time": "18.43",
+                "program": "Het Klokhuis (NPS) Afl: Architectuurfotograaf. Kim Zwarts maakt portretten van gebouwen. Hij is architectuurfotograaf. Kim laat zien met wat voor speciaal fototoestel en op wat voor manier hij de gebouwen op de ge- voelige plaat vastlegt. 309249153"
+            },
+            {
+                "time": "19.02",
+                "program": "Lingo (VARA) & 200148004"
+            },
+            {
+                "time": "19.25",
+                "program": "Barend & Witteman (VARA) Praatprogramma. & 854849"
+            },
+            {
+                "time": "19.55",
+                "program": "Mrs. Drama, GB, 1997. Met Vanessa Red- grave, Natascha McElhone, Rupert Graves e.a. Regie: Marleen Gorris. Claris- sa denkt terug aan haar jeugd in de eerste jaren na de Eerste Wereld- oorlog. En aan haar jeugdliefde, die ze verliet om te kiezen voor een veilig hu- welijk met Richard Dalloway. Zie Film- keuze op pagina 12-13 6507207"
+            },
+            {
+                "time": "21.40",
+                "program": "De 13e (NPS) Korte film 1997. Regie: Hany Abu-Assad. Een man wordt wakker en hij blijkt op de wereld te zijn. 883559"
+            },
+            {
+                "time": "22.00",
+                "program": "NOS-Journaal"
+            },
+            {
+                "time": "22.15",
+                "program": "NOS-Sportjournaal & 3854530 Met o.m. de WK turnen in China."
+            },
+            {
+                "time": "22.34",
+                "program": "Nova & 400162085"
+            },
+            {
+                "time": "23.04",
+                "program": "NOS-Den Haag vandaag (NOS) Parlementair nieuws. 400668443"
+            },
+            {
+                "time": "23.25",
+                "endtime": "0.20",
+                "program": "Laat De Leeuw (VARA) Praatprogramma. 4282608"
+            }
+        ]
+    }
+}

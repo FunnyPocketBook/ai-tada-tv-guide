@@ -1,0 +1,1001 @@
+{
+    "UNO": {
+        "special": "",
+        "programs": [
+            {
+                "time": "6.00",
+                "program": "Kinderprogramma's."
+            },
+            {
+                "time": "10.00",
+                "program": "azzurro."
+            },
+            {
+                "time": "10.30",
+                "program": "Fiim."
+            },
+            {
+                "time": "12.30",
+                "program": "Nieuws."
+            },
+            {
+                "time": "12.35",
+                "program": "Matlock."
+            },
+            {
+                "time": "13.30",
+                "program": "Nieuws."
+            },
+            {
+                "time": "14.00",
+                "program": "Linea blu. Toeristisch magazine."
+            },
+            {
+                "time": "15.20",
+                "program": "Documentaire."
+            },
+            {
+                "time": "15.50",
+                "program": "Disney Club. Tekenfilms."
+            },
+            {
+                "time": "18.00",
+                "program": "Nieuws."
+            },
+            {
+                "time": "18.10",
+                "program": "A sue immagine. Religieus magazine."
+            },
+            {
+                "time": "18.30",
+                "program": "In bocca al"
+            },
+            {
+                "time": "19.25",
+                "program": "Voetbal. Euro 2000 kwalificatiewedstrijd: Wit- Rusland -"
+            },
+            {
+                "time": "21.45",
+                "program": "Airspeed. Drama, VS, 1998."
+            },
+            {
+                "time": "23.20",
+                "program": "Nieuws."
+            },
+            {
+                "time": "23.25",
+                "program": "Serata TG1."
+            },
+            {
+                "time": "0.15",
+                "program": "Nieuws; Agenda en Horoscoop."
+            },
+            {
+                "time": "0.35",
+                "program": "Filmrubriek."
+            },
+            {
+                "time": "0.40",
+                "program": "Nachttv."
+            }
+        ]
+    },
+    "CNN": {
+        "special": "",
+        "programs": [
+            {
+                "time": "6.30",
+                "program": "Inside Europe."
+            },
+            {
+                "time": "7.30",
+                "program": "World busi- ness."
+            },
+            {
+                "time": "8.30",
+                "program": "World beat."
+            },
+            {
+                "time": "9.30",
+                "program": "Sport."
+            },
+            {
+                "time": "10.30",
+                "program": "Pinnacle Europe."
+            },
+            {
+                "time": "11.30",
+                "program": "Sport."
+            },
+            {
+                "time": "12.30",
+                "program": "Your health."
+            },
+            {
+                "time": "13.30",
+                "program": "Moneyweek."
+            },
+            {
+                "time": "14.00",
+                "program": "News update en World report."
+            },
+            {
+                "time": "15.30",
+                "program": "Travel now."
+            },
+            {
+                "time": "16.30",
+                "program": "World sport."
+            },
+            {
+                "time": "17.30",
+                "program": "Pro golf weekly."
+            },
+            {
+                "time": "18.00",
+                "program": "Celebrate the century."
+            },
+            {
+                "time": "19.30",
+                "program": "Showbiz this weekend."
+            },
+            {
+                "time": "20.30",
+                "program": "World beat. Muziek."
+            },
+            {
+                "time": "21.30",
+                "program": "Style. Mode en trends."
+            },
+            {
+                "time": "22.30",
+                "program": "The art- club."
+            },
+            {
+                "time": "23.30",
+                "program": "World sport."
+            },
+            {
+                "time": "0.00",
+                "program": "World view."
+            },
+            {
+                "time": "0.30",
+                "program": "Nachttv."
+            }
+        ]
+    },
+    "TNT": {
+        "special": "",
+        "programs": [
+            {
+                "time": "6.00",
+                "program": "Murder she said. Mystery."
+            },
+            {
+                "time": "7.30",
+                "program": "* Hotel Paradiso. Komedie."
+            },
+            {
+                "time": "9.15",
+                "program": "* King's Row. Drama."
+            },
+            {
+                "time": "11.30",
+                "program": "* The shop around the corner."
+            },
+            {
+                "time": "13.15",
+                "program": "The teahouse of the August moon. Komedie."
+            },
+            {
+                "time": "15.15",
+                "program": "* The four horsemen of the apocalypse. Drama."
+            },
+            {
+                "time": "18.00",
+                "program": "* Hotel Paradiso. Komedie."
+            },
+            {
+                "time": "20.00",
+                "program": "* It happened at the world's fair. D"
+            },
+            {
+                "time": "22.00",
+                "program": "* Ransom. Drama."
+            },
+            {
+                "time": "23.45",
+                "program": "* Hearts of the west."
+            },
+            {
+                "time": "1.45",
+                "program": "Arturo's island. Drama."
+            },
+            {
+                "time": "3.20",
+                "program": "Murder at the Gallop."
+            },
+            {
+                "time": "4.45",
+                "program": "The red badge of courage. (* = Ondertiteld}"
+            }
+        ]
+    },
+    "KINDERNET": {
+        "special": "",
+        "programs": [
+            {
+                "time": "7.00",
+                "program": "Bobbie de Bus."
+            },
+            {
+                "time": "7.05",
+                "program": "Babaloos."
+            },
+            {
+                "time": "7.10",
+                "program": "Jellabies. Tekenfilmserie."
+            },
+            {
+                "time": "7.20",
+                "program": "Alfred J. Kwak."
+            },
+            {
+                "time": "7.45",
+                "program": "Bassie & Adriaan. Nederlandse kinderserie over de avonturen van een clown en een acrobaat."
+            },
+            {
+                "time": "8.15",
+                "program": "Bimble."
+            },
+            {
+                "time": "8.40",
+                "program": "Ernst, Bobbie en de rest. Nederlandse kinderserie."
+            },
+            {
+                "time": "8.55",
+                "program": "Boegie Woegie. Life-style maga- zine."
+            },
+            {
+                "time": "9.20",
+                "program": "Elvis."
+            },
+            {
+                "time": "9.50",
+                "program": "Itsy bitsy spider."
+            },
+            {
+                "time": "10.10",
+                "program": "Nanook."
+            },
+            {
+                "time": "10.40",
+                "program": "Loggerheads."
+            },
+            {
+                "time": "11.10",
+                "program": "Schateiland. Tekenfilmserie."
+            },
+            {
+                "time": "11.35",
+                "program": "Felix de kat. Tekenfilmserie."
+            },
+            {
+                "time": "11.50",
+                "program": "Zoocup."
+            },
+            {
+                "time": "11.55",
+                "endtime": "12.00",
+                "program": "Zoolympics."
+            },
+            {
+                "time": "18.00",
+                "program": "NOS-Journaal."
+            },
+            {
+                "time": "18.15",
+                "program": "Noord Nieuws."
+            },
+            {
+                "time": "18.25",
+                "program": "Weerbericht in ‘t Gronings."
+            },
+            {
+                "time": "18.30",
+                "program": "Weekoverzicht."
+            },
+            {
+                "time": "18.40",
+                "program": "Vrouger."
+            },
+            {
+                "time": "19.15",
+                "endtime": "6.00",
+                "program": "Herhalingen. OMROP FRYSLAN"
+            },
+            {
+                "time": "9.00",
+                "program": "Herh."
+            },
+            {
+                "time": "18.55",
+                "program": "Berne- programma, Bas de boeke- bear."
+            },
+            {
+                "time": "19.00",
+                "program": "Hjoed, it nijs."
+            },
+            {
+                "time": "19.15",
+                "program": "Boppeslach."
+            },
+            {
+                "time": "19.30",
+                "program": "Wykoersjoch."
+            },
+            {
+                "time": "20.00",
+                "program": "Herhalingen."
+            },
+            {
+                "time": "23.00",
+                "endtime": "8.00",
+                "program": "Herhaling Hjoed en Tekst-tv. TV DRENTHE"
+            },
+            {
+                "time": "7.00",
+                "program": "Tekst-tv."
+            },
+            {
+                "time": "8.30",
+                "program": "TV Drenthe nieuws. Herh."
+            },
+            {
+                "time": "13.30",
+                "program": "Entree. Herh."
+            },
+            {
+                "time": "18.00",
+                "program": "Regiojournaal. Tekst-tv. TV OOST"
+            },
+            {
+                "time": "7.00",
+                "program": "Herhalingen."
+            },
+            {
+                "time": "10.00",
+                "program": "Tekst-tv."
+            },
+            {
+                "time": "17.47",
+                "program": "Kabouter Plop. Kinderprogramma."
+            },
+            {
+                "time": "18.00",
+                "program": "Weekoverzicht."
+            },
+            {
+                "time": "18.03",
+                "program": "Historisch filmarchief."
+            },
+            {
+                "time": "18.27",
+                "program": "TV Oost archief."
+            },
+            {
+                "time": "19.00",
+                "endtime": "7.00",
+                "program": "Herhalingen. TV GELDERLAND"
+            },
+            {
+                "time": "9.00",
+                "program": "Gevarieerd aanbod."
+            },
+            {
+                "time": "18.00",
+                "program": "Weekoverzicht Gelders nieuws."
+            },
+            {
+                "time": "18.30",
+                "program": "Weekoverzicht regionale omroepen."
+            },
+            {
+                "time": "19.00",
+                "endtime": "9.00",
+                "program": "Herhalingen. OMROEP FLEVOLAND"
+            },
+            {
+                "time": "9.00",
+                "program": "Omroep Flevoland Tekst-tv."
+            },
+            {
+                "time": "18.00",
+                "endtime": "9.00",
+                "program": "Weekoverzicht Omroep Flevoland. AT5"
+            },
+            {
+                "time": "9.00",
+                "program": "Dag tv. Met om:"
+            },
+            {
+                "time": "17.50",
+                "program": "Het Afvaljournaal."
+            },
+            {
+                "time": "18.00",
+                "program": "NOS- Journaal."
+            },
+            {
+                "time": "18.20",
+                "program": "AT5 Nieuws."
+            },
+            {
+                "time": "18.40",
+                "program": "Special Report."
+            },
+            {
+                "time": "18.50",
+                "program": "Uitagenda. Het grote cultu- rele aanbod van A'dam in 3 minuten."
+            },
+            {
+                "time": "19.00",
+                "program": "Kabaal. Muziekprogramma met reportages, clips en elke week een muzikant op de divan. Presentatie: Hadassah de Boer."
+            },
+            {
+                "time": "19.30",
+                "program": "AT5 Nieuws."
+            },
+            {
+                "time": "19.45",
+                "program": "Heb hart voor je stad (3). Goede doelen in de stad krijgen een steuntje in de rug dankzij AT5 en de Grote Sponsorloterij. Presentatie: Saskia Lenferink."
+            },
+            {
+                "time": "20.00",
+                "program": "NOS-Journaal."
+            },
+            {
+                "time": "20.30",
+                "program": "AT5 Nieuws."
+            },
+            {
+                "time": "20.45",
+                "program": "Special Report."
+            },
+            {
+                "time": "21.00",
+                "program": "Kabaal. Muziekprogramma met reportages, clips en elke week een muzikant op de divan. Presentatie: Hadassah de Boer."
+            },
+            {
+                "time": "21.30",
+                "program": "AT5 Nieuws."
+            },
+            {
+                "time": "21.45",
+                "program": "Heb hart voor je stad (3). Goede doelen in de stad krijgen een steuntje in de rug dankzij AT5 en de Grote Sponsorloterij."
+            }
+        ]
+    },
+    "REGIO": {
+        "special": "",
+        "programs": [
+            {
+                "time": "22.00",
+                "program": "NOS-Journaal."
+            },
+            {
+                "time": "22.15",
+                "program": "Nieuws."
+            },
+            {
+                "time": "22.30",
+                "program": "Special Report."
+            },
+            {
+                "time": "22.45",
+                "program": "Heb hart voor je stad."
+            },
+            {
+                "time": "23.00",
+                "program": "Wintertijd. Harry de Winter presenteert samen met een gast clips uit vervlogen tijden. Een pro- gramma om de lange win- teravonden goed mee door te komen."
+            },
+            {
+                "time": "0.00",
+                "program": "Kabaal. Muziekprogramma met reportages, clips en elke week een muzikant op de divan. Presentatie: Hadassah de Boer."
+            },
+            {
+                "time": "0.30",
+                "program": "24 uur tv. TV WEST"
+            },
+            {
+                "time": "18.00",
+                "program": "NOS-Journaal."
+            },
+            {
+                "time": "18.20",
+                "program": "Westpop."
+            },
+            {
+                "time": "18.50",
+                "program": "TV Uit."
+            },
+            {
+                "time": "19.00",
+                "program": "Regiojournaal. Westpop."
+            },
+            {
+                "time": "20.00",
+                "endtime": "9.00",
+                "program": "Herhalingen Regiojournaal en Westpop. TV RIJNMOND"
+            },
+            {
+                "time": "7.00",
+                "program": "Herhalingen."
+            },
+            {
+                "time": "12.00",
+                "program": "Nieuws."
+            },
+            {
+                "time": "12.18",
+                "program": "Sport."
+            },
+            {
+                "time": "12.30",
+                "program": "Knetter."
+            },
+            {
+                "time": "13.00",
+                "program": "Herhalingen."
+            },
+            {
+                "time": "16.00",
+                "program": "The game."
+            },
+            {
+                "time": "17.00",
+                "program": "Deze week."
+            },
+            {
+                "time": "17.29",
+                "program": "Regiojournaal."
+            },
+            {
+                "time": "18.00",
+                "program": "Deze week."
+            },
+            {
+                "time": "18.28",
+                "program": "Moois."
+            },
+            {
+                "time": "18.45",
+                "program": "Werken aan de weg."
+            },
+            {
+                "time": "19.00",
+                "program": "Deze week."
+            },
+            {
+                "time": "19.28",
+                "program": "Regiojournaal."
+            },
+            {
+                "time": "20.00",
+                "program": "Deze week."
+            },
+            {
+                "time": "20.28",
+                "program": "Moois."
+            },
+            {
+                "time": "20.45",
+                "program": "Werken aan de weg."
+            },
+            {
+                "time": "7.00",
+                "program": "Herhalingen. TV8 BRABANT"
+            },
+            {
+                "time": "19.30",
+                "program": "Zomerzotheid. Herh./Metamorfose. Herh./ Sjopping. Herh./Clip de week."
+            },
+            {
+                "time": "20.00",
+                "endtime": "6.30",
+                "program": "Herhalingen. OMROEP BRABANT TV"
+            },
+            {
+                "time": "7.00",
+                "program": "Herhalingen en Tekst-tv."
+            },
+            {
+                "time": "17.00",
+                "program": "Brabant nieuws."
+            },
+            {
+                "time": "17.09",
+                "program": "Herhaling varia."
+            },
+            {
+                "time": "17.30",
+                "program": "NOS- Journaal."
+            },
+            {
+                "time": "17.35",
+                "program": "Herhaling varia."
+            },
+            {
+                "time": "18.00",
+                "program": "NOS-Journaal."
+            },
+            {
+                "time": "18.15",
+                "program": "Brabant nieuws."
+            },
+            {
+                "time": "18.29",
+                "endtime": "19.00",
+                "program": "Vaste prik."
+            },
+            {
+                "time": "7.30",
+                "program": "Kinjerkraom."
+            },
+            {
+                "time": "9.00",
+                "program": "L1 Nieuws. Herh."
+            },
+            {
+                "time": "9.30",
+                "program": "Job tv."
+            },
+            {
+                "time": "9.40",
+                "program": "Limburg mozaïek."
+            },
+            {
+                "time": "10.00",
+                "program": "Hartslag beweeg tee- vee."
+            },
+            {
+                "time": "10.15",
+                "program": "Dag-carrousel."
+            },
+            {
+                "time": "18.00",
+                "program": "NOS-Journaal."
+            },
+            {
+                "time": "18.15",
+                "program": "L1 Nieuws."
+            },
+            {
+                "time": "18.26",
+                "program": "Weekoverzicht."
+            },
+            {
+                "time": "18.45",
+                "program": "Job tv."
+            },
+            {
+                "time": "19.01",
+                "program": "De strik."
+            },
+            {
+                "time": "19.07",
+                "program": "De hut- spot."
+            },
+            {
+                "time": "19.30",
+                "program": "L1 Nieuws."
+            },
+            {
+                "time": "19.41",
+                "program": "Weekoverzicht."
+            },
+            {
+                "time": "20.00",
+                "program": "NOS-Journaal."
+            },
+            {
+                "time": "20.30",
+                "program": "L1 Nieuws."
+            },
+            {
+                "time": "20.41",
+                "program": "Weekoverzicht."
+            },
+            {
+                "time": "21.00",
+                "endtime": "7.30",
+                "program": "Zaterdagavond-carrousel. Herh. OMROEP ZEELAND"
+            },
+            {
+                "time": "9.00",
+                "program": "Tekst-tv."
+            },
+            {
+                "time": "16.00",
+                "program": "Muis en leeuw."
+            },
+            {
+                "time": "16.10",
+                "program": "Weekoverzicht."
+            },
+            {
+                "time": "16.40",
+                "endtime": "9.00",
+                "program": "Tekst-tv."
+            }
+        ]
+    },
+    "RADIO REGIO": {
+        "special": "",
+        "programs": [
+            {
+                "time": "9.00",
+                "program": "Het sportcafé."
+            },
+            {
+                "time": "10.00",
+                "program": "Verzoekplaten."
+            },
+            {
+                "time": "12.00",
+                "program": "De week."
+            },
+            {
+                "time": "13.00",
+                "program": "Uit aan huis."
+            },
+            {
+                "time": "17.00",
+                "program": "De kantine."
+            },
+            {
+                "time": "19.00",
+                "program": "Sport. FRYSLAN"
+            },
+            {
+                "time": "10.00",
+                "program": "Gribus."
+            },
+            {
+                "time": "11.00",
+                "program": "Platen op fersyk."
+            },
+            {
+                "time": "12.00",
+                "program": "Aktueel."
+            },
+            {
+                "time": "13.00",
+                "program": "Nieuws."
+            },
+            {
+                "time": "13.30",
+                "program": "Nonstop country."
+            },
+            {
+                "time": "14.00",
+                "program": "Sport."
+            },
+            {
+                "time": "18.00",
+                "program": "L1 Radio"
+            },
+            {
+                "time": "9.30",
+                "program": "Limburgs land."
+            },
+            {
+                "time": "11.00",
+                "program": "De onderstroom."
+            },
+            {
+                "time": "12.00",
+                "program": "L1 Nieuws."
+            },
+            {
+                "time": "12.30",
+                "program": "L1 Klassiek."
+            },
+            {
+                "time": "13.30",
+                "program": "Regionaa."
+            },
+            {
+                "time": "18.00",
+                "program": "De harde schijf. NOORD"
+            },
+            {
+                "time": "8.00",
+                "program": "Agenda."
+            },
+            {
+                "time": "9.00",
+                "program": "Ethermarkt."
+            },
+            {
+                "time": "10.00",
+                "program": "De Kouke. Nieuws."
+            },
+            {
+                "time": "12.30",
+                "program": "Lammie en Gretha."
+            },
+            {
+                "time": "13.00",
+                "program": "Toeters en bellen."
+            },
+            {
+                "time": "14.00",
+                "program": "Nou even niet."
+            },
+            {
+                "time": "15.00",
+                "program": "De muziekfrabriek. OOST"
+            },
+            {
+                "time": "9.00",
+                "program": "Memphis; Sportcafé; Buisman en zo."
+            },
+            {
+                "time": "10.00",
+                "program": "Harms Farms."
+            },
+            {
+                "time": "12.00",
+                "program": "Even uitblazen."
+            },
+            {
+                "time": "13.00",
+                "program": "Toppers."
+            },
+            {
+                "time": "16.00",
+                "program": "Sport."
+            },
+            {
+                "time": "18.00",
+                "program": "Humanisme."
+            },
+            {
+                "time": "18.30",
+                "program": "Sessie. GELDERLAND"
+            },
+            {
+                "time": "12.15",
+                "program": "Parlando."
+            },
+            {
+                "time": "14.00",
+                "program": "De muziekmiddag."
+            },
+            {
+                "time": "17.00",
+                "program": "Sport. BRABANT"
+            },
+            {
+                "time": "12.00",
+                "endtime": "13.00",
+                "program": "Muziek. RIJNMOND"
+            },
+            {
+                "time": "10.00",
+                "program": "Studio Gloria."
+            },
+            {
+                "time": "12.00",
+                "program": "Koos Postema."
+            },
+            {
+                "time": "13.00",
+                "program": "Archief."
+            },
+            {
+                "time": "14.00",
+                "program": "Sport."
+            },
+            {
+                "time": "17.00",
+                "program": "Hotel Spigtzicht."
+            },
+            {
+                "time": "18.00",
+                "program": "Wim Kerkhof."
+            },
+            {
+                "time": "19.00",
+                "program": "Sport."
+            },
+            {
+                "time": "22.00",
+                "program": "RR-Express. WEST"
+            },
+            {
+                "time": "8.30",
+                "program": "Meta."
+            },
+            {
+                "time": "11.00",
+                "program": "Het luis- terrijk."
+            },
+            {
+                "time": "12.00",
+                "program": "Bral."
+            },
+            {
+                "time": "13.00",
+                "program": "Sjaak."
+            },
+            {
+                "time": "16.00",
+                "program": "Loek."
+            },
+            {
+                "time": "18.00",
+                "program": "Muzikaal. 19,00 De avond. DRENTHE"
+            },
+            {
+                "time": "9.15",
+                "program": "Hemmeltied."
+            },
+            {
+                "time": "12.15",
+                "program": "Muzementen."
+            },
+            {
+                "time": "13.00",
+                "program": "Nieuws."
+            },
+            {
+                "time": "13.30",
+                "program": "Muzem. 14,00 Cassata."
+            },
+            {
+                "time": "16.00",
+                "program": "Sport."
+            },
+            {
+                "time": "18.00",
+                "endtime": "19.00",
+                "program": "Muziekprofiel. RADIO M"
+            },
+            {
+                "time": "12.00",
+                "program": "De week."
+            },
+            {
+                "time": "14.00",
+                "program": "M- Sport."
+            },
+            {
+                "time": "18.00",
+                "program": "M-Markant."
+            },
+            {
+                "time": "19.00",
+                "program": "De verlenging."
+            },
+            {
+                "time": "20.00",
+                "program": "De week."
+            },
+            {
+                "time": "22.00",
+                "program": "De nacht. FLEVOLAND"
+            },
+            {
+                "time": "12.00",
+                "program": "Nws."
+            },
+            {
+                "time": "14.00",
+                "program": "Sport."
+            }
+        ]
+    }
+}

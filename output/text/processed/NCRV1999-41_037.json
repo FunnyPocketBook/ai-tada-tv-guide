@@ -1,0 +1,833 @@
+{
+    "ARD": {
+        "special": "",
+        "programs": [
+            {
+                "time": "10.25",
+                "program": "Kopfball."
+            },
+            {
+                "time": "11.00",
+                "program": "Tages- schau. & 350039"
+            },
+            {
+                "time": "11.03",
+                "program": "Die Kinder vom Alstertal."
+            },
+            {
+                "time": "11.30",
+                "program": "Die Sendung mit der Maus."
+            },
+            {
+                "time": "12.00",
+                "program": "Presseclub."
+            },
+            {
+                "time": "12.45",
+                "program": "Tagesschau."
+            },
+            {
+                "time": "13.15",
+                "program": "Weltreisen."
+            },
+            {
+                "time": "13.45",
+                "program": "Bilderbuch Deutschland."
+            },
+            {
+                "time": "14.30",
+                "program": "100 Deutsche Jahre."
+            },
+            {
+                "time": "15.00",
+                "program": "Ta- gesschau."
+            },
+            {
+                "time": "15.05",
+                "program": "Sportschau extra: dansen. Masters-Gala in de standaard en Latijns- Amerikaanse dansen in Bre- men."
+            },
+            {
+                "time": "16.00",
+                "program": "Die Goldene - Euro-Schlager-Party. 2542490"
+            },
+            {
+                "time": "16.45",
+                "program": "Molly-Mo- del. Portret van Carola een sterke vrouw die niet al- leen de pogingen tot moord en uiteindelijke zelfmoord van haar psychisch zieke man overleefde, maar ook haar eigen zelfmoordpoging."
+            },
+            {
+                "time": "17.15",
+                "program": "ARD-Ratgeber: Recht Magazine. 705565"
+            },
+            {
+                "time": "17.45",
+                "program": "Wahi ‘99 Verkiezingsprogramma rond de verkiezingen voor het huis van afgevaardigden in Berlijn. Met om ca."
+            },
+            {
+                "time": "17.50",
+                "program": "Tagesschau; ca."
+            },
+            {
+                "time": "18.39",
+                "program": "Lote- ca."
+            },
+            {
+                "time": "18.40",
+                "program": "Linden- strasse. 2004403"
+            },
+            {
+                "time": "19.30",
+                "program": "Weltspiegel & 220039 Serie reisreportages."
+            },
+            {
+                "time": "20.00",
+                "program": "Tagesschau 646229"
+            },
+            {
+                "time": "20.15",
+                "program": "Tatort Politieserie, Als buiten- landverslaggever Peter Hausmann terugkeert van vakantie, wachten hem me- teen twee verschrikkelijke berichten. 3 8303855"
+            },
+            {
+                "time": "21.45",
+                "program": "Tagesthemen extra 4583942"
+            },
+            {
+                "time": "22.00",
+                "program": "Sabine Christiansen Talkshow. & 835590"
+            },
+            {
+                "time": "23.00",
+                "program": "Kulturreport & 856478 Cultureel magazine."
+            },
+            {
+                "time": "23.30",
+                "program": "Tagesthemen Met sport. & 475890"
+            },
+            {
+                "time": "23.55",
+                "program": "Career girls. Komedie, GB, 1997. & 6260519"
+            },
+            {
+                "time": "1.20",
+                "program": "Tagesschau. 8631411"
+            },
+            {
+                "time": "1.30",
+                "program": "Chronik der Wende."
+            },
+            {
+                "time": "1.45",
+                "program": "The yellow Rolls- Royce. Komedie, GB, 1964. Met Rex Harrison, Jeanne Moreau, Edmund Purdom e.a. Regie: Anthony Asquith. Een limousine vormt op ver- schillende momenten voor diverse eigenaars het mid- delpunt van pogingen om op zowel materieel als amoureus gebied gelukkig te worden. & 4105695"
+            },
+            {
+                "time": "3.40",
+                "program": "Presseclub. 9878782"
+            },
+            {
+                "time": "4.25",
+                "program": "Nachttv."
+            }
+        ]
+    },
+    "ZDF": {
+        "special": "",
+        "programs": [
+            {
+                "time": "6.00",
+                "program": "9.15 Zur Zeit. Kerkelijk nieuws."
+            },
+            {
+                "time": "9.30",
+                "program": "An einem Tisch. Protestantse kerkdienst in het klooster Frenzwegen in Nordhorn."
+            },
+            {
+                "time": "10.15",
+                "program": "Bubu - Der Hund mit dem Hausschuh."
+            },
+            {
+                "time": "10.25",
+                "program": "Wildlife."
+            },
+            {
+                "time": "10.30",
+                "program": "Sie- benstein."
+            },
+            {
+                "time": "10.55",
+                "program": "Hallo, hier ist Rudi."
+            },
+            {
+                "time": "11.00",
+                "program": "Löwenzahn."
+            },
+            {
+                "time": "11.30",
+                "program": "halb 12."
+            },
+            {
+                "time": "12.00",
+                "program": "Das Sonntagskonzert. Muziek. Met 0.a. Joy Fleming, Volker en het Ensembie Can- zona."
+            },
+            {
+                "time": "12.45",
+                "program": "heute."
+            },
+            {
+                "time": "12.47",
+                "program": "blickpunkt."
+            },
+            {
+                "time": "13.15",
+                "program": "Damals."
+            },
+            {
+                "time": "13.30",
+                "program": "Grün & Bunt."
+            },
+            {
+                "time": "13.50",
+                "program": "Die Zürcher Verlo- bung. Musical, 1957. 6898294"
+            },
+            {
+                "time": "15.33",
+                "program": "Sonntags- Million."
+            },
+            {
+                "time": "15.35",
+                "program": "ZDF Sport ex- tra: Wielrennen. WK in Vero- na (ltalië). & 4696010"
+            },
+            {
+                "time": "17.00",
+                "program": "heute & 661120"
+            },
+            {
+                "time": "17.05",
+                "program": "Die Sport-Reportage Met 0.a. Bundesliga-voetbal, motorsport (WK in Zuid-Afri- ka), judo (de WK in Birming- ham, Engeland). 702768"
+            },
+            {
+                "time": "17.40",
+                "program": "heute 8127039"
+            },
+            {
+                "time": "17.45",
+                "program": "Wahl in Berlin Verslag van de verkiezingen in Pruisen. 4456381"
+            },
+            {
+                "time": "19.00",
+                "program": "heute & 565213"
+            },
+            {
+                "time": "19.30",
+                "program": "Berliner Runde 564584"
+            },
+            {
+                "time": "19.57",
+                "program": "heute & 200402300"
+            },
+            {
+                "time": "20.15",
+                "program": "Lass dich über- raschen Amusementsprogramma waarin wensen worden ver- vuld. B] 6625855"
+            },
+            {
+                "time": "21.45",
+                "program": "heute journal spezial - Wahl in Berlin Uitslagen. 4639039"
+            },
+            {
+                "time": "22.35",
+                "program": "100 Jahre - Der Countdown 7506229 Documentaireserie. Afl: 1934 - Maos langer Marsch."
+            },
+            {
+                "time": "22.45",
+                "program": "Protest der Stille - Nikolaikirche Leipzig Concert ter herdenking van de demonstratie op 9 okto- ber 1989 in Leipzig. Op het programma staan 0.a. wer- ken van Bach en Mendels- sohn. Q 9247949"
+            },
+            {
+                "time": "23.45",
+                "program": "heute. 4575294"
+            },
+            {
+                "time": "23.55",
+                "program": "Othello. Drama, GB, 1995. 2519346"
+            },
+            {
+                "time": "1.55",
+                "program": "Die lange Nacht der des Jahr- hunderts’. 1. Walter Jens in gesprek met Beate Pinkern- eil. 2. Marcel Reich-Ranicki in gesprek met Joachim Fest. 3. Friedrich Luft in ge- sprek met Hans Christoph Knebusch. &} 35140633"
+            },
+            {
+                "time": "4.35",
+                "program": "37. H"
+            },
+            {
+                "time": "5.05",
+                "endtime": "5.30",
+                "program": "Nachttv."
+            }
+        ]
+    },
+    "NORD 3": {
+        "special": "",
+        "programs": [
+            {
+                "time": "6.00",
+                "program": "Rückblende."
+            },
+            {
+                "time": "6.15",
+                "program": "NORD- tour."
+            },
+            {
+                "time": "6.30",
+                "program": "Uta."
+            },
+            {
+                "time": "7.00",
+                "program": "Sport 3 Fuss- ball."
+            },
+            {
+                "time": "7.30",
+                "program": "Hallo Spencer."
+            },
+            {
+                "time": "8.00",
+                "program": "Ta- gesschau - Vor 20 Jahren."
+            },
+            {
+                "time": "8.15",
+                "program": "N3 Kamerafahrt."
+            },
+            {
+                "time": "8.30",
+                "program": "Sehen statt hören."
+            },
+            {
+                "time": "9.00",
+                "program": "Nordmagazin."
+            },
+            {
+                "time": "9.30",
+                "program": "Hamburger Journal."
+            },
+            {
+                "time": "10.00",
+                "program": "Schleswig-Holstein Magazin."
+            },
+            {
+                "time": "10.30",
+                "program": "Hallo Niedersachsen."
+            },
+            {
+                "time": "11.00",
+                "program": "Jahrhundertfest Schleswig."
+            },
+            {
+                "time": "13.00",
+                "program": "Alfredissimo!"
+            },
+            {
+                "time": "13.30",
+                "program": "Gif- tige Lebensretter."
+            },
+            {
+                "time": "14.15",
+                "program": "Paarden- sport. Baltic Horse Show."
+            },
+            {
+                "time": "16.00",
+                "program": "Kuh-Welten."
+            },
+            {
+                "time": "16.45",
+                "program": "N3 kulina- risch."
+            },
+            {
+                "time": "17.00",
+                "program": "BingoLotto."
+            },
+            {
+                "time": "18.00",
+                "program": "Sesamstrasse."
+            },
+            {
+                "time": "18.30",
+                "program": "Hanse- blick."
+            },
+            {
+                "time": "19.15",
+                "program": "DAS! &]"
+            },
+            {
+                "time": "19.45",
+                "program": "N3 regional."
+            },
+            {
+                "time": "20.00",
+                "program": "Tagesschau. &"
+            },
+            {
+                "time": "20.15",
+                "program": "Talk op Platt."
+            },
+            {
+                "time": "22.00",
+                "program": "Sport 3."
+            },
+            {
+                "time": "23.00",
+                "program": "Leiden fürs Seelenheil."
+            },
+            {
+                "time": "23.45",
+                "program": "Viva, Castro! Drama, RU, &"
+            },
+            {
+                "time": "1.00",
+                "program": "Hello, Mister Berg. Kome- die, 1992."
+            },
+            {
+                "time": "2.15",
+                "program": "Nachttv."
+            }
+        ]
+    },
+    "WDR": {
+        "special": "",
+        "programs": [
+            {
+                "time": "6.15",
+                "program": "Tagesschau vor 20 Jahren."
+            },
+            {
+                "time": "6.30",
+                "program": "Duits."
+            },
+            {
+                "time": "7.00",
+                "program": "Wiskunde."
+            },
+            {
+                "time": "7.30",
+                "program": "Engels,"
+            },
+            {
+                "time": "8.00",
+                "program": "Natuurkunde."
+            },
+            {
+                "time": "8.30",
+                "program": "Bedrijfseconomie."
+            },
+            {
+                "time": "9.00",
+                "program": "leg aktuell."
+            },
+            {
+                "time": "9.30",
+                "program": "Frans."
+            },
+            {
+                "time": "10.00",
+                "program": "Ochtendtv."
+            },
+            {
+                "time": "15.05",
+                "program": "The million pound note. Komedie, GB, 1953."
+            },
+            {
+                "time": "16.30",
+                "program": "Die Märchenbraut."
+            },
+            {
+                "time": "17.00",
+                "program": "tatort WDR - der Sender und sein Publikum: Talkshows."
+            },
+            {
+                "time": "17.45",
+                "program": "Die Anrheiner."
+            },
+            {
+                "time": "18.15",
+                "program": "Tiere suchen eine Zuhause."
+            },
+            {
+                "time": "19.10",
+                "program": "Aktuelle Stunde."
+            },
+            {
+                "time": "19.30",
+                "program": "West- pol."
+            },
+            {
+                "time": "20.00",
+                "program": "Tagesschau. &"
+            },
+            {
+                "time": "20.15",
+                "program": "Bilderbuch Deutschland. Münster."
+            },
+            {
+                "time": "21.00",
+                "program": "Der Krieg. &"
+            },
+            {
+                "time": "21.45",
+                "program": "Kulturszene."
+            },
+            {
+                "time": "22.15",
+                "program": "Sport im Westen. &)"
+            },
+            {
+                "time": "23.15",
+                "program": "Zimmer frei!"
+            },
+            {
+                "time": "0.15",
+                "program": "Der Fluch des Hauses Dain Miniserie, VS."
+            },
+            {
+                "time": "1.45",
+                "program": "Nachttv."
+            }
+        ]
+    },
+    "SWF": {
+        "special": "",
+        "programs": [
+            {
+                "time": "6.30",
+                "program": "Frans."
+            },
+            {
+                "time": "7.00",
+                "program": "Türkei: Land, Leute und Sprache."
+            },
+            {
+                "time": "7.30",
+                "program": "Sehen statt hören."
+            },
+            {
+                "time": "8.00",
+                "program": "Babylon."
+            },
+            {
+                "time": "9.00",
+                "program": "Tele-Akademie."
+            },
+            {
+                "time": "9.45",
+                "program": "MATINEE."
+            },
+            {
+                "time": "12.15",
+                "program": "Südwest unterwegs."
+            },
+            {
+                "time": "12.45",
+                "program": "Das 3. Leben."
+            },
+            {
+                "time": "13.30",
+                "program": "Tierge- schichten."
+            },
+            {
+                "time": "14.00",
+                "program": "Deutsches Weinlesefest in Neustadt."
+            },
+            {
+                "time": "16.00",
+                "program": "KulturCafé."
+            },
+            {
+                "time": "16.30",
+                "program": "Paternoster."
+            },
+            {
+                "time": "17.00",
+                "program": "Abenteuer Natur."
+            },
+            {
+                "time": "17.45",
+                "program": "Ei- senbahn-Romantik."
+            },
+            {
+                "time": "18.15",
+                "program": "Was die Grossmutter noch wusste."
+            },
+            {
+                "time": "18.45",
+                "program": "Feste und Bräuche."
+            },
+            {
+                "time": "19.15",
+                "program": "Die Fallers."
+            },
+            {
+                "time": "19.45",
+                "program": "Ak- tuell. E}"
+            },
+            {
+                "time": "20.00",
+                "program": "Tagesschau."
+            },
+            {
+                "time": "20.15",
+                "program": "Der doppelte Haupttreffer oder die bezähmte Bissgur'n. Blijspel ‚ Did."
+            },
+            {
+                "time": "21.45",
+                "program": "Aktuell."
+            },
+            {
+                "time": "21.50",
+                "program": "&)"
+            },
+            {
+                "time": "22.35",
+                "program": "Wort- wechsel."
+            },
+            {
+                "time": "23.20",
+                "program": "St. Ingberter (Slot) &"
+            },
+            {
+                "time": "0.05",
+                "program": "!! tabarro. Opera van Puccini."
+            },
+            {
+                "time": "1.00",
+                "program": "SWR3 Wildall TV."
+            },
+            {
+                "time": "4.00",
+                "program": "Nachttv."
+            }
+        ]
+    },
+    "RTL+": {
+        "special": "",
+        "programs": [
+            {
+                "time": "5.30",
+                "program": "10.40 The A-Team."
+            },
+            {
+                "time": "12.20",
+                "program": "Disney Filmparade."
+            },
+            {
+                "time": "12.40",
+                "program": "My date with the president's daughter. Kome- die, VS, 1998. 30533478"
+            },
+            {
+                "time": "14.20",
+                "program": "Sliders."
+            },
+            {
+                "time": "16.05",
+                "program": "Hercules: The gendary journeys. Avontuur, VS, 1995. & 31363478"
+            },
+            {
+                "time": "16.50",
+                "program": "The new adventures of Robin Hood."
+            },
+            {
+                "time": "17.45",
+                "program": "Exclusiv. 8975749"
+            },
+            {
+                "time": "18.45",
+                "program": "Ak- tuell. & 54077132"
+            },
+            {
+                "time": "19.10",
+                "program": "Notruf. 16419854"
+            },
+            {
+                "time": "20.15",
+                "program": "Corrina, Corri- Romantische komedie, VS, 1994. 68697565"
+            },
+            {
+                "time": "22.25",
+                "program": "Spie- gel TV 16551565"
+            },
+            {
+                "time": "23.10",
+                "program": "Arzte im Einsatz. 93904749"
+            },
+            {
+                "time": "23.45",
+                "program": "South Park."
+            },
+            {
+                "time": "0.10",
+                "program": "Nachttv."
+            }
+        ]
+    },
+    "SAT 1": {
+        "special": "",
+        "programs": [
+            {
+                "time": "6.10",
+                "program": "Ochtendtv."
+            },
+            {
+                "time": "8.45",
+                "program": "Die Wo- chenshow."
+            },
+            {
+                "time": "9.45",
+                "program": "Alf."
+            },
+            {
+                "time": "10.15",
+                "program": "J.A.G."
+            },
+            {
+                "time": "11.15",
+                "program": "Saison in Salz- burg. Komedie, A, 1961."
+            },
+            {
+                "time": "13.15",
+                "program": "Die Abenteuer des Grafen Bob- by. Komedie, A, 1961."
+            },
+            {
+                "time": "15.15",
+                "program": "Dangerous exile. Avontuur, GB, 1957."
+            },
+            {
+                "time": "17.00",
+                "program": "17.55 Wahl Spezial."
+            },
+            {
+                "time": "18.05",
+                "program": "Blitz."
+            },
+            {
+                "time": "18.30",
+                "program": "Nieuws."
+            },
+            {
+                "time": "19.00",
+                "program": "Aus der Zauber - Die geheimen Tricks der grossen Magier."
+            },
+            {
+                "time": "20.15",
+                "program": "Rache ist Süss."
+            },
+            {
+                "time": "22.15",
+                "program": "Ein Hoch auf St. Pauli."
+            },
+            {
+                "time": "22.45",
+                "program": "Wahl Spezial."
+            },
+            {
+                "time": "23.00",
+                "program": "Plane- topia."
+            },
+            {
+                "time": "23.45",
+                "program": "News."
+            },
+            {
+                "time": "0.30",
+                "program": "Nachttv."
+            }
+        ]
+    },
+    "TMF": {
+        "special": "",
+        "programs": [
+            {
+                "time": "6.00",
+                "program": "CyberChoice. Non-stop vi- deoclips. & 34937300"
+            },
+            {
+                "time": "10.00",
+                "program": "Mor- ning call. 16476300"
+            },
+            {
+                "time": "12.00",
+                "program": "The movie factory. [H] 86746823"
+            },
+            {
+                "time": "12.30",
+                "program": "Déjà vu. 33085045"
+            },
+            {
+                "time": "15.00",
+                "program": "Top 40. Overzicht van deze Ne- derlandse hitlijst. 54479213"
+            },
+            {
+                "time": "18.00",
+                "program": "Post op Zondag. Interactief magazine. & 43423584"
+            },
+            {
+                "time": "20.00",
+                "program": "Weekend special. Interview met Jamiroquai. Presentatie: Erik de Zwart. & 92661229"
+            },
+            {
+                "time": "22.00",
+                "program": "Clip 14995749"
+            },
+            {
+                "time": "23.00",
+                "program": "The Pitch. Presentatie: Murth the Man-O-Script. &) 14082229"
+            },
+            {
+                "time": "0.00",
+                "program": "CyberChoice."
+            }
+        ]
+    },
+    "MTV": {
+        "special": "",
+        "programs": [
+            {
+                "time": "6.00",
+                "program": "Kickstart. Muziekvideo's."
+            },
+            {
+                "time": "9.30",
+                "program": "Bytesize."
+            },
+            {
+                "time": "11.00",
+                "program": "Amour weekend. De mooi- ste lovesongs."
+            },
+            {
+                "time": "16.00",
+                "program": "Say what. Karaoke."
+            },
+            {
+                "time": "17.00",
+                "program": "Data videos. Op het tv-scherm wordt, naast de clip, achtergrondinformatie ge- geven over de betreffende ar- tiest(en)."
+            },
+            {
+                "time": "18.00",
+                "program": "News weekend edition. De laatste roddels."
+            },
+            {
+                "time": "18.30",
+                "program": "Making of a music video - Brit- ney Spears. Muziekspecial."
+            },
+            {
+                "time": "19.00",
+                "program": "So 90's. Hits uit de jaren negen- tig."
+            },
+            {
+                "time": "21.00",
+                "program": "MTV live."
+            },
+            {
+                "time": "22.00",
+                "program": "Amour."
+            },
+            {
+                "time": "1.00",
+                "endtime": "5.00",
+                "program": "Sunday night music mix. Non-stop muziek."
+            }
+        ]
+    }
+}

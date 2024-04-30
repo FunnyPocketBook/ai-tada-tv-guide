@@ -1,0 +1,438 @@
+{
+    "RADIO 1": {
+        "special": "Nieuws (NOS) Elk heel uur en om 6.30, 7.30, 8.30, 12.30, 13.30, 17.30 en 18.30 en om 16.30 Radio Beursnieuws",
+        "programs": [
+            {
+                "time": "6.06",
+                "program": "Ochtendjournaal (NOS)"
+            },
+            {
+                "time": "9.04",
+                "program": "De KRO op Radio 1 (KRO) Achtergronden, discussies en actualiteiten met"
+            },
+            {
+                "time": "9.05",
+                "program": "On- der vier ogen;"
+            },
+            {
+                "time": "10.10",
+                "program": "Buitenland."
+            },
+            {
+                "time": "11.10",
+                "program": "Research. De din- gen die gebeuren."
+            },
+            {
+                "time": "12.07",
+                "program": "Middagjoumaal (NOS)"
+            },
+            {
+                "time": "13.33",
+                "program": "De KRO op Radio 1 (KRO) Achtergronden, discussies en actualiteiten. Met 0.m.:"
+            },
+            {
+                "time": "13.32",
+                "program": "Binnenland;"
+            },
+            {
+                "time": "14.10",
+                "program": "Consumen- tenkwesties in Het Loket;"
+            },
+            {
+                "time": "15.05",
+                "program": "Media en Cultuur;"
+            },
+            {
+                "time": "16.05",
+                "program": "Het Debat."
+            },
+            {
+                "time": "17.07",
+                "program": "Avondjournaal (NOS)"
+            },
+            {
+                "time": "19.04",
+                "program": "ChatRadio (BNN) Praatprogramma."
+            },
+            {
+                "time": "20.04",
+                "program": "United (BNN) Magazine voor en door jongeren met een veelheid aan onderwer- pen zoals de weekbladen, repor- tages en studiogesprekken."
+            },
+            {
+                "time": "21.04",
+                "program": "Radiojournaal - Het radiocafé (AVRO) Aan de stamtafel praat Dick Klees met zijn gasten over een actueel thema uit het nieuws."
+            },
+            {
+                "time": "22.04",
+                "program": "Langs de lijn (NOS)"
+            },
+            {
+                "time": "23.07",
+                "program": "Met het oog op morgen (NOS)"
+            },
+            {
+                "time": "0.04",
+                "endtime": "6.00",
+                "program": "Nachtleven (VPRO)"
+            },
+            {
+                "time": "0.04",
+                "program": "Doubie play."
+            },
+            {
+                "time": "2.02",
+                "program": "Muziek terwijl u slaapt."
+            },
+            {
+                "time": "5.02",
+                "program": "Senza paro- le. Herh."
+            }
+        ]
+    },
+    "RADIO 2": {
+        "special": "Nieuws (NOS) Elk heel uur",
+        "programs": [
+            {
+                "time": "6.04",
+                "program": "Ontbijtradio (VARA) 9,04 Gouden uren (TROS)"
+            },
+            {
+                "time": "12.04",
+                "program": "Tijd voor twee met Frits Spits (KRO)"
+            },
+            {
+                "time": "14.04",
+                "program": "Maat in de middag N(&V Een vrolijk muziekprogramma met de Raadplaat, de Soulshow Classic, de verjaardagskalender en veel shownieuws."
+            },
+            {
+                "time": "16.04",
+                "program": "Thuis op twee (AVRO)"
+            },
+            {
+                "time": "19.04",
+                "program": "De gouden greep (EO)"
+            },
+            {
+                "time": "20.04",
+                "program": "Theater van het sentiment (KRO) 12 oktober 1981 herleeft."
+            },
+            {
+                "time": "23.04",
+                "program": "Take it easy (EO)"
+            },
+            {
+                "time": "0.00",
+                "endtime": "6.00",
+                "program": "Als Radio 1"
+            }
+        ]
+    },
+    "RADIO 3": {
+        "special": "Nieuws (NOS) Elk heel uur",
+        "programs": [
+            {
+                "time": "6.04",
+                "program": "Evers staat op (KRO) Presentatie: Edwin Evers. Pyja- ma uit, Evers aan."
+            },
+            {
+                "time": "9.04",
+                "program": "Arbeidsvitaminen (AVRO) Met 0.a. 1. The boss, Braxtons. 2. Twilight zone, Golden Earring. 3. Sacrifice, Anouk. 4. Push it, Salt N Pepa. 5. One week, Barenaked Ladies. Dreamer, Supertramp. 7. Het is een nacht, Guus"
+            },
+            {
+                "time": "12.04",
+                "program": "Denk aan Henk (VARA)"
+            },
+            {
+                "time": "14.04",
+                "program": "Rob Stenders (VARA)"
+            },
+            {
+                "time": "16.04",
+                "program": "ruuddewild.nl (BNN/TROS)"
+            },
+            {
+                "time": "18.04",
+                "program": "Kort en Klijn (NPS)"
+            },
+            {
+                "time": "20.04",
+                "program": "Isabelle (NPS) Een eigenwijs programma met (onbekende) trendy muziek."
+            },
+            {
+                "time": "22.04",
+                "program": "Het lek (VPRO)"
+            },
+            {
+                "time": "1.02",
+                "program": "Kicken voor je kiezen (Radio 3)"
+            },
+            {
+                "time": "4.02",
+                "endtime": "6.00",
+                "program": "Pviama FM"
+            }
+        ]
+    },
+    "RADIO 4": {
+        "special": "",
+        "programs": [
+            {
+                "time": "0.00",
+                "program": "en"
+            },
+            {
+                "time": "7.05",
+                "program": "Vroeg op 4 (KRO) Dagelijks ochtendmagazine."
+            },
+            {
+                "time": "9.04",
+                "program": "Muziek voor miljoenen (TROS) 1. Ouverture Leichte Kavallerie, Von Suppé. 2. Lent/Dans un mouvement d'une Sarabande uit Images, Debussy. 3. Zigeuner- weisen opus 20, De Sarasate. 4. Divertissement à la Frangaise, Caplet. 5. Adagio molto uit het Nonet in Es opus 139, Rheinber- ger. Sicilienne, M. Theresia von Paradis. 7. Concert voor hobo en orkest nr. 1 in Ferlen- dis. Heinz Holliger, hobo. 8. Ma Ravel. 9. Concertou- verture In de herfst, Grieg."
+            },
+            {
+                "time": "10.30",
+                "program": "Ochtendconcert (Radio 4) 1. Suite nr. 3 BWV 1068, Bach. Radio Kamer Orkest Wil- lem van Otterloo. 2. De vier jaar- getijden, Vivaldi. Alberto Lysy, viool."
+            },
+            {
+                "time": "12.02",
+                "program": "Toppers van nu (AVRO) Portret en opnamen van dirigent Matthias Bamert in muziek van Mozart, Schubert, Sibelius, Van- hal, Field en Bach."
+            },
+            {
+                "time": "13.07",
+                "program": "Vissi d'arte (TROS) Afl: 2. Sopraan Gré Brouwenstijn zingt Richard Wagner. A. Tan- nhäuser. 1. Inleiding 2e akte en scène 1 en 2. 2. Fragment uit Der"
+            },
+            {
+                "time": "14.02",
+                "program": "Middagconcert (Radio 4} 1. Scherzo 2, Orthel. 2. Con- cert voor harp, Badings. Ellen Versney, harp. 3. Pacific 231, Honegger. 4. Symfonie nr. 1, Dutilleux, Ca."
+            },
+            {
+                "time": "15.30",
+                "program": "Thema (NPS) Nino Rota. (2/5) Hoewel hij ge- boren werd in 1911 en overleed in 1979 lijken alle ontwikkelin- gen in de muziek van onze tijd aan de componist Nino Rota voorbij te zijn gegaan. In de aflevering van vanavond Concerti per archi en zijn Concert voor piano en orkest in e."
+            },
+            {
+                "time": "16.34",
+                "program": "A 4 Presentatie: Lex Spitsuurprogramma met klassie- ke muziek-actualiteiten en aan- dacht voor nieuw uitgekomen cd's."
+            },
+            {
+                "time": "18.30",
+                "program": "De Nederlanden (VPRO)"
+            },
+            {
+                "time": "19.00",
+                "program": "Mr. Tune - Eric Coates (EO) Mr. Tune. Eric Coates. Hij wilde altviolist worden, maar de direc- teur van het conservatorium zag eerder een componist in hem; hij liet hem beide studierichtin- gen doen. Zo kreeg Engeland zijn grote zoon van de licht klas- sieke muziek: Eric Coates. In dit uur niet alleen aandacht voor de volkse Eric Coates, maar ook voor een onbekende schat: zijn liederen."
+            },
+            {
+                "time": "20.02",
+                "program": "Avondconcert (TROS) A. 1. Preludio Sinfonico in A, Puccini. 2. Le fuite en Egypte uit L'Enfance du Christ, Berlioz. 3. Messa di Gloria, Puccini. Radio Symfonie Orkest Alexander Rahbari. B. Werken van Mozart. 1. Serenade nr. 6 in D KV 239 ‘Serenata 2. Concert voor piano en orkest nr. 23 in A KV 488. 3. Symfonie nr. 38 in D KV 504 -Praagse-."
+            },
+            {
+                "time": "23.00",
+                "program": "Muziek van nu (KRO) Een gesprek met componist Klas Torstensson."
+            },
+            {
+                "time": "0.02",
+                "program": "Vincent na middernacht (NPS)"
+            },
+            {
+                "time": "1.02",
+                "endtime": "7.00",
+                "program": "Euroclassic (Radio 4) Nachtprogramma met opnamen van Europese omroepen. O.m. 1. Giocatore (3 intermezzi), Cherubini. 2. La Zingara (inter- mezzo in 2 delen), R. di Capua. I! Solisti di Bologna Rodolfo Bonucci."
+            }
+        ]
+    },
+    "RADIO 5": {
+        "special": "Nieuws (NOS) Elk heel uur t/m 18.00, 21.00, 22.00 en 0.00 uur",
+        "programs": [
+            {
+                "time": "6.02",
+                "program": "De gezamenlijke zenders Peazens & Moddergat (VPRO) Het historisch verband tussen pop en muziek."
+            },
+            {
+                "time": "7.05",
+                "program": "Pyjamapret (TELEAC/NOT)"
+            },
+            {
+                "time": "7.15",
+                "program": "Sportief (NOS)"
+            },
+            {
+                "time": "7.32",
+                "program": "Piek 5 (EO) Opiniërende actualiteit."
+            },
+            {
+                "time": "8.05",
+                "program": "Wereldnet (VPRO/NPS/RNW)"
+            },
+            {
+                "time": "8.54",
+                "program": "Snippers (IKON) Een wekelijks pro- gramma. Vandaag: ds. Judith van der Werf."
+            },
+            {
+                "time": "9.02",
+                "program": "De VPRO-ochtend van 5 (VPRO)"
+            },
+            {
+                "time": "9.02",
+                "program": "Landgenoten."
+            },
+            {
+                "time": "9.53",
+                "program": "Vrije gelui- den van de eeuw."
+            },
+            {
+                "time": "10.02",
+                "program": "De Plek."
+            },
+            {
+                "time": "11.02",
+                "program": "Café De Wetenschap."
+            },
+            {
+                "time": "12.02",
+                "program": "Debat op 5."
+            },
+            {
+                "time": "13.05",
+                "program": "De Radio 5-do- cumentaire. In de tijd van digitaal en hightech hebben we behoefte aan warmte en menselijkheid. Al was het maar van de hond of de kat."
+            },
+            {
+                "time": "13.45",
+                "program": "Muziek met een verhaal. Verteld door Han Reiziger."
+            },
+            {
+                "time": "14.02",
+                "program": "Vreemde verhalen. Programma over reizen en andere culturen. Met De Connectie. He- melse Modder: Bezoek aan cru- ciale plekken voor de Nederland- se Kerkgeschiedenis. On- gehoord: Reisverhalen. Stan van Houcke reisde twee weken door het Kaukasische Gori."
+            },
+            {
+                "time": "16.02",
+                "program": "Kleur bekennen (RVU) Martin Simek heeft een gesprek met vredesactiviste Annemie Ummels."
+            },
+            {
+                "time": "17.05",
+                "program": "Radio UIT (NPS)"
+            },
+            {
+                "time": "17.50",
+                "program": "D66 (PP)"
+            },
+            {
+                "time": "18.02",
+                "program": "BNN Jacuzzi (BNN) Themaprogramma over zaken die jongeren bezighouden."
+            },
+            {
+                "time": "19.00",
+                "program": "Nieuws en actualiteiten(NPS)"
+            },
+            {
+                "time": "19.00",
+                "program": "Turks."
+            },
+            {
+                "time": "19.45",
+                "program": "Marokkaans en Berbers."
+            },
+            {
+                "time": "20.30",
+                "program": "Chinees."
+            },
+            {
+                "time": "21.02",
+                "program": "Family Album USA (TELEAC/NOT)"
+            },
+            {
+                "time": "21.30",
+                "program": "Financieel Economisch Magazine: De weekstaat (157) (TELEAC/NOT)"
+            },
+            {
+                "time": "22.02",
+                "endtime": "0.00",
+                "program": "De avonden (VPRO) VPRO's dagelijkse Late Show. Met om"
+            },
+            {
+                "time": "22.03",
+                "program": "Music Hall. Om"
+            },
+            {
+                "time": "23.00",
+                "program": "Een interview."
+            },
+            {
+                "time": "23.40",
+                "program": "De pen, een sigaar uit eigen doos."
+            }
+        ]
+    },
+    "CONCERT": {
+        "special": "",
+        "programs": [
+            {
+                "time": "8.00",
+                "program": "Ochtendeditie."
+            },
+            {
+                "time": "10.10",
+                "program": "Nieuw klassiek. Werken Ch. Whitten- berg, E. London, R. Hoffmann, V. Thomson, A. van Noordt en Galuppi."
+            },
+            {
+                "time": "12.00",
+                "program": "Cantates en ande- re werken van Johan Sebastian Bach."
+            },
+            {
+                "time": "13.00",
+                "program": "An die Musik. Wer- ken van Poulenc."
+            },
+            {
+                "time": "14.00",
+                "program": "De hoor- bare ruimte."
+            },
+            {
+                "time": "14.25",
+                "program": "The sound of movies: Ralph Burns (2)."
+            },
+            {
+                "time": "16.00",
+                "program": "Door de mazen van het net."
+            },
+            {
+                "time": "17.00",
+                "program": "Nederlandse muziek."
+            },
+            {
+                "time": "1.00",
+                "program": "Jazzmuziek met om"
+            },
+            {
+                "time": "18.00",
+                "program": "Jazzactua."
+            },
+            {
+                "time": "19.00",
+                "program": "Spinning the blues."
+            },
+            {
+                "time": "20.00",
+                "program": "North Sea Jazz Fes- tival Gerald Wilson & de Big- band v/h Koninklijk Conservatori- um in Den Haag."
+            },
+            {
+                "time": "21.00",
+                "program": "Pays- BAS."
+            },
+            {
+                "time": "22.00",
+                "program": "Americana."
+            },
+            {
+                "time": "23.00",
+                "program": "Lüdeke Straightahead: New Heroes."
+            },
+            {
+                "time": "0.00",
+                "program": "Het grote geluid."
+            },
+            {
+                "time": "1.00",
+                "endtime": "8.00",
+                "program": "De nacht."
+            }
+        ]
+    }
+}

@@ -1,0 +1,598 @@
+{
+    "VRT": {
+        "special": "",
+        "programs": [
+            {
+                "time": "12.30",
+                "program": "Regio tv."
+            },
+            {
+                "time": "13.00",
+                "program": "Nieuws."
+            },
+            {
+                "time": "13.30",
+                "program": "Betrayed by innocen- ce. Drama, VS, 1986. Met Barry Bostwick e.a. Regie: Elliot Silverstein. 883151"
+            },
+            {
+                "time": "15.00",
+                "program": "If it's Tuesday, this must be Belgium. Satire, VS, 1969. Regie: Mel Stuart. 7510557"
+            },
+            {
+                "time": "16.35",
+                "program": "Hitkracht Muziek. 36007118"
+            },
+            {
+                "time": "16.45",
+                "program": "Due south & 3283002 Comedyserie, Cdn."
+            },
+            {
+                "time": "17.30",
+                "program": "Mad about you Comedyserie, VS. 670248 Aansi. verkeerstips."
+            },
+            {
+                "time": "18.00",
+                "program": "Journaal 856456"
+            },
+            {
+                "time": "18.10",
+                "program": "Vlaanderen vakantie- land 3 3786557 Toeristisch magazine."
+            },
+            {
+                "time": "19.00",
+                "program": "Nieuws en weer 906441 Joker/Lotto."
+            },
+            {
+                "time": "19.40",
+                "program": "Hitkracht Muziek. 3 8683538"
+            },
+            {
+                "time": "20.15",
+                "program": "Niet vergeten Spel. 631034"
+            },
+            {
+                "time": "20.50",
+                "program": "Boerenkrijg (5) Comedyserie. Lafayette en zijn soldaten hebben prui- men gepikt. 238847"
+            },
+            {
+                "time": "21.20",
+                "program": "Schemes Thriller, VS, 1995. Met James McCaffrey e.a. Regie: Derek Westervelt. Paul Ste- wart is een succesvolle, rijke architect in het Californische Newport Beach. Hij ontvangt een enorme erfenis van zijn overleden vrouw Beth. Kort daarop ontmoet hij Laura. Ze beginnen een romance. 9090625 KENO."
+            },
+            {
+                "time": "22.55",
+                "program": "Nieuws 2675267"
+            },
+            {
+                "time": "23.30",
+                "program": "Desperado Western, VS, 1995. Met Antonio Banderas, Steve Buscemi e.a. Regie: Robert Rodriguez. 3 9758731"
+            },
+            {
+                "time": "1.09",
+                "endtime": "8.00",
+                "program": "Nieuws"
+            }
+        ]
+    },
+    "null": {
+        "special": "",
+        "programs": [
+            {
+                "time": "9.00",
+                "program": "Ochtendtv."
+            },
+            {
+                "time": "11.15",
+                "program": "Turner et Suisse."
+            },
+            {
+                "time": "12.00",
+                "program": "Miliésimes."
+            },
+            {
+                "time": "12.20",
+                "program": "La clef des champs."
+            },
+            {
+                "time": "12.50",
+                "program": "Nieuws."
+            },
+            {
+                "time": "13.25",
+                "program": "13.55 Javas."
+            },
+            {
+                "time": "14.05",
+                "program": "Strip-tease. 15,10 Le siècle des hommes."
+            },
+            {
+                "time": "16.00",
+                "program": "Papa, maman et moi."
+            },
+            {
+                "time": "16.35",
+                "program": "Télécinéma."
+            },
+            {
+                "time": "17.15",
+                "program": "pas sorcier."
+            },
+            {
+                "time": "17.45",
+                "program": "Contacts. D"
+            },
+            {
+                "time": "17.50",
+                "program": "Stargate."
+            },
+            {
+                "time": "18.40",
+                "program": "Génies en herbe. Spel."
+            },
+            {
+                "time": "19.15",
+                "program": "Joker en Lot- to."
+            },
+            {
+                "time": "19.25",
+                "program": "30 ans déjà. Archief- beelden."
+            },
+            {
+                "time": "19.30",
+                "program": "Nieuws."
+            },
+            {
+                "time": "20.10",
+                "program": "BingoVision. Spel."
+            },
+            {
+                "time": "20.45",
+                "program": "Little Buddha. Drama, USA/GB, 1993. O"
+            },
+            {
+                "time": "23.05",
+                "program": "Javas."
+            },
+            {
+                "time": "23.20",
+                "program": "La Croisette s'amuse."
+            },
+            {
+                "time": "0.10",
+                "program": "Nieuws."
+            },
+            {
+                "time": "4.00",
+                "program": "Ochtendtv."
+            },
+            {
+                "time": "10.00",
+                "program": "Nieuws."
+            },
+            {
+                "time": "10.15",
+                "program": "Génies en herbe."
+            },
+            {
+                "time": "11.05",
+                "program": "Outremers."
+            },
+            {
+                "time": "12.05",
+                "program": "Images de pub."
+            },
+            {
+                "time": "12.20",
+                "program": "France feeling."
+            },
+            {
+                "time": "12.30",
+                "program": "Frans nieuws."
+            },
+            {
+                "time": "13.05",
+                "program": "Reflets. Nieuws."
+            },
+            {
+                "time": "14.15",
+                "program": "Bouillon de culture. Literair magazine."
+            },
+            {
+                "time": "15.30",
+                "program": "Les inventions de vie (18/39)."
+            },
+            {
+                "time": "16.00",
+                "program": "Nieuws."
+            },
+            {
+                "time": "16.15",
+                "program": "Questions."
+            },
+            {
+                "time": "16.30",
+                "program": "Sport Africa."
+            },
+            {
+                "time": "17.05",
+                "program": "Pyrami- de."
+            },
+            {
+                "time": "17.30",
+                "program": "Questions pour un champion."
+            },
+            {
+                "time": "18.00",
+                "program": "Nieuws."
+            },
+            {
+                "time": "18.15",
+                "program": "Des racines et des ailes."
+            },
+            {
+                "time": "20.00",
+                "program": "Belgisch nieuws."
+            },
+            {
+                "time": "20.30",
+                "program": "Frans nieuws."
+            },
+            {
+                "time": "21.05",
+                "program": "Thalassa."
+            },
+            {
+                "time": "22.00",
+                "program": "Nieuws."
+            },
+            {
+                "time": "22.15",
+                "program": "Envoyé spécial. Magazine."
+            },
+            {
+                "time": "0.00",
+                "program": "Zwitsers nieuws."
+            },
+            {
+                "time": "0.30",
+                "program": "Soir 3."
+            },
+            {
+                "time": "1.00",
+                "program": "Nachttv."
+            },
+            {
+                "time": "8.00",
+                "program": "Eek! the cat."
+            },
+            {
+                "time": "8.10",
+                "program": "The pet shop. [H]"
+            },
+            {
+                "time": "8.20",
+                "program": "Hero turtles: The next muta- tion."
+            },
+            {
+                "time": "8.40",
+                "program": "The real ad- ventures of Jonny Quest."
+            },
+            {
+                "time": "9.05",
+                "program": "The Flintstones."
+            },
+            {
+                "time": "9.30",
+                "program": "The new adventures of Superman."
+            },
+            {
+                "time": "10.15",
+                "program": "Live and kicking."
+            },
+            {
+                "time": "13.10",
+                "program": "Nieuws."
+            },
+            {
+                "time": "13.15",
+                "program": "Grandstand. Met om:"
+            },
+            {
+                "time": "13.20",
+                "program": "focus, voetbalmagazine met Pre- miership-voetbal en Euro 2000;"
+            },
+            {
+                "time": "14.20",
+                "program": "Judo, WK in"
+            },
+            {
+                "time": "14.50",
+                "program": "Paarden- koersen vanaf Ascot, starts om"
+            },
+            {
+                "time": "16.00",
+                "program": "en"
+            },
+            {
+                "time": "15.10",
+                "program": "Wielrennen, WK wegracen in Treviso"
+            },
+            {
+                "time": "15.25",
+                "program": "Paardenkoersen, ver- volg;"
+            },
+            {
+                "time": "15.40",
+                "program": "Atletiek, Great North Run voor junioren;"
+            },
+            {
+                "time": "15.55",
+                "program": "Paardenkoersen, ver- volg;"
+            },
+            {
+                "time": "16.10",
+                "program": "Boksen;"
+            },
+            {
+                "time": "16.45",
+                "program": "Football half-times, ruststan- den;"
+            },
+            {
+                "time": "16.55",
+                "program": "Boksen;"
+            },
+            {
+                "time": "17.40",
+                "program": "Final score. N.B.: Program- mering onder voorbehoud."
+            },
+            {
+                "time": "18.10",
+                "program": "Nieuws T & 78560847"
+            },
+            {
+                "time": "18.20",
+                "program": "Regionaal nieuws 73243644"
+            },
+            {
+                "time": "18.30",
+                "program": "Auntie’s bloomers Amusement. 25444286"
+            },
+            {
+                "time": "18.45",
+                "program": "The hidden camera show Amusement. 73228408"
+            },
+            {
+                "time": "19.15",
+                "program": "Jim Davidson’s generation game Spel. 11874267"
+            },
+            {
+                "time": "20.15",
+                "program": "Blankety biank Quiz. 94790460"
+            },
+            {
+                "time": "20.45",
+                "program": "The national lottery stars 44342828 Loterijtrekking."
+            },
+            {
+                "time": "21.05",
+                "program": "Casualty Ziekenhuisserie, GB. Adams plannen weer in de verple- ging te gaan werken stuit op protesten uit onverwachte hoek. 35810557"
+            },
+            {
+                "time": "21.55",
+                "program": "Airport Reportageserie. Jeremy Spake heeft te kampen met overgewicht. & 28645712"
+            },
+            {
+                "time": "22.25",
+                "program": "Roger Roger Comedyserie, GB. 21735460"
+            },
+            {
+                "time": "23.15",
+                "program": "Nieuws & 24839002"
+            },
+            {
+                "time": "23.30",
+                "program": "Lock up Drama, VS, 1989. Met Kurek Ashley, Sylvester Stallone, Michael Petroni e.a. Regie: John Flynn. &) 74472002"
+            },
+            {
+                "time": "1.15",
+                "program": "The rape of Dr. Willis. Drama, VS, 1991. Met Jaclyn Smith e.a. Regie: Lou Anto- nio. 76515213"
+            },
+            {
+                "time": "2.45",
+                "program": "A question of sport."
+            },
+            {
+                "time": "3.15",
+                "program": "Top of the pops. E"
+            },
+            {
+                "time": "3.45",
+                "endtime": "7.55",
+                "program": "BBC News 24."
+            },
+            {
+                "time": "7.30",
+                "program": "They passed this way. Wes- tern,VS, 1948. 10403373"
+            },
+            {
+                "time": "9.00",
+                "program": "Weekend 24."
+            },
+            {
+                "time": "10.00",
+                "program": "Asia 2: Mandjhar."
+            },
+            {
+                "time": "10.30",
+                "program": "Cafe 21."
+            },
+            {
+                "time": "11.00",
+                "program": "Network East."
+            },
+            {
+                "time": "11.50",
+                "program": "See hear on Saturday."
+            },
+            {
+                "time": "12.35",
+                "program": "on Two."
+            },
+            {
+                "time": "13.05",
+                "program": "Madame X. Drama, VS, 1966. @ 93258422"
+            },
+            {
+                "time": "14.45",
+                "program": "Imitation of life. Drama, VS, 1959. & 53068731"
+            },
+            {
+                "time": "16.45",
+                "program": "The Virginian."
+            },
+            {
+                "time": "18.00",
+                "program": "TOTP 2 29380489 Muziekprogramma. D"
+            },
+            {
+                "time": "18.45",
+                "program": "Net Aid & 99501538 Muzikaal amusementspro- gramma ten behoeve van een goed doel. M.m.v. 0.a. Bono, Wyclef Jean, George Michael en David Bowie. 198.25 What the papers say Overzicht. 65941354"
+            },
+            {
+                "time": "19.35",
+                "program": "Nieuws 89353354"
+            },
+            {
+                "time": "19.50",
+                "program": "Correspondent Reportages. In schril con- trast met de babyschaarste in worden er in India iedere minuut 33 ge- boren. & 74171460"
+            },
+            {
+                "time": "20.35",
+                "program": "The history zone: The house detectives Reportageserie over de ver- borgen geheimen van oude huizen. 82676064"
+            },
+            {
+                "time": "21.05",
+                "program": "War of century Documentaireserie over het verloop van de oorlog tus- sen Duitsland en de Sovjet Unie. D"
+            },
+            {
+                "time": "21.55",
+                "program": "Python night Aankondiging van een avondvullend programma t.g.v. de 30ste verjaardag van Monty Python's Flying Circus. 23328977"
+            },
+            {
+                "time": "22.00",
+                "program": "the Monty Python story Documentaire over de Py- thon-humor. & 77433373"
+            },
+            {
+                "time": "22.50",
+                "program": "Monty Python night Humor. & 52449489"
+            },
+            {
+                "time": "22.55",
+                "program": "Pythonland Documentaire. 24816151"
+            },
+            {
+                "time": "23.10",
+                "program": "Monty Python: The Grumbys sketches Sketches. & 97515793"
+            },
+            {
+                "time": "23.15",
+                "program": "Monthy life of Brian Komedie, GB, 1979. Met Graham Chapman, John Cleese, Terry e.a. Regie: Terry Jones. Brian wordt door drie niet al te wijze mannen gezien als de Messias. & 92755996"
+            },
+            {
+                "time": "0.50",
+                "program": "Lost Python."
+            },
+            {
+                "time": "1.00",
+                "program": "From spam to sperm - Monty Python's greatest hits."
+            },
+            {
+                "time": "1.30",
+                "program": "Python night."
+            },
+            {
+                "time": "1.35",
+                "program": "Net Aid."
+            },
+            {
+                "time": "4.00",
+                "program": "BBC Learning zone."
+            }
+        ]
+    },
+    "KETNET": {
+        "special": "",
+        "programs": [
+            {
+                "time": "11.00",
+                "endtime": "13.00",
+                "program": "Wielrennen. Recht- streeks: WK, junioren."
+            },
+            {
+                "time": "15.20",
+                "program": "Rechtstreeks: WK, elite dames. 8707644"
+            },
+            {
+                "time": "17.30",
+                "program": "Judo. Rechtstreeks: WK. N.B.: Onder voorbe- houd, finale mogelijk tot"
+            },
+            {
+                "time": "18.00",
+                "program": "316083"
+            },
+            {
+                "time": "19.00",
+                "program": "Ket & Co 322064"
+            },
+            {
+                "time": "19.05",
+                "program": "Shadow raiders Tekenfilmserie. 578880"
+            },
+            {
+                "time": "19.30",
+                "program": "Ket & Co & 983199"
+            },
+            {
+                "time": "19.35",
+                "program": "Teen angel Comedyserie, VS. Marty heeft een foutje gemaakt waardoor Pam, Judy en Katie verliefd worden op Nitzke, de rijleraar van Steve. 424880"
+            },
+            {
+                "time": "19.55",
+                "program": "Ket & Co & 7193151"
+            }
+        ]
+    },
+    "CANVAS": {
+        "special": "",
+        "programs": [
+            {
+                "time": "20.00",
+                "program": "Journaal 724828"
+            },
+            {
+                "time": "20.30",
+                "program": "Zinzen & 723199 Interview met een politicus over de actualiteiten."
+            },
+            {
+                "time": "21.00",
+                "program": "A touch of Frost Politieserie, GB. Frost krijgt te maken met een ontvoe- ringszaak. Pauline Venables is niet teruggekomen van een middagje winkelen. Haar zus, met wie ze samen- woont, heeft een brief ont- vangen waarin een bedrag van 30.000 pond wordt geëist. 8! 6585052"
+            },
+            {
+                "time": "22.45",
+                "program": "Het peulengaleis Sketches. [H] 1045151"
+            },
+            {
+                "time": "23.15",
+                "program": "& 9224248 Samenvatting van de WK."
+            },
+            {
+                "time": "23.35",
+                "program": "Plankenkoorts 1964 Docudrama. Gebaseerd op de Victoria-theaterproductie Bernadetje van Alain Platel."
+            },
+            {
+                "time": "0.30",
+                "endtime": "2.00",
+                "program": "Zinzen H"
+            }
+        ]
+    }
+}

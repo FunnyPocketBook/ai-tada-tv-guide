@@ -1,0 +1,418 @@
+{
+    "RADIO 1": {
+        "special": "Nieuws (NOS) Elk uur en om 6.30, 7.30, 8.30, 12.30, 13.30, 16.30, 17.30 en 18.30",
+        "programs": [
+            {
+                "time": "7.07",
+                "program": "De andere wereld van zondagmorgen (IKON) Vertragende journalistiek."
+            },
+            {
+                "time": "8.10",
+                "program": "Vroege vogels (VARA)"
+            },
+            {
+                "time": "10.04",
+                "program": "O.V.T. (VPRO) Een programma over de onvol- tooid verleden tijd, met discus- sies, reportages en ooggetuigen- verslagen. Om"
+            },
+            {
+                "time": "10.05",
+                "program": "De column van André van der Louw die te- rugkijkt op zijn ervaringen in de tweede helft van deze eeuw: 6: Rood met een witte rand. Met om"
+            },
+            {
+                "time": "11.15",
+                "program": "de Spoor terugserie De gedroomde eeuw: 100 jaar idealen en illusies. Deel 41: 'Ik ben een Europeaan'."
+            },
+            {
+                "time": "12.07",
+                "program": "(NOS)"
+            },
+            {
+                "time": "14.04",
+                "program": "Langs de Lijn (NOS)"
+            },
+            {
+                "time": "18.10",
+                "program": "Avondjournaal (NOS)"
+            },
+            {
+                "time": "19.04",
+                "program": "Forum (TROS) Discussieprogramma."
+            },
+            {
+                "time": "20.04",
+                "program": "Wegwezen (TROS) Programma over toerisme en vrijetijdsbesteding."
+            },
+            {
+                "time": "21.04",
+                "program": "Radio online (TROS) Digitale ontwikkelingen en de mensen die zich daarmee bezig- houden."
+            },
+            {
+                "time": "22.04",
+                "program": "‘t Hek van de dam (NOS)"
+            },
+            {
+                "time": "23.07",
+                "program": "Met het oog op morgen (NOS)"
+            },
+            {
+                "time": "0.04",
+                "program": "Volgspot N(&V Theater, film of kleinkunst."
+            },
+            {
+                "time": "1.02",
+                "program": "NachtLicht N(&V Met Jelie Koolstra en een beetje met Simon. Om"
+            },
+            {
+                "time": "1.30",
+                "program": "Het eigen verhaaltje van Simon."
+            },
+            {
+                "time": "2.30",
+                "program": "Het actuele verhaal van de corre- spondent aan de andere kant van de wereld."
+            },
+            {
+                "time": "3.30",
+                "program": "Een fabe! om in te geloven door Ron van Es."
+            },
+            {
+                "time": "4.02",
+                "endtime": "6.00",
+                "program": "NachtLicht op weg naar daglicht Met Annemiek Schrijver en bij- dragen van Ron van Es. Om"
+            },
+            {
+                "time": "5.30",
+                "program": "Wat heeft u op uw brood? Bijdragen zijn welkom op 0800- 1121 of www.ncrv.nl/nachtlicht. m"
+            }
+        ]
+    },
+    "RADIO 2": {
+        "special": "Nieuws (NOS) Elk heel uur. Dag zondag (NPS) 9.04 De sandwich (NPS) 10.04 Mezzo (AVRO) 11.04 De sandwich (NPS) 12.04 Adres onbekend (KRO) Zoektochten naar uit het oog verloren familie, vrienden en bekenden",
+        "programs": [
+            {
+                "time": "14.04",
+                "program": "Het steenen tijdperk (AVRO)"
+            },
+            {
+                "time": "16.04",
+                "program": "Weekendcafé (AVRO) Live entertainment. Stamgast is Marijke van Wijnkoop, casting- director bij Joop v/d Ende."
+            },
+            {
+                "time": "18.04",
+                "program": "De bovenste (VARA)"
+            },
+            {
+                "time": "19.04",
+                "program": "Uitgelicht (VARA)"
+            },
+            {
+                "time": "20.04",
+                "program": "KRO's Country time (KRO)"
+            },
+            {
+                "time": "21.04",
+                "program": "Toppers van toen (AVRO) Amusementsmuziek van voor 1955."
+            },
+            {
+                "time": "22.04",
+                "program": "Podium (NPS)"
+            },
+            {
+                "time": "23.04",
+                "program": "The bands (NPS) Sandvika Stroband Birger Carlsen."
+            },
+            {
+                "time": "0.00",
+                "endtime": "6.00",
+                "program": "Als Radio 1"
+            }
+        ]
+    },
+    "RADIO 3": {
+        "special": "Nieuws (NOS) Elk heel uur",
+        "programs": [
+            {
+                "time": "6.04",
+                "program": "EKDOM! (Radio 3)"
+            },
+            {
+                "time": "10.04",
+                "program": "Zondagskint (VARA)"
+            },
+            {
+                "time": "12.04",
+                "program": "Cyber Top-50 (TROS)"
+            },
+            {
+                "time": "16.04",
+                "program": "Ruud de Wild in het Weekend (BNN) De radioshow."
+            },
+            {
+                "time": "18.04",
+                "program": "BuZz N(&V Magazine waarin jongeren zich blootgeven, kwaad maken en kansen grijpen."
+            },
+            {
+                "time": "20.04",
+                "program": "X-lon (EO)"
+            },
+            {
+                "time": "22.04",
+                "program": "(EO) Interview met Sixpence none the richer."
+            },
+            {
+                "time": "0.02",
+                "program": "N-Joy (EO) Interview met Gospel Gangstas."
+            },
+            {
+                "time": "1.02",
+                "program": "Nachtclub (Radio 3)"
+            },
+            {
+                "time": "4.02",
+                "endtime": "6.00",
+                "program": "Pyjama FM (AVRO/KRO)"
+            }
+        ]
+    },
+    "RADIO 4": {
+        "special": "",
+        "programs": [
+            {
+                "time": "0.00",
+                "program": "en"
+            },
+            {
+                "time": "7.02",
+                "program": "Vroeg op vier N(&V 1. Orkestsuite nr. 1 in C BWV 1066, Bach. 2. Tien variaties over het duet La stessa, la stes- sissima uit Salieri's Falstaff Woo 73, Beethoven. 3. Sonate ina D 821 (Arpeggione), Schubert/Bew. J. en C. Gunning. 4. Psalm 92 D 953 (Lied für den Sabbath), Schubert. 5. Deuxie- me étude sumphonique: Hamlet en Ophélie, Lekeu."
+            },
+            {
+                "time": "8.30",
+                "program": "Oren wassen (VPRO) In een mop, melodie of muziek- fragment zit een dier verborgen, raad welke en win een prijs. Gaste is Anneke Hogenstijn."
+            },
+            {
+                "time": "9.04",
+                "program": "Pezzi sacri (TROS) 1. Dominus regnavit, Mayr. 2. Cantate Ich den Kreuzstab gerne tragen BWV 56, Bach. Die- trich Fischer-Dieskau, bas. Manf- red Clement, hobo. 3. Kyrie, Gloria, Credo en Sanctus uit Mis in Es D 950, Schubert."
+            },
+            {
+                "time": "10.04",
+                "program": "Caroline (AVRO) Populair-klassiek cd-programma gelardeerd met pianovariaties."
+            },
+            {
+                "time": "11.00",
+                "program": "Het zondagochtendconcert (AVRO) 1. Unser Leben ist ein Schatten, J. Bach. 2. Ach bleib bei uns, Herr Jesu Christ, J.M. Bach. 3. Meine Freundin, du bist schön, J.C. Bach. 4. Liebster Jesu, hör mein Flehen, J.M. Bach. Sin- get dem Herrn ein neues Lies BWV 225, Bach. Aansi. 'n Uurtje opera (AVRO) Aandacht voor de Amerikaanse"
+            },
+            {
+                "time": "13.02",
+                "program": "Klassiekenzo (AVRO) Jongerenmagazine."
+            },
+            {
+                "time": "14.04",
+                "program": "Middagconcert (Radio 4) 1. Serenata notturna, Mozart. 2. Concert voor piano en orkest nr. 4, Beethoven. 3. Symfonie nr. 4, Tsjaikovsky. Rechtstreeks vanuit De Doelen in Rotterdam."
+            },
+            {
+                "time": "16.30",
+                "program": "Diskotabel (NPS)"
+            },
+            {
+                "time": "18.04",
+                "program": "Zin in muziek (KRO) 1. Divertimento, M. Arnold. Kees Rongen, klarinet. 2. Le spectre de la rose, Berlioz. Orchestre de Paris Daniel Barenboim. 3. Obsession, M. Shinohara. Cyriel Cober, hobo. 4. La création du monde, Milhaud. London nietta Simon Rattle"
+            },
+            {
+                "time": "19.00",
+                "program": "Jacco's keus (AVRO) Muziek uit de wereld van operet- te en musical."
+            },
+            {
+                "time": "20.02",
+                "program": "Muziek interaktief De klassieke top 10, suggesties voor de top 10 en nieuwe cd's. Met om"
+            },
+            {
+                "time": "20.02",
+                "program": "uur verzoeken van luisteraars."
+            },
+            {
+                "time": "22.00",
+                "program": "Laudate (KRO) van Gibbons, Josquin, Gabrieli, Di Lasso, Schütz en Leighton door Henry's Eight."
+            },
+            {
+                "time": "23.00",
+                "program": "VPRO Jazz op vier (VPRO) Vanavond: Boeren!, het kwartet van trompettist Eric Boeren."
+            },
+            {
+                "time": "0.02",
+                "program": "Vincent na middernacht (NPS)"
+            },
+            {
+                "time": "1.02",
+                "endtime": "7.00",
+                "program": "Euroclassic Notturno (Radio 4) O.m. de Reauiemmis van Verdi."
+            }
+        ]
+    },
+    "RADIO 5": {
+        "special": "Nieuws Elk uur 18.00 en om 20.00, 22.00 en 0.00",
+        "programs": [
+            {
+                "time": "6.02",
+                "program": "Praise op zondag (EO) Praisemuziek."
+            },
+            {
+                "time": "7.30",
+                "program": "Licht op jongerenkoren (EO) Muziek & informatie van en voor jongerenkoren."
+            },
+            {
+                "time": "8.05",
+                "program": "Groot nieuws (EO) Programma met veel gewijde muziek en om ongeveer"
+            },
+            {
+                "time": "8.25",
+                "program": "een overdenking door G.H. Kra- mer uit Brunssum n.a.v. Jesaja 6:1-8.1."
+            },
+            {
+                "time": "8.59",
+                "program": "EO Metterdaad (EO)"
+            },
+            {
+                "time": "9.02",
+                "program": "Woord op zondag N(&V ‘t Is een vreemd'ling zeker Ds. Sytze de Vries uit Amster- dam over: Voortaan helderzien- de m.m.v. de Sweelinckcantorij van de Oude Kerk in Amsterdam Christiaan Winter. Organist: Willem Vogel. Gezang 484: Waarom moest ik uw stem ver- staan. Schriftlezing: Genesis 11: 39-12: 9. Gezang 3: 2, 3, 6 Uit Oer is hij getogen. Gezang Mensen wij zijn geroepen om te leven."
+            },
+            {
+                "time": "9.30",
+                "program": "Te deum laudamus N(&V"
+            },
+            {
+                "time": "10.00",
+                "program": "Verhalen voorat (IKON)"
+            },
+            {
+                "time": "10.10",
+                "program": "Kerkdienst (IKON) Van de Remonstrantse Gemeen- te in Groningen. Voorganger: ds. Els van Steenis."
+            },
+            {
+                "time": "10.58",
+                "program": "Wilde Ganzen (IKON)"
+            },
+            {
+                "time": "11.02",
+                "program": "Eucharistieviering (RKK/KRO) Vanuit de kerk van de parochie HH. Marcellinus en Petrus in Geleen."
+            },
+            {
+                "time": "12.05",
+                "program": "Het klooster (RKK/KRO) In het klooster krijgen mensen en meningen een gezicht. Afl.: Jezus' vrouwen."
+            },
+            {
+                "time": "13.02",
+                "program": "De andere wereld van zondagmiddag (IKON) Vertragende journalistiek."
+            },
+            {
+                "time": "15.02",
+                "program": "en spiritualiteit (OHM) Is het waar dat de informatie-ex- plosie een averechts effect heeft op de sprituele praktijk. Hoe is dit te verklaren?"
+            },
+            {
+                "time": "16.02",
+                "program": "Schepper & Co Actueel, informatief en muzikaal magazine."
+            },
+            {
+                "time": "17.02",
+                "program": "Kerkdienst (IKON) Zie linkerpagina"
+            },
+            {
+                "time": "17.58",
+                "program": "Wilde Ganzen (IKON)"
+            },
+            {
+                "time": "18.02",
+                "program": "De andere wereld van zondagavond (IKON) Over cultuur, godsdienst en mu- ziek. Met: Bonnefooi (IKON) De eigen zinnigheid (IKON)"
+            },
+            {
+                "time": "20.02",
+                "program": "De muzikale fruitmand (EO) Verzoekprogramma."
+            },
+            {
+                "time": "20.45",
+                "program": "Ik zou wel eens willen weten (EO)"
+            },
+            {
+                "time": "21.15",
+                "program": "Populaire orgelbespeling (EO) Jaap Zwart jr. speelt werken van J.S. Bach op het orgel van de Domkerk te Utrecht. Afl.18: Een plaatsbekledend offerlam. Lezen: Genesis 22: 1-19."
+            },
+            {
+                "time": "22.02",
+                "program": "Bijbel vandaag (EO) Afl: Jezus: bij hoog en bij laag: Kuitert tegenover Van de Beek."
+            },
+            {
+                "time": "22.20",
+                "program": "Songs of praise (EO)"
+            },
+            {
+                "time": "22.40",
+                "program": "Cascade (EO)"
+            },
+            {
+                "time": "23.15",
+                "endtime": "0.00",
+                "program": "Zondagavonduur (EO)"
+            }
+        ]
+    },
+    "null": {
+        "special": "",
+        "programs": [
+            {
+                "time": "8.30",
+                "program": "Uitslapen of luisteren? Wer- ken van F.C. de Arauxo, Jeanne Demessieux en Duruflé."
+            },
+            {
+                "time": "9.00",
+                "program": "De ruimte."
+            },
+            {
+                "time": "10.00",
+                "program": "De diva op de erwt."
+            },
+            {
+                "time": "12.00",
+                "program": "Concertopnamen. Werken van P. Schat en T. Riley."
+            },
+            {
+                "time": "13.25",
+                "program": "Concertgebouwnieuws."
+            },
+            {
+                "time": "13.30",
+                "program": "Historische opnamen. Werken van Brahms en Schumann."
+            },
+            {
+                "time": "15.00",
+                "program": "Volksmuziek."
+            },
+            {
+                "time": "16.00",
+                "program": "Dijkstal - Off the record."
+            },
+            {
+                "time": "17.00",
+                "program": "Grasduinen in jazzarchieven."
+            },
+            {
+                "time": "18.00",
+                "program": "Het paleis van de weemoed."
+            },
+            {
+                "time": "19.00",
+                "endtime": "23.00",
+                "program": "Opera, met om"
+            },
+            {
+                "time": "19.00",
+                "program": "Opera op zondag. Le prophète, opera van Meyerbeer. Ambrosian Opera Chorus. Boys Choir Haberdas- hers' Aske's School o.l.v. Allan Taylor. Royal Philharmonic Or- chestra Henry Lewis met sol."
+            },
+            {
+                "time": "23.00",
+                "program": "Binnenkort op deze zender."
+            },
+            {
+                "time": "8.00",
+                "program": "De nacht."
+            }
+        ]
+    }
+}

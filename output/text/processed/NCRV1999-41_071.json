@@ -1,0 +1,430 @@
+{
+    "RADIO 1": {
+        "special": "Nieuws (NOS) Elk heel uur en om 6.30, 7.30, 8.30, 12.30, 13.30, 17.30 en 18.30 en om 16.30 Radio Beursnieuws",
+        "programs": [
+            {
+                "time": "6.06",
+                "program": "Ochtendjournaal (NOS)"
+            },
+            {
+                "time": "9.04",
+                "program": "De EO op 1 (EO) Achtergronden, discussies en actualiteiten. Met om:"
+            },
+            {
+                "time": "9.04",
+                "program": "Pittig gesprek."
+            },
+            {
+                "time": "10.04",
+                "program": "Buitenland."
+            },
+            {
+                "time": "11.04",
+                "program": "Research."
+            },
+            {
+                "time": "12.07",
+                "program": "Middagjournaal (NOS)"
+            },
+            {
+                "time": "13.33",
+                "program": "De EO op 1 (EO) Achtergronden, discussies en actualiteiten. Met om:"
+            },
+            {
+                "time": "13.33",
+                "program": "Bin- nenlandreportage."
+            },
+            {
+                "time": "14.04",
+                "program": "Econo- mie/Magazine."
+            },
+            {
+                "time": "15.04",
+                "program": "Debat."
+            },
+            {
+                "time": "16.04",
+                "program": "Cultuur en Media."
+            },
+            {
+                "time": "17.07",
+                "program": "Avondjournaal (NOS)"
+            },
+            {
+                "time": "19.04",
+                "program": "Hier en nu Praatradio N(&V"
+            },
+            {
+                "time": "20.04",
+                "program": "Hier en nu Den Haag N(&V Sjors Fröhlich spreekt live vanuit Perscentrum Nieuwspoort met politici over de actualiteit."
+            },
+            {
+                "time": "22.04",
+                "program": "Langs de lijn (NOS)"
+            },
+            {
+                "time": "23.07",
+                "program": "Met het oog op morgen (NOS)"
+            },
+            {
+                "time": "0.04",
+                "program": "For the record (VARA)"
+            },
+            {
+                "time": "2.02",
+                "program": "Geen (VARA)"
+            },
+            {
+                "time": "4.02",
+                "endtime": "6.00",
+                "program": "Ochtendhumeur (VARA)"
+            }
+        ]
+    },
+    "RADIO 2": {
+        "special": "Nieuws (NOS) Elk uur",
+        "programs": [
+            {
+                "time": "6.04",
+                "program": "Ontbijtradio (VARA)"
+            },
+            {
+                "time": "9.04",
+                "program": "Gouden uren (TROS)"
+            },
+            {
+                "time": "12.04",
+                "program": "Tijd voor twee (KRO)"
+            },
+            {
+                "time": "14.04",
+                "program": "Maat in de middag N(&V Een vrolijk muziekprogramma met de Raadplaat, de Soulshow Classic, de verjaardagskalender en veel shownieuws. Live op in- ternet te zien en te beluisteren."
+            },
+            {
+                "time": "16.04",
+                "program": "Thuis op twee (AVRO)"
+            },
+            {
+                "time": "19.04",
+                "program": "De gouden greep (EO)"
+            },
+            {
+                "time": "20.04",
+                "program": "Theater van het sentiment (KRO) 14 oktober 1965 herleeft."
+            },
+            {
+                "time": "23.04",
+                "program": "Take it easy (EO) Sfeervolle muziek."
+            },
+            {
+                "time": "0.00",
+                "endtime": "6.00",
+                "program": "Als Radio 1"
+            }
+        ]
+    },
+    "RADIO 3": {
+        "special": "Nieuws (NOS) Elk heel uur",
+        "programs": [
+            {
+                "time": "6.04",
+                "program": "Evers staat op (KRO) Presentatie: Edwin Evers."
+            },
+            {
+                "time": "9.04",
+                "program": "Arbeidsvitaminen (AVRO) Met 1. Don't stop till you get enough, Michael Jackson. 2. Banger hart, Rob de Nijs. 3. Glamour boys, Living Colour. 4. Perfect day, Various Artists. 5. Let's stick together, Bryan Ferry. 6. Where are you, Imaani. 7. Oh pretty woman, Roy Orbison. 8. Get here, Oleta Adams, 9. My best friend, Loïs Lane. 10. Mam- bo no. 5, Lou Bega. 11. Hey stoopid, Alice Cooper. 12. Unbe- lievable, EMF. 13. We're going to Ibiza, Vengaboys. 14. When the lady smiles, Golden Earring. 15. Save the best for last, Vanessa Williams. 16. Bamboleo, Gipsy"
+            },
+            {
+                "time": "12.04",
+                "program": "Denk aan Henk (VARA)"
+            },
+            {
+                "time": "14.04",
+                "program": "Rob Stenders (VARA)"
+            },
+            {
+                "time": "16.04",
+                "program": "ruuddewild.nl (BNN/TROS)"
+            },
+            {
+                "time": "18.04",
+                "program": "Kort en Klijn (NPS)"
+            },
+            {
+                "time": "20.04",
+                "program": "(NPS) Met (onbekende) trendy muziek."
+            },
+            {
+                "time": "22.04",
+                "program": "Het lek (VPRO)"
+            },
+            {
+                "time": "1.02",
+                "program": "Kicken voor je kiezen {Radio 3)"
+            },
+            {
+                "time": "4.02",
+                "endtime": "6.00",
+                "program": "Pyjama FM (AVRO/KRO) Een nachtelijk muziekprogram- ma met nieuw radiotalent."
+            }
+        ]
+    },
+    "RADIO 4": {
+        "special": "",
+        "programs": [
+            {
+                "time": "0.00",
+                "program": "en"
+            },
+            {
+                "time": "7.05",
+                "program": "Vroeg op 4 (KRO) Dagelijks ochtendmagazine."
+            },
+            {
+                "time": "9.04",
+                "program": "Muziek voor miljoenen (TROS) 1. Symfonie nr. 29 in A KV deei 1, Mozart. 2. Sonate in G K 547, Scarlatti. Vladimir Horowitz, piano. 3. Concert voor orgel en orkest nr. 4 in F opus 4, Händel. 4. Concert voor fagot en orkest in c RV 495, Vivaldi. 5. Symfonie in Es opus 18 nr. 1, J.Ch. Bach. 6. Die Himmel erzählen die Ehre Gottes uit Die Schöpfung, Haydn. 7. Arpeggione Sonate D 821 1, Schubert. 8. Concert voor piano en orkest nr. 21 KV 467 deel 2 en 3, Mozart."
+            },
+            {
+                "time": "10.30",
+                "program": "Ochtendconcert (Radio 4) 1. Ouverture Leonore, Beetho- ven. Philharmonisch Orkest van Radio France Marek Janowski. 2. Ah perfido, Beetho- ven. Karita Mattila, sopraan. 3. Ouverture Cosi fan tutte, Mozart. Philharmonisch Orkest van Ra- dio France Marek Ja- nowski. 4. Concertaria Belia mia resta, oh cara, Mozart. Karita Mattila, sopraan. 5. Con- certaria Misera, dove son… Ah, non son io che parlo, Mozart. 6. Symfonie nr. 4, Brahms."
+            },
+            {
+                "time": "12.02",
+                "program": "Toppers van toen klassiek (AVRO) Nostalgie uit de wereld van de klassieke muziek. Met vandaag opnamen van de 25 jaar geleden overleden Oostenrijkse dirigent Josef Krips in muziek van Mo- zart."
+            },
+            {
+                "time": "13.07",
+                "program": "Juist afgestemd (VARA) Vocale muziek op cd."
+            },
+            {
+                "time": "14.02",
+                "program": "Middagconcert (Radio 4) 1. Duo opus 7, Kodaly. 2. Suite"
+            },
+            {
+                "time": "15.45",
+                "program": "Thema (NPS) Nino Rota (4/5). In deze afleve- ring onder andere twee suites, waarvan een van Nino Rota zelf, de balletsuite La Strade, en daarnaast La Dolce Vita suite van de | remember Nino Rota."
+            },
+            {
+                "time": "16.34",
+                "program": "A 4 (AVRO/N(&V) Presentatie: Willem Vos. Spits- uurprogramma met klassieke muziek-actualiteiten en aandacht voor nieuw uitgekomen cd's."
+            },
+            {
+                "time": "18.30",
+                "program": "De korenbeurs (KRO) Het vijfde World Symposium on Choral Music. Afl: 6. Met onder meer het Muungano National Choir uit Kenia."
+            },
+            {
+                "time": "19.00",
+                "program": "Urubicha (VPRO) Fin de siècle. Dankzij de Tijdra- dio zijn we nu in staat om op be- zoek te gaan in een andere tijd. Vandaag de achttiende eeuw."
+            },
+            {
+                "time": "20.02",
+                "program": "Avondconcert N(&V Eerste concert van de serie Ein- de van een Eeuw Kamermuziek 1999/2000. 1. Drei sechsstimmi- ge Chöre opus 39, Reger. 2. Zes Oud-Nederlandse liederen nrs. 2,3, 4 en 6, Röntgen. 3. The be- aches of Lukannon voor man- nenkoor, Grainger. 4. Trois chansons de Charles d'Orléans, Debussy. Pauzeprogramma. Twee geestelijke koren: Ved en ung kunstners bare/Ave Maris stella, Grieg. 6. Ave Maria opus 9b voor acht vrouwenstemmen, Holst. 7. Otcenás voor koor, te- nor, harp en orgel/harmonium, Janacek. Rechtstreekse uitzen- ding."
+            },
+            {
+                "time": "23.00",
+                "program": "Sesjun (TROS) Josee Koning E Grupo."
+            },
+            {
+                "time": "0.02",
+                "program": "Vincent na middernacht (NPS)"
+            },
+            {
+                "time": "1.02",
+                "endtime": "7.00",
+                "program": "Euroclassic Notturno (Radio 4) O.m. De vuurvogel, Stravinsky. Filharmonisch Orkest van de BBC o.l.v. Yan Pascal Tortelier."
+            }
+        ]
+    },
+    "RADIO 5": {
+        "special": "Nieuws (NOS) Elk heel uur t/m 18.00, 21.00, 22.00 en 0.00",
+        "programs": [
+            {
+                "time": "6.02",
+                "program": "De gezamenlijke zenders Peazens & Moddergat (VPRO)"
+            },
+            {
+                "time": "7.05",
+                "program": "Pyjamapret (TELEAC/NOT)"
+            },
+            {
+                "time": "7.15",
+                "program": "Sportief (NOS)"
+            },
+            {
+                "time": "7.32",
+                "program": "Piek 5 (EO)"
+            },
+            {
+                "time": "8.05",
+                "program": "Wereldnet (VPRO/NPS/RNW)"
+            },
+            {
+                "time": "9.02",
+                "program": "Sporen (RVU) Hoe anders is de politiecultuur van nu tegenover vroeger?"
+            },
+            {
+                "time": "9.45",
+                "program": "De trots van de buurt (RVU)"
+            },
+            {
+                "time": "10.02",
+                "program": "Radar op 5 (TROS) Een interactief consumentenpro- gramma."
+            },
+            {
+                "time": "12.02",
+                "program": "Het debat op 5 (AVRO)"
+            },
+            {
+                "time": "13.05",
+                "program": "Documentaire op 5 (NPS)"
+            },
+            {
+                "time": "13.45",
+                "program": "Lijntjes van Lips (NPS)"
+            },
+            {
+                "time": "14.02",
+                "program": "Knetterende letteren (NPS) Presentatie: Jellie Brouwer."
+            },
+            {
+                "time": "16.02",
+                "program": "Een leven lang (NPS) Mimi de Rooij (1920), violiste bij diverse amusementsorkesten, weduwe van jazzpianist Nico de Rooij, moeder van pianist Nico en Karel (van duo Mini en Maxi) de Rooij."
+            },
+            {
+                "time": "17.05",
+                "program": "Radio UIT (NPS) Culturele actualiteiten reporta- ges, interviews en muziek."
+            },
+            {
+                "time": "17.50",
+                "program": "RPF (PP)"
+            },
+            {
+                "time": "18.02",
+                "program": "De geschiedenis van de is- lam (NMO)"
+            },
+            {
+                "time": "18.30",
+                "program": "Religie en samenleving (NMO)"
+            },
+            {
+                "time": "19.00",
+                "program": "Nieuws en actualiteiten(NPS)"
+            },
+            {
+                "time": "19.00",
+                "program": "Turks. Marokkaans en Berbers."
+            },
+            {
+                "time": "20.30",
+                "program": "Chinees."
+            },
+            {
+                "time": "21.02",
+                "program": "TeleScoop (TELEAC/NOT) Wekelijks programma over: nieuwe media, computers en communicatie. Met om ca."
+            },
+            {
+                "time": "21.02",
+                "program": "Actuele zaken. Om ca."
+            },
+            {
+                "time": "21.22",
+                "program": "Bladenoverzicht."
+            },
+            {
+                "time": "22.02",
+                "endtime": "0.00",
+                "program": "De avonden (VPRO) Presentatie: Wim Noordhoek en Wim Brands. VPRO's dagelijkse late show. M.m.v. Jan Hiddink en Berry Kamer. Om ca."
+            },
+            {
+                "time": "22.03",
+                "program": "Gesproken uitzicht. Om ca."
+            },
+            {
+                "time": "22.10",
+                "program": "Teun, Vuur, Gijs. Om ca."
+            },
+            {
+                "time": "23.00",
+                "program": "De wijde blik van radio- kunstenaar Mat Wijn. Om ca."
+            },
+            {
+                "time": "23.10",
+                "program": "John Fahey (1). Om ca."
+            },
+            {
+                "time": "23.50",
+                "program": "De mannen van de radio."
+            }
+        ]
+    },
+    "CONCERT": {
+        "special": "",
+        "programs": [
+            {
+                "time": "8.00",
+                "program": "Ochtendeditie. Werther, Iyri- sche drama van Massenet. Kna- benchor Berlin."
+            },
+            {
+                "time": "10.10",
+                "program": "Nieuw klassiek. Werken van Albéniz en A. Solbiati."
+            },
+            {
+                "time": "12.15",
+                "program": "Voor kenners en liefhebbers. Werken van Rau- tavaara."
+            },
+            {
+                "time": "13.00",
+                "program": "Roots, de Middel- eeuwse wortels van twaalftoons- muziek (1). Werken van J. Cico- nia, De Machaut, Webern, Bach en Boulez."
+            },
+            {
+                "time": "14.00",
+                "program": "Muziek in de Nederlanden in de 17e eeuw."
+            },
+            {
+                "time": "15.00",
+                "program": "Bach en de anderen. Wer- ken van Bach en Corelli."
+            },
+            {
+                "time": "16.00",
+                "program": "Italiaanse renaissance en vroeg barok. Werken van Anon, Maine- rio, R. Mantovano, Uccelini, M. en Mainerio."
+            },
+            {
+                "time": "17.00",
+                "program": "Wohlklingende Fingersprache. Werken van Bach (1)."
+            },
+            {
+                "time": "18.00",
+                "program": "Het radiodiner."
+            },
+            {
+                "time": "19.05",
+                "endtime": "0.00",
+                "program": "Romanti- sche muziek, met om"
+            },
+            {
+                "time": "19.05",
+                "program": "De weergever."
+            },
+            {
+                "time": "20.00",
+                "program": "Kamermuziek. Inspiratiebron: lerland. Werken van Amy Beach, Martin, T. O'Ca- rolan, Grainger/Kreisler e.a."
+            },
+            {
+                "time": "21.15",
+                "program": "Cellisimo. Werken van Bruch en Kodaly."
+            },
+            {
+                "time": "22.00",
+                "program": "De zee. Werken van U. Klami en Rubin- sein."
+            },
+            {
+                "time": "23.00",
+                "program": "De ruimte. Herh."
+            },
+            {
+                "time": "9.00",
+                "program": "De wereldmuzieknacht."
+            }
+        ]
+    }
+}

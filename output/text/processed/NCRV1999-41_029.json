@@ -1,0 +1,843 @@
+{
+    "ARD": {
+        "special": "",
+        "programs": [
+            {
+                "time": "6.00",
+                "program": "Tom, Jerry & Co."
+            },
+            {
+                "time": "6.30",
+                "program": "Micronauts."
+            },
+            {
+                "time": "7.00",
+                "program": "Die Aben- teuer von Max und Molly."
+            },
+            {
+                "time": "7.30",
+                "program": "Renaade."
+            },
+            {
+                "time": "8.00",
+                "program": "Wuff - Jetzt bin ich der Hund."
+            },
+            {
+                "time": "8.30",
+                "program": "Teletubbies."
+            },
+            {
+                "time": "9.00",
+                "program": "Tages- schau."
+            },
+            {
+                "time": "9.03",
+                "program": "Tom, Jerry & Co."
+            },
+            {
+                "time": "9.30",
+                "program": "Schloss Einstein."
+            },
+            {
+                "time": "10.00",
+                "program": "Tagesschau."
+            },
+            {
+                "time": "10.03",
+                "program": "AbenteuerWelt."
+            },
+            {
+                "time": "10.30",
+                "program": "Aben- teuer Uberleben."
+            },
+            {
+                "time": "11.00",
+                "program": "Tige- renten"
+            },
+            {
+                "time": "12.30",
+                "program": "Immer Feste feiern."
+            },
+            {
+                "time": "13.00",
+                "program": "Tages- schau."
+            },
+            {
+                "time": "13.05",
+                "program": "Europamaga- zin."
+            },
+            {
+                "time": "13.30",
+                "program": "Mein Schulfreund. Drama, 1960. ID 848489"
+            },
+            {
+                "time": "15.00",
+                "program": "Kinder- quatsch."
+            },
+            {
+                "time": "15.30",
+                "program": "Sport- schau live: Wielrennen. WK voor dames in Verona."
+            },
+            {
+                "time": "17.00",
+                "program": "ARD-Ratgeber: & Wohnen Woonmagazine. & 396460"
+            },
+            {
+                "time": "17.30",
+                "program": "Sportschau & 306847"
+            },
+            {
+                "time": "18.00",
+                "program": "Tagesschau 178847"
+            },
+            {
+                "time": "18.10",
+                "program": "Brisant 838847"
+            },
+            {
+                "time": "18.45",
+                "program": "Dr. - Neues vom bogen Dramaserie, Gertie, een studiegenote van Sommer- feld, lijdt onder schuldge- voelens jegens haar zoon Arndt. & 861335"
+            },
+            {
+                "time": "19.41",
+                "program": "Weer 105327422 19,50 Lotto 5323606"
+            },
+            {
+                "time": "20.00",
+                "program": "Tagesschau 401575"
+            },
+            {
+                "time": "20.15",
+                "program": "Verstehen Sie Spass? S 383557 Amusement met de verbor- gen camera. Met 0.a. Die jungen Tenöre, Patrick Lind- ner en de Kelly Family."
+            },
+            {
+                "time": "22.00",
+                "program": "Tagesthemen Met sport. 283118"
+            },
+            {
+                "time": "22.20",
+                "program": "Das Wort zum Sonntag 3 3347625 Overdenking door Andrea Schneider uit Oldenburg. Ù"
+            },
+            {
+                "time": "22.25",
+                "program": "A bridge too far ] Oorlog, GB, 1977. Met Sean Connery, Robert Redford e.a. Regie: Richard Attenbo- rough. In september 1944 landen 35.000 geallieerde parachutisten in Nederland achter Duitse linies. Vooral om de brug van Arnhem ontstaan er verbitterde ge- vechten. 86170286"
+            },
+            {
+                "time": "1.00",
+                "program": "Tagesschau. 9133132"
+            },
+            {
+                "time": "1.10",
+                "program": "Chronik der Wende. H] Where eagles dare. Oorlog, GB, 1968. & 78403855"
+            },
+            {
+                "time": "3.55",
+                "program": "ARD-exclu- siv."
+            },
+            {
+                "time": "4.25",
+                "program": "Europa maga- zin."
+            },
+            {
+                "time": "4.55",
+                "program": "Die schönsten Bahnstrecken."
+            },
+            {
+                "time": "5.30",
+                "program": "Brisant."
+            }
+        ]
+    },
+    "ZDF": {
+        "special": "",
+        "programs": [
+            {
+                "time": "5.30",
+                "program": "hallo Deutschland."
+            },
+            {
+                "time": "6.00",
+                "program": "Teken- en"
+            },
+            {
+                "time": "8.33",
+                "program": "Theos Geburtstags- ecke."
+            },
+            {
+                "time": "8.35",
+                "program": "1- 2 oder 3."
+            },
+            {
+                "time": "9.00",
+                "program": "Pippi Langstrumpf."
+            },
+            {
+                "time": "9.25",
+                "program": "Löwenzahn."
+            },
+            {
+                "time": "9.55",
+                "program": "[E]"
+            },
+            {
+                "time": "10.00",
+                "program": "Billy the cat."
+            },
+            {
+                "time": "10.25",
+                "program": "PUR."
+            },
+            {
+                "time": "10.50",
+                "program": "Die Fälle der Shirley Holmes."
+            },
+            {
+                "time": "11.15",
+                "program": "Enid Blyton - Aben- teuer."
+            },
+            {
+                "time": "11.40",
+                "program": "Quasimodo."
+            },
+            {
+                "time": "12.00",
+                "program": "Compu-tivi. 579625"
+            },
+            {
+                "time": "12.05",
+                "program": "USA High. Comedyse- rie, VS."
+            },
+            {
+                "time": "12.30",
+                "program": "Chart Attack. Muziekprogramma."
+            },
+            {
+                "time": "13.00",
+                "program": "heute."
+            },
+            {
+                "time": "13.05",
+                "program": "TOP 7 - Das Wochenendmagazin. 639625"
+            },
+            {
+                "time": "14.00",
+                "program": "Tabaluga tivi. 152793"
+            },
+            {
+                "time": "15.30",
+                "program": "Länder- spiegel. 743809"
+            },
+            {
+                "time": "15.55",
+                "program": "ZDF sport extra: Voetbal. Recht- streeks versag van de EK- kwalificatiewedstrijd Zweden - Polen. Om c.a."
+            },
+            {
+                "time": "16.45",
+                "program": "heute."
+            },
+            {
+                "time": "17.45",
+                "program": "ZDF Sport extra: voetbal Rechtstreeks verslag van de EK-kwalificatiewedstrijd Duitsland-Turkije in Mün- chen. Om ca."
+            },
+            {
+                "time": "18.30",
+                "program": "en"
+            },
+            {
+                "time": "19.50",
+                "program": "heute. & 53420996"
+            },
+            {
+                "time": "22.30",
+                "program": "heute-journal & 465688"
+            },
+            {
+                "time": "22.43",
+                "program": "Weer &"
+            },
+            {
+                "time": "22.45",
+                "program": "100 Jahre - Der Countdown 7528441 Documentaire: 1933 - Hitlers Machterschleichung."
+            },
+            {
+                "time": "22.55",
+                "program": "Ein starkes Team Serie tv-films. Mörderi- sches Wiedersehen. Jan Steinbeck, die wegens een roofoverval achter de tralies zat, is ontsnapt uit de gevan- genis in Nice. Alles wijst erop dat hij bij zijn vriendin Carmen in Berlijn zal opdui- ken. B & 698170"
+            },
+            {
+                "time": "0.25",
+                "program": "heute."
+            },
+            {
+                "time": "0.30",
+                "program": "Les Fauves. Thriller, 1984. Met Philippe Léotard, Daniel Auteuil e.a. Regie: Jean-Louis Daniel. De stuntman Berg vormt met zijn jonge vrouw Bela een hecht team. Maar dan ver- ongelukt Bela bij een specta- culaire autostunt. 8142267"
+            },
+            {
+                "time": "2.00",
+                "program": "Die Seven-Ups. Mis- daad, VS, 1973. Met Roy Schreider, Victor Arnold, Jerry Leon e.a. Regie: Philip D'Antoni. De van de New Yorkse recher- che sporen misdadigers op die minstens zeven jaar ge- vangenisstraf te wachten staat. De leider Buddy Ma- nucci heeft het motto ‘het heiligt de hoog in het vaandel staan. 4228584"
+            },
+            {
+                "time": "3.40",
+                "program": "Länderspie- gel."
+            },
+            {
+                "time": "4.05",
+                "program": "Nachttv."
+            }
+        ]
+    },
+    "NORD 3": {
+        "special": "",
+        "programs": [
+            {
+                "time": "8.15",
+                "program": "DAS!"
+            },
+            {
+                "time": "9.00",
+                "program": "Nordmagazin."
+            },
+            {
+                "time": "9.30",
+                "program": "Hamburger Journal."
+            },
+            {
+                "time": "10.00",
+                "program": "Schleswig- Holstein-Magazin."
+            },
+            {
+                "time": "10.30",
+                "program": "Hallo Niedersachsen."
+            },
+            {
+                "time": "11.00",
+                "program": "buten un binnen."
+            },
+            {
+                "time": "11.30",
+                "program": "Uta."
+            },
+            {
+                "time": "12.00",
+                "program": "Fliege."
+            },
+            {
+                "time": "13.00",
+                "program": "3 x Lust auf alte Tône."
+            },
+            {
+                "time": "14.00",
+                "program": "Leibovitz, Morath, Barrat."
+            },
+            {
+                "time": "14.45",
+                "program": "KunstStreifzüge Hamburg."
+            },
+            {
+                "time": "15.00",
+                "program": "Sport 3 extra: Paarden- sport."
+            },
+            {
+                "time": "17.00",
+                "program": "Sport 3 fussball."
+            },
+            {
+                "time": "17.30",
+                "program": "N3 Reise. [T]"
+            },
+            {
+                "time": "18.00",
+                "program": "Sesam- strasse."
+            },
+            {
+                "time": "18.30",
+                "program": "NORDtour. &"
+            },
+            {
+                "time": "18.45",
+                "program": "DAS! Actueel magazine &"
+            },
+            {
+                "time": "19.30",
+                "program": "N3 regional."
+            },
+            {
+                "time": "20.00",
+                "program": "Ta- gesschau."
+            },
+            {
+                "time": "20.15",
+                "program": "Melodie der Meere. &"
+            },
+            {
+                "time": "22.00",
+                "program": "Liebe auf krummen Beinen. Komedie, 1959."
+            },
+            {
+                "time": "23.30",
+                "program": "Junge Leute brauchen Liebe. Duitse schla- gers van de jaren 50. S}"
+            },
+            {
+                "time": "2.30",
+                "program": "Brisant."
+            },
+            {
+                "time": "3.00",
+                "program": "Tagesschau - Vor 20 Jahren."
+            },
+            {
+                "time": "3.15",
+                "program": "Die aktuelle Schau- bude."
+            },
+            {
+                "time": "4.00",
+                "endtime": "6.00",
+                "program": "Telespiel."
+            }
+        ]
+    },
+    "WDR": {
+        "special": "",
+        "programs": [
+            {
+                "time": "6.00",
+                "program": "Telekolleg"
+            },
+            {
+                "time": "6.30",
+                "program": "Och- tendtv."
+            },
+            {
+                "time": "10.00",
+                "program": "Babylon spricht viele Sprachen. OO"
+            },
+            {
+                "time": "11.00",
+                "program": "Euro- Pizza."
+            },
+            {
+                "time": "11.30",
+                "program": "11.45 Dschungel mit Jean Pütz - Um- weltmagazin."
+            },
+            {
+                "time": "12.30",
+                "program": "Vom singen- den, klingenden Bäumchen. Jeugd, 1987."
+            },
+            {
+                "time": "13.40",
+                "program": "Kochen mit der Maus. [Ù"
+            },
+            {
+                "time": "13.55",
+                "program": "14.00 Albatros."
+            },
+            {
+                "time": "14.30",
+                "program": "Computerciub."
+            },
+            {
+                "time": "15.00",
+                "program": "Sport."
+            },
+            {
+                "time": "17.00",
+                "program": "Buro Büro."
+            },
+            {
+                "time": "17.50",
+                "program": "Alfredissimo!"
+            },
+            {
+                "time": "18.20",
+                "program": "Wein. &"
+            },
+            {
+                "time": "18.50",
+                "program": "Hier und Heute."
+            },
+            {
+                "time": "19.20",
+                "program": "Aktuelle Stunde."
+            },
+            {
+                "time": "20.00",
+                "program": "Tages- schau."
+            },
+            {
+                "time": "20.15",
+                "program": "Berliner Mi- litärmusikfest."
+            },
+            {
+                "time": "22.00",
+                "program": "Die Ab- schlepper."
+            },
+            {
+                "time": "22.30",
+                "program": "Wilde Her- zen: Allein unter Frauen. Kome- die, Did."
+            },
+            {
+                "time": "23.55",
+                "endtime": "1.25",
+                "program": "Char- ley-One-Eye. Drama, GB, 1972."
+            }
+        ]
+    },
+    "SWF": {
+        "special": "",
+        "programs": [
+            {
+                "time": "6.00",
+                "program": "Differentialrechnung."
+            },
+            {
+                "time": "6.30",
+                "program": "The business world."
+            },
+            {
+                "time": "7.00",
+                "program": "Elektri- sches Feld."
+            },
+            {
+                "time": "7.30",
+                "program": "Unterneh- mungsführung."
+            },
+            {
+                "time": "8.00",
+                "program": "aktuell."
+            },
+            {
+                "time": "8.30",
+                "program": "Ochtendtv."
+            },
+            {
+                "time": "12.00",
+                "program": "Kinderquatsch."
+            },
+            {
+                "time": "12.30",
+                "program": "Landes- schau."
+            },
+            {
+                "time": "12.55",
+                "program": "Herrchen/ Frauchen gesucht."
+            },
+            {
+                "time": "13.00",
+                "program": "Eisen- bahn-Romantik."
+            },
+            {
+                "time": "13.30",
+                "program": "der Welt - Erbe der Menscheit. O"
+            },
+            {
+                "time": "13.45",
+                "program": "Lindenstrasse."
+            },
+            {
+                "time": "14.15",
+                "program": "Kein schöner Land."
+            },
+            {
+                "time": "15.00",
+                "program": "Auf geht's"
+            },
+            {
+                "time": "16.30",
+                "program": "Reise- tipps."
+            },
+            {
+                "time": "16.45",
+                "program": "Teletour."
+            },
+            {
+                "time": "17.30",
+                "program": "Die Fallers."
+            },
+            {
+                "time": "18.00",
+                "program": "Wahl dt. Weinkönigin."
+            },
+            {
+                "time": "19.15",
+                "program": "Lan- desschau unterwegs."
+            },
+            {
+                "time": "19.45",
+                "program": "Aktuell."
+            },
+            {
+                "time": "20.00",
+                "program": "Tagesschau. &"
+            },
+            {
+                "time": "20.15",
+                "program": "Holstein lovers. Komedie, Did, 1998. 21,45 Aktuell."
+            },
+            {
+                "time": "21.50",
+                "program": "Ex!"
+            },
+            {
+                "time": "22.20",
+                "program": "Lämmle live."
+            },
+            {
+                "time": "23.50",
+                "program": "Wildall TV."
+            },
+            {
+                "time": "4.00",
+                "program": "Ländersache."
+            },
+            {
+                "time": "4.45",
+                "program": "Nachttv."
+            }
+        ]
+    },
+    "RTL+": {
+        "special": "",
+        "programs": [
+            {
+                "time": "12.10",
+                "program": "Biess this house."
+            },
+            {
+                "time": "12.35",
+                "program": "Moesha."
+            },
+            {
+                "time": "13.05",
+                "program": "Step by step. Comedyse- rie, VS."
+            },
+            {
+                "time": "13.30",
+                "program": "Third rock from the sun."
+            },
+            {
+                "time": "14.00",
+                "program": "The fresh prince of Bel-Air. Comedyserie, VS. 14,55 Home improvement. Co- medyserie, VS."
+            },
+            {
+                "time": "15.55",
+                "program": "Beverly 90210. Dramaserie, VS."
+            },
+            {
+                "time": "17.45",
+                "program": "Top of the pops."
+            },
+            {
+                "time": "18.45",
+                "program": "Ak- tuell. 54000460"
+            },
+            {
+                "time": "19.10",
+                "program": "Explosiv. 82114642"
+            },
+            {
+                "time": "20.15",
+                "program": "Millionär ge- sucht! Loterijshow. 68796880"
+            },
+            {
+                "time": "22.30",
+                "program": "Die Karl Dall show. Talk- show. 9607460"
+            },
+            {
+                "time": "23.30",
+                "program": "Veronas Welt. Comedyshow. & 3681278"
+            },
+            {
+                "time": "0.25",
+                "program": "South Park."
+            },
+            {
+                "time": "0.50",
+                "program": "Nachttv."
+            }
+        ]
+    },
+    "SAT 1": {
+        "special": "",
+        "programs": [
+            {
+                "time": "5.35",
+                "program": "Tekenfilms."
+            },
+            {
+                "time": "11.35",
+                "program": "Heartbre- ak High."
+            },
+            {
+                "time": "12.35",
+                "program": "Mommie dearest. Drama, VS, 1981. Met Faye Dunaway e.a. Regie: Frank Perry."
+            },
+            {
+                "time": "15.00",
+                "program": "MacGyver."
+            },
+            {
+                "time": "16.00",
+                "program": "Star Trek: Deep Space Nine."
+            },
+            {
+                "time": "17.00",
+                "program": "Nieuws."
+            },
+            {
+                "time": "17.10",
+                "program": "Gottschalk kommt!"
+            },
+            {
+                "time": "18.00",
+                "program": "Alf."
+            },
+            {
+                "time": "18.30",
+                "program": "J.A.G."
+            },
+            {
+                "time": "19.30",
+                "program": "Echt wahr! - weekend. 20,15 The Pall- bearer. Komedie, VS, 1996. Met David Schwimmer e.a. Regie: Matt Reeves."
+            },
+            {
+                "time": "22.10",
+                "program": "Die Wochen- show."
+            },
+            {
+                "time": "23.10",
+                "program": "Die Wochenshow - Classics."
+            },
+            {
+                "time": "23.40",
+                "program": "Star Trek: Deep Space Nine."
+            },
+            {
+                "time": "0.35",
+                "program": "Nachttv."
+            }
+        ]
+    },
+    "TMF": {
+        "special": "",
+        "programs": [
+            {
+                "time": "6.00",
+                "program": "CyberChoice. 34040828"
+            },
+            {
+                "time": "10.00",
+                "program": "Morning call. & 16589828"
+            },
+            {
+                "time": "12.00",
+                "program": "Gamezone. & 17497511"
+            },
+            {
+                "time": "12.30",
+                "program": "Back I! back. Clips uit de oude doos. 33018373"
+            },
+            {
+                "time": "15.00",
+                "program": "Clipparade. Overzicht van de Top 30. &] 92679248"
+            },
+            {
+                "time": "17.00",
+                "program": "V.I.G. Antonie Kamerling en Kasper van Kooten. 38146809"
+            },
+            {
+                "time": "18.00",
+                "program": "Post op zaterdag. Interactief ma- gazine. Presentatie: Jeroen Post. S 43529712"
+            },
+            {
+                "time": "20.00",
+                "program": "The bass- ment. 92694557"
+            },
+            {
+                "time": "22.00",
+                "program": "Satur- day night fever. Met om"
+            },
+            {
+                "time": "22.00",
+                "program": "Nightguide en om"
+            },
+            {
+                "time": "0.00",
+                "program": "Factory Facts."
+            },
+            {
+                "time": "1.00",
+                "endtime": "6.00",
+                "program": "CyberChoice."
+            }
+        ]
+    },
+    "MTV": {
+        "special": "",
+        "programs": [
+            {
+                "time": "6.00",
+                "program": "Kickstart. Muziekvideo's."
+            },
+            {
+                "time": "9.30",
+                "program": "Fanatic. In- terviews."
+            },
+            {
+                "time": "10.00",
+                "program": "European top 20."
+            },
+            {
+                "time": "11.00",
+                "program": "Amour weekend."
+            },
+            {
+                "time": "16.00",
+                "program": "Say what. Karaoke."
+            },
+            {
+                "time": "17.00",
+                "program": "Data videos."
+            },
+            {
+                "time": "18.00",
+                "program": "News weekend edition."
+            },
+            {
+                "time": "18.30",
+                "program": "MTV Movie spe- cial. 1999 Venice Film Festival."
+            },
+            {
+                "time": "19.00",
+                "program": "Dance floor chart. Top 20 van de clubhits."
+            },
+            {
+                "time": "21.00",
+                "program": "Disco 2000. Disco tunes."
+            },
+            {
+                "time": "22.00",
+                "program": "Mega- mix."
+            },
+            {
+                "time": "23.00",
+                "program": "Amour. Swing, soul en R'n'B."
+            },
+            {
+                "time": "0.00",
+                "program": "The late lick. show met Trevor."
+            },
+            {
+                "time": "1.00",
+                "program": "Saturday night music mix."
+            },
+            {
+                "time": "3.00",
+                "program": "Chill out zone."
+            },
+            {
+                "time": "5.00",
+                "endtime": "6.00",
+                "program": "Night videos."
+            }
+        ]
+    }
+}

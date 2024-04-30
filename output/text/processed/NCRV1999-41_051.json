@@ -1,0 +1,677 @@
+{
+    "NET 5": {
+        "special": "",
+        "programs": [
+            {
+                "time": "7.00",
+                "program": "NieuwsNET 5."
+            },
+            {
+                "time": "12.30",
+                "program": "NET 5 presentatie."
+            },
+            {
+                "time": "12.55",
+                "program": "Haenen voor 11."
+            },
+            {
+                "time": "13.50",
+                "program": "Spin city."
+            },
+            {
+                "time": "14.15",
+                "program": "Sparks. 41957386"
+            },
+            {
+                "time": "14.40",
+                "program": "USA High."
+            },
+            {
+                "time": "15.05",
+                "program": "Major Dad. 56383283"
+            },
+            {
+                "time": "15.30",
+                "program": "Disney feest. B 24049763"
+            },
+            {
+                "time": "16.10",
+                "program": "Pink Panther Tekenfiim. & 61492638"
+            },
+            {
+                "time": "16.25",
+                "program": "21 Jump Street Politieserie, VS. 90496947"
+            },
+            {
+                "time": "17.15",
+                "program": "Beverly Hills 90210 Dramaserie, VS. & 47960305"
+            },
+            {
+                "time": "18.05",
+                "program": "The pretender Sf-actieserie, VS. 99614947"
+            },
+            {
+                "time": "19.00",
+                "program": "Nieuws & 28827015"
+            },
+            {
+                "time": "19.20",
+                "program": "Kinderziekenhuis Documentaire, GB. 98037229"
+            },
+            {
+                "time": "19.55",
+                "program": "Gimme gimme gimme & 51802638 Comedyserie, GB."
+            },
+            {
+                "time": "20.35",
+                "program": "Ally McBeal Comedyserie, VS. Billy biecht Ally op dat hij nog steeds verliefd op haar is. 76937560"
+            },
+            {
+                "time": "21.30",
+                "program": "To Gillian on her 37th birthday Drama, VS, 1996. Met Peter Gallagher, Michelle Pfeiffer e.a. Regie: Michael Press- man. David is een verbitter- de weduwnaar die weigert de dood van zijn vrouw on- der ogen te 44272183"
+            },
+            {
+                "time": "23.10",
+                "program": "Dossier dinsdag Reportages. 29274096"
+            },
+            {
+                "time": "0.15",
+                "program": "Gimme gimme gimme."
+            },
+            {
+                "time": "0.45",
+                "program": "Het Nieuws."
+            }
+        ]
+    },
+    "NAT: GEOGR:": {
+        "special": "",
+        "programs": [
+            {
+                "time": "6.00",
+                "program": "Ochtendtv."
+            },
+            {
+                "time": "13.00",
+                "program": "Mysterie van de schemerzone."
+            },
+            {
+                "time": "14.00",
+                "program": "De verdwenen rivier."
+            },
+            {
+                "time": "14.30",
+                "program": "Dolfij- neneiland."
+            },
+            {
+                "time": "15.00",
+                "program": "Yukonna."
+            },
+            {
+                "time": "15.30",
+                "program": "Camaramannen paraat."
+            },
+            {
+                "time": "16.00",
+                "program": "Toevluchtsoord Noordpool: een bedreigde wildernis."
+            },
+            {
+                "time": "17.00",
+                "program": "De kunst van de krijger."
+            },
+            {
+                "time": "18.00",
+                "program": "Reis naar de vergeten rivier. 17608015"
+            },
+            {
+                "time": "19.00",
+                "program": "Vanuatu vul- kaan. & 94904760"
+            },
+            {
+                "time": "20.00",
+                "program": "Signa- len in de zee. & 32500541"
+            },
+            {
+                "time": "20.30",
+                "program": "Eiland van Eden. & 32509812"
+            },
+            {
+                "time": "21.00",
+                "program": "Overstroming. & 23967015"
+            },
+            {
+                "time": "22.00",
+                "program": "Naar de haaien dossier. & 23963299"
+            },
+            {
+                "time": "23.00",
+                "program": "Terugkeer van de adelaar. 23947251"
+            },
+            {
+                "time": "0.00",
+                "program": "Signalen in de zee."
+            },
+            {
+                "time": "0.30",
+                "program": "Eiland van Eden."
+            },
+            {
+                "time": "1.00",
+                "program": "Overstroming."
+            },
+            {
+                "time": "2.00",
+                "program": "Naar de haaien dossier."
+            },
+            {
+                "time": "3.00",
+                "program": "Terugkeer van de adelaar."
+            },
+            {
+                "time": "4.00",
+                "program": "Signalen in de zee."
+            },
+            {
+                "time": "4.30",
+                "program": "Eiland van Eden."
+            },
+            {
+                "time": "5.00",
+                "endtime": "6.00",
+                "program": "Vul- kanische uitbarsting."
+            }
+        ]
+    },
+    "6": {
+        "special": "",
+        "programs": [
+            {
+                "time": "7.00",
+                "program": "Kinderen zijn de baas!"
+            },
+            {
+                "time": "8.00",
+                "program": "Popeye."
+            },
+            {
+                "time": "8.15",
+                "program": "Hart van Nederland."
+            },
+            {
+                "time": "8.35",
+                "program": "Mork and Mindy."
+            },
+            {
+                "time": "9.00",
+                "program": "9.25 All in the family."
+            },
+            {
+                "time": "9.55",
+                "program": "The cape."
+            },
+            {
+                "time": "10.45",
+                "program": "The na- ked truth."
+            },
+            {
+                "time": "11.10",
+                "program": "Public morals."
+            },
+            {
+                "time": "11.35",
+                "program": "Safari."
+            },
+            {
+                "time": "11.55",
+                "program": "Mysteries, magic en mira- cles."
+            },
+            {
+                "time": "12.20",
+                "program": "Start op zes."
+            },
+            {
+                "time": "12.50",
+                "program": "Vakantie-tv."
+            },
+            {
+                "time": "13.45",
+                "program": "The single guy."
+            },
+            {
+                "time": "14.10",
+                "program": "Fa- mily ties."
+            },
+            {
+                "time": "14.40",
+                "program": "started in Napels. Komedie, VS, 1960. Met Clark Gable, Sophia Lo- ren e.a. Regie: Melville Sha- velson. 49573812"
+            },
+            {
+                "time": "16.20",
+                "program": "Silk stalkings Actieserie, VS. 3] 33381522"
+            },
+            {
+                "time": "17.15",
+                "program": "The A-Team Actieserie, VS. 16385367"
+            },
+            {
+                "time": "18.10",
+                "program": "Jerry Springer Talkshow, VS. & 70695096"
+            },
+            {
+                "time": "19.00",
+                "program": "Door het lint! Reportages, GB. & 48246386"
+            },
+            {
+                "time": "19.30",
+                "program": "Nieuws & 84997980 19,55 Explosief 63951218 Trekking Lucky 10."
+            },
+            {
+                "time": "20.30",
+                "program": "Live and let die 78263102 Actie, GB, 1973. Met Roger Moore, Jane Seymour e.a. Regie: Guy Hamilton. James Bond wordt ingezet om de gevaarlijke leider Kananga tegen te houden."
+            },
+            {
+                "time": "22.50",
+                "program": "Hart van Nederland ® 24558928 Lucky 10."
+            },
+            {
+                "time": "23.20",
+                "program": "Adult television en- tertainment & 24560763"
+            },
+            {
+                "time": "23.50",
+                "program": "Jerry Springer & 70605270"
+            },
+            {
+                "time": "0.40",
+                "program": "Nachttv."
+            }
+        ]
+    },
+    "CARTOON NETW": {
+        "special": "",
+        "programs": [
+            {
+                "time": "6.00",
+                "program": "Ochtendblok."
+            },
+            {
+                "time": "13.00",
+                "program": "Anima- niacs."
+            },
+            {
+                "time": "13.30",
+                "program": "Top Cat."
+            },
+            {
+                "time": "14.00",
+                "program": "2 stu- pid dogs."
+            },
+            {
+                "time": "14.30",
+                "program": "Droopy."
+            },
+            {
+                "time": "15.00",
+                "program": "Monster tails. Dumb &"
+            },
+            {
+                "time": "15.30",
+                "program": "Rhino juni- or high."
+            },
+            {
+                "time": "16.00",
+                "program": "Waynehead."
+            },
+            {
+                "time": "16.30",
+                "endtime": "18.00",
+                "program": "Cartoon cartoons met om:"
+            },
+            {
+                "time": "16.30",
+                "program": "Ed, Edd ‘n Eddy."
+            },
+            {
+                "time": "17.00",
+                "program": "Cow & Chicken."
+            },
+            {
+                "time": "17.30",
+                "program": "De Powerpuff"
+            },
+            {
+                "time": "18.00",
+                "program": "Tom & Jerry."
+            },
+            {
+                "time": "18.30",
+                "program": "Looney tunes."
+            },
+            {
+                "time": "20.30",
+                "program": "Zeep met om:"
+            },
+            {
+                "time": "19.00",
+                "program": "The Addams family."
+            },
+            {
+                "time": "19.30",
+                "program": "The Flint- stones. 20,00 The Jetsons."
+            },
+            {
+                "time": "20.30",
+                "program": "Scooby Doo."
+            },
+            {
+                "time": "21.00",
+                "endtime": "22.00",
+                "program": "Car- toon cartoons met om:"
+            },
+            {
+                "time": "21.00",
+                "program": "Dexter."
+            },
+            {
+                "time": "21.30",
+                "program": "Johnny Bravo."
+            },
+            {
+                "time": "22.00",
+                "program": "The Mask. Dumb & Dumber."
+            },
+            {
+                "time": "23.00",
+                "program": "Tom & Jerry."
+            },
+            {
+                "time": "23.30",
+                "program": "Looney tunes."
+            },
+            {
+                "time": "0.00",
+                "program": "* Cow & Chicken."
+            },
+            {
+                "time": "0.30",
+                "program": "* | am Weasel."
+            },
+            {
+                "time": "1.00",
+                "program": "* Wacky races."
+            },
+            {
+                "time": "1.30",
+                "program": "* Top Cat."
+            },
+            {
+                "time": "2.00",
+                "program": "* Nachtblok. (* = Niet Ned."
+            }
+        ]
+    },
+    "VERONICA": {
+        "special": "",
+        "programs": [
+            {
+                "time": "9.00",
+                "endtime": "11.15",
+                "program": "Veronica live."
+            },
+            {
+                "time": "11.15",
+                "program": "Onderweg naar mor- gen. & 52578218"
+            },
+            {
+                "time": "11.50",
+                "program": "Big brother."
+            },
+            {
+                "time": "12.20",
+                "endtime": "16.15",
+                "program": "Veronica live. 30656744"
+            },
+            {
+                "time": "16.15",
+                "program": "love 49522134 MacGyver Actieserie, VS. 49601947"
+            },
+            {
+                "time": "17.35",
+                "program": "Xena Actieserie, VS. & 22063928"
+            },
+            {
+                "time": "18.25",
+                "program": "Growing pains 49207675"
+            },
+            {
+                "time": "18.55",
+                "program": "The fresh prince of Bel Air & 48437152 Comedyserie, VS."
+            },
+            {
+                "time": "19.25",
+                "program": "Onderweg naar morgen 18884454 Frank vermaakt zich met"
+            },
+            {
+                "time": "20.00",
+                "program": "Big brother Realitysoap. ) 48239096"
+            },
+            {
+                "time": "20.30",
+                "program": "prisoners Thriller, VS, 1996. Met Alec Baidwin, Eric Roberts, Teri Hatcher e.a. Regie: Phil Joanou. Vroeger was Dave een politieagent in New Or- maar sinds kort heeft hij zijn veelbelovende carriè- re op een laag pitje gezet. Maar als een vliegtuig vlak- bij zijnhuis neerstort en er een lijk verdwijnt, gaat hij op onderzoek uit. & 78275947"
+            },
+            {
+                "time": "22.55",
+                "program": "An Actie, VS, 1996. Met Tom Berenger, Valerie Golina, Ro- bert Davi e.a. Regie: Salome Breziner. De door ziekte ge- plaagde rechercheur Dewalt komt weer in actie als een collega vermoord wordt."
+            },
+            {
+                "time": "0.35",
+                "endtime": "2.34",
+                "program": "Studio 8."
+            }
+        ]
+    },
+    "EUROSPORT": {
+        "special": "",
+        "programs": [
+            {
+                "time": "8.30",
+                "program": "Autosport. FIA WK Rally van San Remo. & 716034"
+            },
+            {
+                "time": "9.00",
+                "program": "Turnen. WK: finales landen- teams vrouwen. & 6593096"
+            },
+            {
+                "time": "11.30",
+                "program": "Motorsport. Races van af- gelopen zondag. & 707386"
+            },
+            {
+                "time": "12.00",
+                "program": "Autosport. FIA WK Rally. 708015"
+            },
+            {
+                "time": "12.30",
+                "program": "Autosport. Sa- menvatting van het FIA GT kam- pioenschap voor toerwagens. 160831"
+            },
+            {
+                "time": "13.30",
+                "program": "Trucksporten. 625183"
+            },
+            {
+                "time": "14.00",
+                "program": "Tennis. WTA toernooi in Zürich: 2e dag. 797980"
+            },
+            {
+                "time": "16.00",
+                "program": "Tennis. ATP- toernooi in Wenen: 2e dag. 71482367"
+            },
+            {
+                "time": "19.00",
+                "program": "Tennis. WTA- toernooi: dag. 956831"
+            },
+            {
+                "time": "20.30",
+                "program": "Turnen. WK: landencom- petitie vrouwen. 140218"
+            },
+            {
+                "time": "22.30",
+                "program": "Autosport. FIA WK Rally: 2de etappe. & 447367"
+            },
+            {
+                "time": "23.00",
+                "program": "Boksen. Zwaargewichtexplosie. 985102"
+            },
+            {
+                "time": "0.00",
+                "program": "Golf. 452400"
+            },
+            {
+                "time": "1.00",
+                "endtime": "1.30",
+                "program": "Autosport. 4089787"
+            }
+        ]
+    },
+    "null": {
+        "special": "",
+        "programs": [
+            {
+                "time": "6.30",
+                "program": "Kinderprogramma's"
+            },
+            {
+                "time": "18.00",
+                "program": "The new Addams family 65940116 Comedyserie, VS."
+            },
+            {
+                "time": "18.30",
+                "program": "The Simpsons Animatieserie, VS. 50095265"
+            },
+            {
+                "time": "19.00",
+                "program": "Goudkust Soap, NL. is verbij- sterd als ze van Harm en Sylvia hoort dat haar onge- grote gevolgen heeft. 48248744"
+            },
+            {
+                "time": "19.30",
+                "program": "De kampioen van Nederland & 48247015 Spelprogramma."
+            },
+            {
+                "time": "20.00",
+                "program": "M.A.S.H. Comedyserie, VS. Potter moet vanwege een geheime missie naar Toki. 48244928"
+            },
+            {
+                "time": "20.30",
+                "program": "The net 3 96869819 Sf-serie, VS. Angela gaat achter een cyberterrorist van de Praetorian Guard aan."
+            },
+            {
+                "time": "21.30",
+                "program": "My bodyguard Drama, VS, 1980. Met Chris Makepeace, Adam Baldwin, Matt Dillon e.a. Regie: Tony Bill. Ciifford, een verlegen boekenwurm, is net ver- huisd naar Chicago. Op zijn nieuwe school steelt Moody steeds zijn lunchgeld. Als Clifford zich tegen Moody verzet, wordt hij gered door Ricky. Clifford en Ricky raken bevriend. &] 48853299"
+            },
+            {
+                "time": "23.30",
+                "program": "Politie! Realityserie. & 56495201"
+            },
+            {
+                "time": "0.00",
+                "program": "David Letterman. Talk- show, VS. & 98063892"
+            },
+            {
+                "time": "1.00",
+                "program": "Vice: The sex trade. 68300690"
+            },
+            {
+                "time": "2.00",
+                "endtime": "4.30",
+                "program": "Ho- meshopping. & 38047752"
+            },
+            {
+                "time": "5.45",
+                "program": "The farewell."
+            },
+            {
+                "time": "6.35",
+                "program": "Corelli. Concerti grossi, opus 6."
+            },
+            {
+                "time": "7.15",
+                "program": "Mu- sique emotion."
+            },
+            {
+                "time": "9.00",
+                "program": "Jonge ver- tolkers. Fazil Say."
+            },
+            {
+                "time": "9.30",
+                "program": "Riccardo Chailly dirigeert."
+            },
+            {
+                "time": "10.40",
+                "program": "Weber. Missa sancta."
+            },
+            {
+                "time": "11.30",
+                "program": "Yuri Buena- ventura. Salsa in Parijs."
+            },
+            {
+                "time": "12.00",
+                "program": "Chick Corea & Friedrich Gulda. The meeting."
+            },
+            {
+                "time": "13.00",
+                "program": "Le journal de Muzzik."
+            },
+            {
+                "time": "13.30",
+                "program": "Soviet echoes."
+            },
+            {
+                "time": "14.30",
+                "program": "Oistrakh en Richter. nate nr. 2” van Brahms."
+            },
+            {
+                "time": "15.00",
+                "program": "Debussy. “Pèllas et"
+            },
+            {
+                "time": "17.55",
+                "program": "Radio France."
+            },
+            {
+                "time": "19.00",
+                "program": "Jonge vertolkers. Fazil Say."
+            },
+            {
+                "time": "19.30",
+                "program": "Sam- ba. Cariocas, stadsmusici."
+            },
+            {
+                "time": "20.30",
+                "program": "Dvorak. Stabat Mater."
+            },
+            {
+                "time": "21.00",
+                "program": "Saint-Sains & Milhaud. Uitge- voerd door P. Bellugi."
+            },
+            {
+                "time": "21.50",
+                "program": "Reci- tal A Bodak. Musicora"
+            },
+            {
+                "time": "22.45",
+                "program": "Jonge vertolkers. Fazil Say."
+            },
+            {
+                "time": "23.15",
+                "program": "Chick Corea & Friends. Jazzgipfel Stuttgart ‘92."
+            },
+            {
+                "time": "0.15",
+                "program": "Arthur Rubinstein."
+            },
+            {
+                "time": "2.00",
+                "program": "Nachttv."
+            }
+        ]
+    }
+}

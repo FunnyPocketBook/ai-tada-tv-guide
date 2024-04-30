@@ -1,0 +1,594 @@
+{
+    "VRT": {
+        "special": "",
+        "programs": [
+            {
+                "time": "10.00",
+                "endtime": "12.00",
+                "program": "Donna op TV 1."
+            },
+            {
+                "time": "12.35",
+                "program": "Blokken. O"
+            },
+            {
+                "time": "13.00",
+                "program": "Nieuws en weer."
+            },
+            {
+                "time": "13.30",
+                "program": "Neighbours."
+            },
+            {
+                "time": "13.52",
+                "endtime": "16.00",
+                "program": "Herhaling nieuws en weer."
+            },
+            {
+                "time": "16.50",
+                "program": "Days of our lives Soap, VS. & 3051405"
+            },
+            {
+                "time": "17.35",
+                "program": "Neighbours Soap, Aus. Dankzij Karl slagen Mal en Darren erin om hun meningsverschillen bij te leggen. 453979"
+            },
+            {
+                "time": "18.00",
+                "program": "Journaal & 489554"
+            },
+            {
+                "time": "18.10",
+                "program": "The bold and the beautiful Soap, VS. Clarke vertelt aan Kim dat hij zich schuldig voelt over zijn ontrouw te- genover Sally. & 5206863"
+            },
+            {
+                "time": "18.30",
+                "program": "Blokken Spel. D 243134"
+            },
+            {
+                "time": "19.00",
+                "program": "Journaal & 347370"
+            },
+            {
+                "time": "19.35",
+                "program": "Man bijt hond 991973 Weer."
+            },
+            {
+                "time": "20.00",
+                "program": "Thuis & 331318 Soap, B. Jean-Pierre beseft dat hij een onvergeeflijke fout heeft gemaakt. M"
+            },
+            {
+                "time": "20.25",
+                "program": "Het swingpaleis Show. Q & 4530283"
+            },
+            {
+                "time": "21.35",
+                "program": "Turner and Hooch 4624863 Komedie, VS, 1989. Met Tom Hanks, Mare Winningham e.a. Regie: Roger Spottis- woode. Scott Turner wordt van een politiebureau over- geplaatst naar een bureau in de grote stad waar hij zich met het echte werk kan gaan bezighouden. Hij wordt di- rect op een moordzaak ge- zet. Ene Amos Reed is het slachtoffer en de enige ge- tuige is zijn hond."
+            },
+            {
+                "time": "23.10",
+                "program": "Man bijt hond 5252134 KENO."
+            },
+            {
+                "time": "23.34",
+                "program": "Nieuws & 400225318"
+            },
+            {
+                "time": "23.55",
+                "program": "Silk stalkings. & 4892467"
+            },
+            {
+                "time": "0.40",
+                "endtime": "8.00",
+                "program": "Nieuws."
+            }
+        ]
+    },
+    "null": {
+        "special": "",
+        "programs": [
+            {
+                "time": "9.00",
+                "program": "Paysages"
+            },
+            {
+                "time": "10.30",
+                "program": "Overzicht."
+            },
+            {
+                "time": "11.45",
+                "program": "Magazine Euro- news."
+            },
+            {
+                "time": "11.55",
+                "program": "Les feux de"
+            },
+            {
+                "time": "12.50",
+                "program": "Nieuws."
+            },
+            {
+                "time": "13.30",
+                "program": "Cover."
+            },
+            {
+                "time": "13.35",
+                "program": "Savannah."
+            },
+            {
+                "time": "14.25",
+                "program": "Autant savoir."
+            },
+            {
+                "time": "14.45",
+                "program": "Oeuvres en chantier. D"
+            },
+            {
+                "time": "15.20",
+                "program": "Micromédianet."
+            },
+            {
+                "time": "15.50",
+                "program": "bla bla."
+            },
+            {
+                "time": "16.55",
+                "program": "Les rues de San Francisco."
+            },
+            {
+                "time": "17.50",
+                "program": "Murder, she wrote."
+            },
+            {
+                "time": "18.45",
+                "program": "Regionaal nieuws."
+            },
+            {
+                "time": "18.50",
+                "program": "Régions soir."
+            },
+            {
+                "time": "19.10",
+                "program": "Cartes sur table."
+            },
+            {
+                "time": "19.25",
+                "program": "30 ans déjà."
+            },
+            {
+                "time": "19.30",
+                "program": "Nieuws."
+            },
+            {
+                "time": "20.30",
+                "program": "Le moment de vérité."
+            },
+            {
+                "time": "21.45",
+                "program": "Les faussaires. Komedie, F, 1994. Met Gérard Jugnot e.a. Regie: Frédéric Blum."
+            },
+            {
+                "time": "23.20",
+                "program": "Autoportrait de James Ensor."
+            },
+            {
+                "time": "0.15",
+                "program": "Nachttv,"
+            },
+            {
+                "time": "4.00",
+                "program": "Ochtendtv."
+            },
+            {
+                "time": "10.15",
+                "program": "Les yeux d'Hélène (7/9)."
+            },
+            {
+                "time": "12.05",
+                "program": "100% question."
+            },
+            {
+                "time": "12.30",
+                "program": "Frans nieuws."
+            },
+            {
+                "time": "13.05",
+                "program": "Faxculture."
+            },
+            {
+                "time": "14.00",
+                "program": "Nieuws."
+            },
+            {
+                "time": "14.15",
+                "program": "Les yeux d'Hélène (7/9). Dramaserie, F."
+            },
+            {
+                "time": "16.00",
+                "program": "Nieuws."
+            },
+            {
+                "time": "16.15",
+                "program": "Questions."
+            },
+            {
+                "time": "16.30",
+                "program": "Va savoir."
+            },
+            {
+                "time": "17.05",
+                "program": "Pyramide. Spel."
+            },
+            {
+                "time": "17.30",
+                "program": "Questions pour un cham- pion. Quiz."
+            },
+            {
+                "time": "18.00",
+                "program": "Nieuws."
+            },
+            {
+                "time": "18.15",
+                "program": "Les yeux (7/9). Dramaserie, F."
+            },
+            {
+                "time": "20.00",
+                "program": "Belgisch nieuws."
+            },
+            {
+                "time": "20.30",
+                "program": "Frans nieuws."
+            },
+            {
+                "time": "21.05",
+                "program": "Blanche (11/11)."
+            },
+            {
+                "time": "22.00",
+                "program": "Nieuws."
+            },
+            {
+                "time": "22.15",
+                "program": "Divertissement."
+            },
+            {
+                "time": "0.00",
+                "program": "Zwitsers nieuws."
+            },
+            {
+                "time": "0.30",
+                "program": "Soir 3."
+            },
+            {
+                "time": "1.05",
+                "program": "Des racines et des ailes."
+            },
+            {
+                "time": "3.00",
+                "program": "Nachttv."
+            },
+            {
+                "time": "7.00",
+                "program": "Business Breakfast."
+            },
+            {
+                "time": "8.00",
+                "program": "BBC Breakfast news. [T"
+            },
+            {
+                "time": "10.00",
+                "program": "Kilroy."
+            },
+            {
+                "time": "1.00",
+                "program": "City hospital."
+            },
+            {
+                "time": "12.00",
+                "program": "Ainsley's meals in minutes."
+            },
+            {
+                "time": "12.30",
+                "program": "House invaders."
+            },
+            {
+                "time": "13.00",
+                "program": "Pass the buck."
+            },
+            {
+                "time": "13.30",
+                "program": "bluff."
+            },
+            {
+                "time": "14.00",
+                "program": "Nieuws."
+            },
+            {
+                "time": "14.30",
+                "program": "Regionaal nieuws."
+            },
+            {
+                "time": "14.45",
+                "program": "Neighbours."
+            },
+            {
+                "time": "15.10",
+                "program": "Love boat - The next wave. M"
+            },
+            {
+                "time": "15.55",
+                "program": "The good life. E"
+            },
+            {
+                "time": "16.25",
+                "program": "Tweenies."
+            },
+            {
+                "time": "16.45",
+                "program": "Pocket dragon adven- tures."
+            },
+            {
+                "time": "16.55",
+                "program": "The animal magic show. M"
+            },
+            {
+                "time": "17.10",
+                "program": "The wild Thornberrys Jeugdserie. & 15345467"
+            },
+            {
+                "time": "17.35",
+                "program": "Linford’s record breakers 65562009 Programma waarin records worden gebroken."
+            },
+            {
+                "time": "18.00",
+                "program": "Newsround } 25299738"
+            },
+            {
+                "time": "18.10",
+                "program": "Blue Peter 18224486"
+            },
+            {
+                "time": "18.35",
+                "program": "Neighbours Soap, Aus. Lance is gebro- ken door de waarheid over Megan. 33149738"
+            },
+            {
+                "time": "19.00",
+                "program": "Nieuws T & 70178757"
+            },
+            {
+                "time": "19.30",
+                "program": "Regionaal nieuws & 70177028 Weekend watchdog Consumentenmagazine. Presentatie: Anne Robinson. 70167641"
+            },
+            {
+                "time": "20.30",
+                "program": "Top of the pops Muziekprogramma. 70166912"
+            },
+            {
+                "time": "21.00",
+                "program": "Ground force Tuiniermagazine. Tuinen van kijkers worden opgeknapt. 70181221"
+            },
+            {
+                "time": "21.30",
+                "program": "Porridge & 70180592 Comedyserie, GB."
+            },
+            {
+                "time": "22.00",
+                "program": "Nieuws 70187405"
+            },
+            {
+                "time": "22.30",
+                "program": "Misdaadserie, GB. Gillian Cramers ex wordt betrokken bij het onderzoek naar de plotselinge dood van een in- formant. Doordat haar hulp wordt ingeschakeld verkeert ze in een compromitterende situatie. 76493009"
+            },
+            {
+                "time": "23.20",
+                "program": "Omnibus Portret van acteur Sir Nigel Hawthorne. 25315047"
+            },
+            {
+                "time": "0.10",
+                "program": "Murder in mind. Thriller, VS, 1997. Met Nigel Haw- thorne, Mary Louise e.a. Regie: Andy Morahan. 45968564"
+            },
+            {
+                "time": "1.40",
+                "program": "Dr Giggles. Horror, VS, 1992. Met Larry Drake, Holly Marie Combs e.a. Regie: Manny Cotto. 2 NN RRO"
+            },
+            {
+                "time": "7.00",
+                "program": "Open University."
+            },
+            {
+                "time": "8.00",
+                "program": "Funnybones."
+            },
+            {
+                "time": "8.05",
+                "program": "Play- days."
+            },
+            {
+                "time": "8.25",
+                "program": "Tom and Jerry kids."
+            },
+            {
+                "time": "8.50",
+                "program": "Smart. H"
+            },
+            {
+                "time": "9.15",
+                "program": "Yogi's treasure hunt."
+            },
+            {
+                "time": "9.35",
+                "program": "Moomin. Come outside."
+            },
+            {
+                "time": "10.15",
+                "program": "Storytime."
+            },
+            {
+                "time": "10.30",
+                "program": "Words and pictures plus. (T"
+            },
+            {
+                "time": "10.45",
+                "program": "Watch. T"
+            },
+            {
+                "time": "11.00",
+                "program": "Teletubbies."
+            },
+            {
+                "time": "11.30",
+                "program": "Tweenies."
+            },
+            {
+                "time": "11.50",
+                "program": "Music makers."
+            },
+            {
+                "time": "12.10",
+                "program": "What? Where? When? Why?"
+            },
+            {
+                "time": "12.25",
+                "program": "English express."
+            },
+            {
+                "time": "12.45",
+                "program": "Megamaths."
+            },
+            {
+                "time": "13.00",
+                "program": "Golf. Verslag van de World Match- play. Met om"
+            },
+            {
+                "time": "16.20",
+                "program": "Nieuws."
+            },
+            {
+                "time": "18.35",
+                "program": "Ask the family Spelprogramma. & 33130080"
+            },
+            {
+                "time": "19.00",
+                "program": "The Simpsons TU B 90342738"
+            },
+            {
+                "time": "19.20",
+                "program": "The Simpsons m 38413370"
+            },
+            {
+                "time": "19.45",
+                "program": "Michael Owen's soccer skills Reportageserie over hoe succesvolle voetballers hun weg naar de top hebben ge- baand. & 94557757"
+            },
+            {
+                "time": "20.15",
+                "program": "Radical highs Magazine over extreme sporten. & 66605486"
+            },
+            {
+                "time": "20.30",
+                "program": "The bones of Colonel Fawcett Documentaire over de mys- terieuze verdwijning van een Engelse ontdekkingsreiziger in 1925. Een hoofdman van de Kalapalo-indianen neemt benedictijn Allen mee naar de plek waar kolonel Faw- cett vermoord en begraven zou moeten zijn. 70164554"
+            },
+            {
+                "time": "21.00",
+                "program": "Country tracks Magazine over het platte- land. Vandaag een be- zoek aan de Western Islands en op zoek naar nachtinsec- ten. & 70189863"
+            },
+            {
+                "time": "21.30",
+                "program": "Charlie’s garden army & 70188134 Tuiniermagazine."
+            },
+            {
+                "time": "22.00",
+                "program": "Big train & 70185047 Humor en sketches. H"
+            },
+            {
+                "time": "22.30",
+                "program": "Never mind the buzzcocks Humoristische popquiz. & 70184318"
+            },
+            {
+                "time": "23.00",
+                "program": "Game on & 48663080 Comedyserie, GB."
+            },
+            {
+                "time": "23.30",
+                "program": "Newsnight 37590573 T 4"
+            }
+        ]
+    },
+    "KETNET": {
+        "special": "",
+        "programs": [
+            {
+                "time": "16.00",
+                "program": "966689"
+            },
+            {
+                "time": "18.00",
+                "program": "Mijn gedacht! 447757"
+            },
+            {
+                "time": "18.05",
+                "program": "Viavia 7690912"
+            },
+            {
+                "time": "18.15",
+                "program": "Mijn gedacht! 5626134"
+            },
+            {
+                "time": "18.20",
+                "program": "Hey Arnold Tekenfilmserie. 494202"
+            },
+            {
+                "time": "18.35",
+                "program": "Mijn gedacht! 6882486"
+            },
+            {
+                "time": "18.40",
+                "program": "Ket & Co E 5617486 Interactief programma."
+            },
+            {
+                "time": "18.45",
+                "program": "Tripties! 9226202 Reisprogramma."
+            },
+            {
+                "time": "19.10",
+                "program": "Ultratop Popmuziek. 4007196"
+            }
+        ]
+    },
+    "CANVAS": {
+        "special": "",
+        "programs": [
+            {
+                "time": "20.00",
+                "program": "Journaal 173776"
+            },
+            {
+                "time": "20.30",
+                "program": "TerZake & 318467"
+            },
+            {
+                "time": "20.55",
+                "program": "L!nk © 6211689 Cultureel magazine."
+            },
+            {
+                "time": "21.30",
+                "program": "Holby city Ziekenhuisserie, GB. McKendrick en Meyer ver- schillen van mening over de behandeling van patiënte Christine. & 600405"
+            },
+            {
+                "time": "22.30",
+                "program": "Het peulengaleis Humor en sketches met Bart Peeters en Hugo Matthysen. 152283"
+            },
+            {
+                "time": "23.00",
+                "program": "Spraakmakers Praatprogramma. & 246221"
+            },
+            {
+                "time": "23.30",
+                "program": "Ed Wood Biografie, VS, 1994. Met Johnny Depp, Martin Land- au e.a. Regie: Tim Burton. Edward D. Wood Jr. voelt zich thuis niet gelukkig. Hij verhuist naar Hollywood om er filmregisseur te worden en als travestiet door het le- ven te gaan. Hier maakt hij kennis met de harde reali- teit. 392080"
+            },
+            {
+                "time": "1.30",
+                "endtime": "2.00",
+                "program": "Terzake"
+            }
+        ]
+    }
+}

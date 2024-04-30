@@ -1,0 +1,427 @@
+{
+    "RADIO 1": {
+        "special": "Nieuws (NOS) Elk heel uur en om 6.30, 7.30, 8.30, 12.30, 13.30, 17.30 en 18.30 en om 16.30 Radio Beursnieuws",
+        "programs": [
+            {
+                "time": "6.06",
+                "program": "Ochtendjournaal (NOS)"
+            },
+            {
+                "time": "9.04",
+                "program": "Vrijdag (VPRO)"
+            },
+            {
+                "time": "9.15",
+                "program": "Het onderhoud."
+            },
+            {
+                "time": "10.04",
+                "program": "Mar- jan Luif, alleen of in een goed gesprek."
+            },
+            {
+                "time": "10.10",
+                "program": "Buitenlandrepor- tage."
+            },
+            {
+                "time": "11.04",
+                "program": "Argos."
+            },
+            {
+                "time": "11.55",
+                "program": "Once upon a time in the news."
+            },
+            {
+                "time": "12.07",
+                "program": "Middagjournaal (NOS)"
+            },
+            {
+                "time": "13.33",
+                "program": "Vrijdag (VPRO)"
+            },
+            {
+                "time": "13.33",
+                "program": "Binnenlandreporta- ge.14.04 Zuiderlicht."
+            },
+            {
+                "time": "15.04",
+                "program": "Het debat."
+            },
+            {
+                "time": "16.04",
+                "program": "Cultuur."
+            },
+            {
+                "time": "17.07",
+                "program": "Avondjournaal (NOS)"
+            },
+            {
+                "time": "19.04",
+                "program": "Het geding (NPS) Twee partijen leggen een ver- schil van mening over een maat- schappelijke kwestie voor aan een rechter."
+            },
+            {
+                "time": "20.04",
+                "program": "De (NPS) Twee gasten uit diverse discipli- nes in de kunst gaan dieper in op hun eigen werk, maar zullen ook elkaars werk lezen c.q. bekij- ken."
+            },
+            {
+                "time": "21.04",
+                "program": "Uit het nieuws (NPS) Gesprekken met mensen die ooit in het nieuws waren."
+            },
+            {
+                "time": "22.04",
+                "program": "Langs de lijn (NOS)"
+            },
+            {
+                "time": "23.07",
+                "program": "Met het oog op morgen (NOS)"
+            },
+            {
+                "time": "0.04",
+                "endtime": "7.00",
+                "program": "Nachtieven (VPRO) Met om:"
+            },
+            {
+                "time": "0.04",
+                "program": "Nachtzusters."
+            },
+            {
+                "time": "1.02",
+                "program": "Borát. Herh."
+            },
+            {
+                "time": "2.02",
+                "program": "Muziek terwijl u slaapt."
+            },
+            {
+                "time": "5.02",
+                "program": "De gezamenlijke zenders Peazens & Moddergat. Harh"
+            }
+        ]
+    },
+    "RADIO 2": {
+        "special": "Nieuws (NOS) Elk heel uur",
+        "programs": [
+            {
+                "time": "6.04",
+                "program": "Ontbijtradio (VARA)"
+            },
+            {
+                "time": "9.04",
+                "program": "Gouden uren (TROS)"
+            },
+            {
+                "time": "12.04",
+                "program": "Tijd voor twee(KRO)"
+            },
+            {
+                "time": "14.04",
+                "program": "Maat in de middag N(&V Een vrolijk muziekprogramma met de Raadplaat, de Soulshow Classic, de verjaardagskalender en veel shownieuws. Live op in- ternet te zien en te beluisteren."
+            },
+            {
+                "time": "16.04",
+                "program": "Thuis op twee (AVRO)"
+            },
+            {
+                "time": "19.04",
+                "program": "De gouden greep (EO)"
+            },
+            {
+                "time": "20.04",
+                "program": "2 voor ‘t weekend (EO) Met 0.a. een weekend-uitgaan- stip."
+            },
+            {
+                "time": "23.04",
+                "program": "Coulissen (TROS) Een knipoog naar het theater."
+            },
+            {
+                "time": "0.00",
+                "endtime": "6.00",
+                "program": "Als Radio 1"
+            }
+        ]
+    },
+    "RADIO 3": {
+        "special": "Nieuws (NOS) Elk uur",
+        "programs": [
+            {
+                "time": "6.04",
+                "program": "Evers staat op (KRO) Presentatie: Edwin Evers."
+            },
+            {
+                "time": "9.04",
+                "program": "Arbeidsvitaminen (AVRO) Met 1. Love and pride, King. 2. Killer, Adamski. 3. China in your hand, T'Pau. 4. Living in the light, Caron Wheeler. 5. Smoorverliefd, Doe Maar. 6. Slam dunk da funk, Five. 7."
+            },
+            {
+                "time": "12.04",
+                "program": "Leuk is anders (VARA) 14,04 Rob Stenders (VARA)"
+            },
+            {
+                "time": "16.04",
+                "program": "ruuddewild.nl (BNN/TROS)"
+            },
+            {
+                "time": "18.04",
+                "program": "Kort en Klijn (NPS) Met van"
+            },
+            {
+                "time": "18.04",
+                "endtime": "19.04",
+                "program": "Corné Klijns Disco Classics Party."
+            },
+            {
+                "time": "20.04",
+                "program": "Isabelie (NPS) Met (onbekende) trendy muziek."
+            },
+            {
+                "time": "22.04",
+                "program": "Het lek (VPRO)"
+            },
+            {
+                "time": "1.04",
+                "program": "Freakolympics (VARA) Pophistorie."
+            },
+            {
+                "time": "3.04",
+                "endtime": "6.00",
+                "program": "Giel Beelen (Radio 3)"
+            }
+        ]
+    },
+    "RADIO 4": {
+        "special": "",
+        "programs": [
+            {
+                "time": "0.00",
+                "program": "en"
+            },
+            {
+                "time": "7.05",
+                "program": "Vroeg op 4 (KRO) Dagelijks ochtendmagazine."
+            },
+            {
+                "time": "9.04",
+                "program": "Muziek voor miljoenen 1. Moderato uit Sonate nr. 1 voor strijkers, Rossini. 2. Symfo- nie in D Chasse’, Stamitz. 3. De Moldau uit Mijn vaderland, Smetana. 4. Prelude in cis opus 3nr. 2, Rachmaninov. Emile Na- oumoff, piano. 5. Delen uit Sym- fonie nr. 10 opus 213 ‘In de herfst’, Raff. 6. Sonate nr. 6 uit Six sonates progressives, Von Weber. 7. Sonate in e voor fluit en basso continuo, Sammartini. Camerata Köln. 8. Blumine, City of Birmingham"
+            },
+            {
+                "time": "10.30",
+                "program": "Ochtendconcert (Radio 1. Magnificat D 486, Schubert. 2. Intende voci D 963, Schubert. 3. Schöpfungsmesse, Haydn."
+            },
+            {
+                "time": "12.02",
+                "program": "Oude muziek (VARA) Spaanse contrasten. 1. Mis Nun- ca fue pena mayor, De Penalosa. 2. Ensalada, S.A. De Heredia. 3. Passacaglia's nr. 1, Cabanilles. 4. El fuego, M. Flecha. Studium Musicae Valencia."
+            },
+            {
+                "time": "13.07",
+                "program": "Instrumentale kamermuziek (VARA) 1. Pianokwartet in a, Mahler. Kremerata Musica. 2. Strijkkwar- tet nr. 1 in A, Schmidt."
+            },
+            {
+                "time": "14.02",
+                "program": "Middagconcert (Radio 4) 1. Symfonische fragmenten uit"
+            },
+            {
+                "time": "15.20",
+                "program": "Thema (NPS) Nino Rota. (5/5) Afl: Nonetto, de Variations et fugue sur le nom de BACH voor piano en als uit- smijter van de reeks de Sacra Romana Rota."
+            },
+            {
+                "time": "16.34",
+                "program": "A 4 Presentatie: Lex Bohimeijer. Spitsuurprogramma met klassie- ke muziek-actualiteiten en nieuw uitgekomen cd's."
+            },
+            {
+                "time": "18.30",
+                "program": "Radio passaat (NPS) Live opnamen van het concert door de groep Njava uit Mada- gaskar."
+            },
+            {
+                "time": "19.30",
+                "program": "Het orgel (KRO) Op reis langs orgels. Afl. 6/15. Het Luca Neri-orgel in het Oratorio de Nardis te L'aqui- bespeeld door Francesco Cera. Werken van M. Rossi."
+            },
+            {
+                "time": "20.02",
+                "program": "Avondconcert (KRO) 1. Un sourire, Messiaen. 2. Con- cert voor viool en orkest, Dutil- - leux. 3. Symfonie nr. 7, Wage- mans."
+            },
+            {
+                "time": "23.00",
+                "program": "Jazz op 4 (NPS) George Duke & Rachelle Opname van het NSJF '99."
+            },
+            {
+                "time": "0.02",
+                "program": "Vincent na middernacht (NPS)"
+            },
+            {
+                "time": "1.02",
+                "endtime": "7.00",
+                "program": "Euroclassic Notturno (Radio 4) O.m. 1. Symfonie nr. 4 in A, Mendelssohn. 2. Symfonie nr. 6 in F, Beethoven. Het Nationaal Symfonie Orkest van de Italiaan- F Pamarien"
+            }
+        ]
+    },
+    "RADIO 5": {
+        "special": "Nieuws (NOS) Elk heel uur t/m 18.00, 21.00, 22.00 en 0.00",
+        "programs": [
+            {
+                "time": "6.02",
+                "program": "De gezamenlijke zenders Peazens & Moddergat (VPRO)"
+            },
+            {
+                "time": "7.05",
+                "program": "Pyjamapret (TELEAC/NOT)"
+            },
+            {
+                "time": "7.15",
+                "program": "Sportief (NOS)"
+            },
+            {
+                "time": "7.32",
+                "program": "Piek 5 (EO)"
+            },
+            {
+                "time": "8.05",
+                "program": "Wereldnet (VPRO/NPS/RNW)"
+            },
+            {
+                "time": "9.02",
+                "program": "Plein publiek N(&V Een plein komt tot leven op de radio, met bijdragen uit onder meer de kerk, het wijkcentrum, het café, de bibliotheek en de rechtswinkel."
+            },
+            {
+                "time": "12.02",
+                "program": "Debat op 5 N(&V Discussieprogramma over actu- ele onderwerpen die de gemoe- deren in onze samenleving be- zighouden."
+            },
+            {
+                "time": "13.08",
+                "program": "Radio 5 documentaire, dokument op 5 N(&V Eureka! - Bestaan ze nog? De Willy Wortels die hun leven lang broeden op dat ene geweldige idee? De verstrooide professors die, wanneer zij het licht weer eens zien, plotseling opspringen en Eureka! roepen? De heden- daagse uitvinders zijn eerder in-"
+            },
+            {
+                "time": "13.50",
+                "program": "Zandiopers N Fer Abrahams en Johan Kol- steeg reageren met muziek op de actualiteit."
+            },
+            {
+                "time": "14.02",
+                "program": "Schuim en as, over kunst, leven en levenskunstenaars Presentatie: Yolande Melsert. Gone with the wind, Singin' in the rain en My fair lady, klassie- ke kostuumfilms die enorme in- vloed hebben op de beeldvor- ming van het verleden. Maar wat is de realiteitswaarde van filmkostuums? Over de kleding- kast van Hollywood. het 75- jarig jubileum van de NCRV ge- sprekken met bekende 75-jarige kunstenaars: vandaag schrijver Sybren Polet."
+            },
+            {
+                "time": "16.02",
+                "program": "Scheppers & Co Actueel, informatief en muzikaal magazine."
+            },
+            {
+                "time": "17.05",
+                "program": "Radio UIT (NPS)"
+            },
+            {
+                "time": "17.50",
+                "program": "GPV (PP}"
+            },
+            {
+                "time": "18.00",
+                "program": "Spiegels (RVU) Portretten van markante landge- noten. Vandaag de in Tanzania wonende beroemde natuurfilm- er baron Hugo van Lawick (62)."
+            },
+            {
+                "time": "19.00",
+                "program": "Nieuws en actualiteiten( NPS)"
+            },
+            {
+                "time": "19.00",
+                "program": "Turks. Marokkaans en Berbers."
+            },
+            {
+                "time": "20.30",
+                "program": "Chinees."
+            },
+            {
+                "time": "21.02",
+                "program": "Globaal Gesproken I! (2} TELEAC/NOT)"
+            },
+            {
+                "time": "22.02",
+                "endtime": "0.00",
+                "program": "De avonden (VPRO) Met ca."
+            },
+            {
+                "time": "22.03",
+                "program": "Gesproken uit- zicht. Ca."
+            },
+            {
+                "time": "22.10",
+                "program": "Ca. De droom- handel. Ca."
+            },
+            {
+                "time": "23.00",
+                "program": "De muziek van Louis Lehmann. Om ca."
+            },
+            {
+                "time": "23.10",
+                "program": "Atelierbezoek door Rudi Fuchs/Toine Moerbeek. Om ca."
+            },
+            {
+                "time": "23.45",
+                "program": "De weeksluiting."
+            }
+        ]
+    },
+    "null": {
+        "special": "",
+        "programs": [
+            {
+                "time": "9.00",
+                "program": "Wereldmineralen.10.00 deke Straightahead: New her- oes."
+            },
+            {
+                "time": "11.00",
+                "program": "Het grote geluid."
+            },
+            {
+                "time": "12.00",
+                "program": "Grasduinen in jazzarchieven."
+            },
+            {
+                "time": "13.00",
+                "program": "Het paleis van de wee- moed."
+            },
+            {
+                "time": "14.00",
+                "program": "Spinning the blues."
+            },
+            {
+                "time": "15.00",
+                "program": "North Sea Jazz Festival Gerald Wilson & de Bigband v/h Kon, Conservatorium in Den Haag."
+            },
+            {
+                "time": "16.00",
+                "program": "Pays-BAS."
+            },
+            {
+                "time": "17.00",
+                "program": "Americana."
+            },
+            {
+                "time": "18.00",
+                "program": "Het radiodiner."
+            },
+            {
+                "time": "19.00",
+                "endtime": "0.00",
+                "program": "Wereldmuziek, met om"
+            },
+            {
+                "time": "19.00",
+                "program": "Volksmuziek."
+            },
+            {
+                "time": "20.00",
+                "program": "Concertagenda wereldmuziek."
+            },
+            {
+                "time": "20.05",
+                "program": "Metamorfosen. Portret van prof. Longhair."
+            },
+            {
+                "time": "21.30",
+                "program": "Nieuwe re- leases."
+            },
+            {
+                "time": "22.00",
+                "program": "Klassieke muziek uit Iran."
+            },
+            {
+                "time": "23.00",
+                "program": "0.00-8.30 De Misha Mengelberg Jazznacht."
+            }
+        ]
+    }
+}

@@ -1,0 +1,335 @@
+{
+    "RTL 4": {
+        "special": "",
+        "programs": [
+            {
+                "time": "8.30",
+                "program": "en"
+            },
+            {
+                "time": "9.00",
+                "program": "Nieuws."
+            },
+            {
+                "time": "7.10",
+                "program": "Calimero."
+            },
+            {
+                "time": "7.20",
+                "program": "Bonkers."
+            },
+            {
+                "time": "7.30",
+                "program": "Nieuws."
+            },
+            {
+                "time": "8.10",
+                "program": "The bold & the beautiful. [H"
+            },
+            {
+                "time": "8.35",
+                "program": "As the world turns."
+            },
+            {
+                "time": "9.30",
+                "program": "GTST. 33114481"
+            },
+            {
+                "time": "10.00",
+                "program": "Koffietijd! 54520023"
+            },
+            {
+                "time": "11.05",
+                "program": "Fire. 69752987"
+            },
+            {
+                "time": "12.00",
+                "program": "Loony Toons."
+            },
+            {
+                "time": "12.25",
+                "program": "Faerie tale and theatre."
+            },
+            {
+                "time": "13.30",
+                "program": "Falcon Crest. Soap, VS."
+            },
+            {
+                "time": "14.20",
+                "program": "The Oprah Winfrey show. Talk- show, VS. Afl.: Gary Zukav over verslaving. 13507690"
+            },
+            {
+                "time": "15.10",
+                "program": "As the world turns. Soap, VS. & 11949232"
+            },
+            {
+                "time": "16.00",
+                "program": "Nieuws & 1401110"
+            },
+            {
+                "time": "16.05",
+                "program": "Catherine & 49244232 Praatprogramma."
+            },
+            {
+                "time": "17.00",
+                "program": "Nieuws 3 8650023"
+            },
+            {
+                "time": "17.05",
+                "program": "RTL Live & 4408042"
+            },
+            {
+                "time": "18.00",
+                "program": "Nieuws 4761665"
+            },
+            {
+                "time": "18.30",
+                "program": "The & the beautiful 4779684 Soap, VS. Ciaudia is erg te- leurgesteld wanneer ze Thorne en Macy ziet kussen."
+            },
+            {
+                "time": "19.00",
+                "program": "Lucky letters Spelprogramma. 5463874"
+            },
+            {
+                "time": "19.30",
+                "program": "Nieuws 3 5462145"
+            },
+            {
+                "time": "20.00",
+                "program": "Goede tijden, slechte tijden Soap, NL. Mijnheer Harmsen wordt geroemd om zijn dichtkunst, maar hijzelf weet wel beter. 5469058"
+            },
+            {
+                "time": "20.30",
+                "program": "Murder in Mississippi ] Drama, VS, 1990. Met Tom Hulce, Jennifer Grey, Blair Underwood, Josh Charles e.a. Regie: Roger Young. Zomer 1964. Mickey is een activist die samen met zijn vrouw afreist naar Mississip- pi. Ze willen ervoor zorgen dat de zwarte bevolking stemrecht krijgt. Vanaf dat moment wordt het drietal echter het doelwit van cor- rupte politieagenten en de Klu Klux Klan. 8283955"
+            },
+            {
+                "time": "22.15",
+                "program": "Huis van Oranje (1/6) Serie over de leden van onze koninklijke familie. Per aflevering wordt het leven van een van hen belicht. Hoe ziet het dagelijks leven van de leden van de konink- lijke familie eruit en wat is hun plaats in onze constitu- tionele monarchie? Zie art. pagina 16-17 54679690"
+            },
+            {
+                "time": "23.00",
+                "program": "Barend & Van Dorp Praatprogramma. 3285477"
+            },
+            {
+                "time": "23.45",
+                "program": "Nieuws & 57888110"
+            },
+            {
+                "time": "0.05",
+                "program": "New York news. Drama- serie, VS. & 84561511"
+            },
+            {
+                "time": "0.55",
+                "endtime": "1.45",
+                "program": "Catherine. H]"
+            }
+        ]
+    },
+    "RTL 5": {
+        "special": "",
+        "programs": [
+            {
+                "time": "6.40",
+                "program": "Business update. Met om"
+            },
+            {
+                "time": "7.30",
+                "program": "en"
+            },
+            {
+                "time": "8.00",
+                "program": "Nieuws."
+            },
+            {
+                "time": "8.30",
+                "program": "Dagtv."
+            },
+            {
+                "time": "16.40",
+                "program": "Caroline in the city Comedyserie, VS. & 31881329"
+            },
+            {
+                "time": "17.05",
+                "program": "Chef for a night Kookprogr. & 28497416"
+            },
+            {
+                "time": "17.35",
+                "program": "Golden girls Comedyserie, VS. 3 28314139"
+            },
+            {
+                "time": "18.05",
+                "program": "Judge Judy Realityserie, VS. 43386400"
+            },
+            {
+                "time": "18.30",
+                "program": "Denktank"
+            },
+            {
+                "time": "19.00",
+                "program": "5 in ‘ land & 72118597"
+            },
+            {
+                "time": "19.25",
+                "program": "Landgenoten Interviews. 68238955"
+            },
+            {
+                "time": "19.35",
+                "program": "Hier aarde 37786435"
+            },
+            {
+                "time": "19.45",
+                "program": "Sporter van de eeuw & 11545058"
+            },
+            {
+                "time": "20.00",
+                "program": "Business update 95023752"
+            },
+            {
+                "time": "20.25",
+                "program": "Nieuws 46553232"
+            },
+            {
+                "time": "20.30",
+                "program": "Deep red Sf, VS, 1994. Met Michael Biehn, John de Lancie, Jo- anna Pacula e.a. Regie: Craig Baxley. De samenstel- ling van het bloed van een meisje wordt gewijzigd door een ontmoeting met een ruimteschip. 96502936"
+            },
+            {
+                "time": "22.00",
+                "program": "Te paard, te paard (6/8) 3 90023023 Met Mylène de la Haye."
+            },
+            {
+                "time": "22.30",
+                "program": "Sex tv & 90022394"
+            },
+            {
+                "time": "23.00",
+                "program": "5 in het land"
+            },
+            {
+                "time": "23.25",
+                "program": "Hier aarde"
+            },
+            {
+                "time": "23.35",
+                "program": "Oprah Winfrey & 53214955"
+            },
+            {
+                "time": "0.25",
+                "program": "Barend & Van Dorp. H 1 10"
+            }
+        ]
+    },
+    "DISCOVERY": {
+        "special": "",
+        "programs": [
+            {
+                "time": "9.00",
+                "program": "The evil eye."
+            },
+            {
+                "time": "9.30",
+                "program": "Fleet command."
+            },
+            {
+                "time": "10.25",
+                "program": "Vauxhall."
+            },
+            {
+                "time": "10.50",
+                "program": "Aurukun."
+            },
+            {
+                "time": "11.20",
+                "program": "Beyond 2000."
+            },
+            {
+                "time": "11.45",
+                "program": "The Viking."
+            },
+            {
+                "time": "12.40",
+                "program": "Next step."
+            },
+            {
+                "time": "13.10",
+                "program": "Earthshakers."
+            },
+            {
+                "time": "14.05",
+                "program": "Tanks."
+            },
+            {
+                "time": "14.30",
+                "program": "Shoot & scoot."
+            },
+            {
+                "time": "15.15",
+                "program": "Bhutan."
+            },
+            {
+                "time": "15.40",
+                "program": "Locusts of war."
+            },
+            {
+                "time": "16.10",
+                "program": "Flightline."
+            },
+            {
+                "time": "16.35",
+                "program": "Rex fishing world."
+            },
+            {
+                "time": "17.00",
+                "program": "Pier- re Lalande - Special agent."
+            },
+            {
+                "time": "17.30",
+                "program": "* Discovery today."
+            },
+            {
+                "time": "18.00",
+                "program": "Wor- sall."
+            },
+            {
+                "time": "19.00",
+                "program": "* Animal doctor."
+            },
+            {
+                "time": "19.30",
+                "program": "Swift and silent."
+            },
+            {
+                "time": "20.30",
+                "program": "Discovery today."
+            },
+            {
+                "time": "21.00",
+                "program": "Rocketships."
+            },
+            {
+                "time": "22.00",
+                "program": "Land."
+            },
+            {
+                "time": "23.00",
+                "program": "The biggest oil platform."
+            },
+            {
+                "time": "0.00",
+                "program": "Ultimate air- craft - Airstrike."
+            },
+            {
+                "time": "1.00",
+                "program": "View from the cage. Duikers bekijken haai- en en worden beschermd door een metalen kooi. & 49846733"
+            },
+            {
+                "time": "2.00",
+                "program": "Discovery today."
+            },
+            {
+                "time": "2.30",
+                "endtime": "3.00",
+                "program": "Babic. 53963795 (* = Niet"
+            }
+        ]
+    }
+}

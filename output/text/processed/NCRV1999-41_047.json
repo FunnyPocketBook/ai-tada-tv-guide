@@ -1,0 +1,421 @@
+{
+    "RADIO 1": {
+        "special": "Nieuws (NOS) Elk heel uur en om 6.30, 7.30, 8.30, 12.30, 13.30, 17.30 en 18.30 en om 16.30 Radio Beursnieuws",
+        "programs": [
+            {
+                "time": "6.06",
+                "program": "Ochtendjournaal (NOS)"
+            },
+            {
+                "time": "9.04",
+                "program": "De NCRV op Radio 1"
+            },
+            {
+                "time": "9.04",
+                "program": "Discussie of een langer ge- sprek over nieuwswaardige bin- nenlandse zaken."
+            },
+            {
+                "time": "10.04",
+                "program": "Buiten- land. Reportage vanuit Midden- Amerika waar vorig jaar de or- kaan Mitch raasde."
+            },
+            {
+                "time": "11.04",
+                "program": "Actu- ele thema's worden uitgediept via eigen onderzoek"
+            },
+            {
+                "time": "12.07",
+                "program": "Middagjournaal (NOS)"
+            },
+            {
+                "time": "13.33",
+                "program": "Radiojoumaal op Radio 1 (AVRO) Achtergronden bij het nieuws, met om"
+            },
+            {
+                "time": "13.33",
+                "program": "Binnenlandrepor- tage;"
+            },
+            {
+                "time": "14.04",
+                "program": "Gezondheid/welzijn;"
+            },
+            {
+                "time": "15.04",
+                "program": "Journalistenforum;"
+            },
+            {
+                "time": "16.04",
+                "program": "Cultuur."
+            },
+            {
+                "time": "17.07",
+                "program": "Avondjournaal (NOS)"
+            },
+            {
+                "time": "19.04",
+                "program": "Het uur U (EO) Discussies over actuele onder- werpen."
+            },
+            {
+                "time": "20.04",
+                "program": "Opium (AVRO) Kunst- en cultuurprogramma."
+            },
+            {
+                "time": "22.04",
+                "program": "Langs de lijn (NOS)"
+            },
+            {
+                "time": "23.07",
+                "program": "Met het oog op morgen"
+            },
+            {
+                "time": "0.04",
+                "program": "KRO's Radiodocumentaire: Damokles (KRO) Gewone mensen met bijzondere verhalen. Niemandsland (KRO)"
+            }
+        ]
+    },
+    "Radio 2": {
+        "special": "Nieuws (NOS) Elk heel uur",
+        "programs": [
+            {
+                "time": "6.04",
+                "program": "Ontbijtradio (VARA)"
+            },
+            {
+                "time": "9.04",
+                "program": "Gouden uren (TROS)"
+            },
+            {
+                "time": "12.04",
+                "program": "KRO's Tijd voor twee met Frits Spits (KRO) Smakelijk programma, met nieu- we en vaste onderdelen."
+            },
+            {
+                "time": "14.04",
+                "program": "Maat in de middag N(&V Muziekprogramma met de Raad- plaat, de Soulshow Classic, de verjaardagskalender en shownieuws. Live op internet."
+            },
+            {
+                "time": "16.04",
+                "program": "Thuis op twee (AVRO)"
+            },
+            {
+                "time": "19.04",
+                "program": "De gouden greep (EO) Populaire muziek."
+            },
+            {
+                "time": "20.04",
+                "program": "KRO's Theater van het sentiment (KRO) 11 oktober 1978 herleeft."
+            },
+            {
+                "time": "23.04",
+                "program": "Take it easy (EO) Sfeervolle muziek."
+            },
+            {
+                "time": "0.00",
+                "endtime": "6.00",
+                "program": "Radio 1"
+            }
+        ]
+    },
+    "RADIO 3": {
+        "special": "Nieuws (NOS) Elk heel uur",
+        "programs": [
+            {
+                "time": "6.04",
+                "program": "Evers staat op (KRO) Presentatie: Edwin Evers. Pyja- ma uit, Evers aan."
+            },
+            {
+                "time": "9.04",
+                "program": "Arbeidsvitaminen (AVRO) Verzoekplatenprogramma. Met 0.a. 1. Fantasy, Earth Wind & Fire. 2. Daar gaat ze, Clouseau. 3. Another brick in the wall, Pink Floyd. 4. Insomnia, Faithless."
+            },
+            {
+                "time": "12.04",
+                "program": "Denk aan Henk (VARA)"
+            },
+            {
+                "time": "14.04",
+                "program": "Rob Stenders (VARA)"
+            },
+            {
+                "time": "16.04",
+                "program": "ruuddewild.nl (BNN/TROS)"
+            },
+            {
+                "time": "18.04",
+                "program": "Kort en Klijn (NPS)"
+            },
+            {
+                "time": "20.04",
+                "program": "(NPS) Met (onbekende) trendy muziek."
+            },
+            {
+                "time": "22.04",
+                "program": "Het lek (VPRO)"
+            },
+            {
+                "time": "1.02",
+                "program": "Kicken voor je kiezen (Radio 3) Pviama FM (AVRO/KRO)"
+            }
+        ]
+    },
+    "RADIO 4": {
+        "special": "",
+        "programs": [
+            {
+                "time": "0.00",
+                "program": "en"
+            },
+            {
+                "time": "7.05",
+                "program": "Vroeg op 4 (KRO) Muziek, nieuws en concerttips en De verjaardag"
+            },
+            {
+                "time": "9.04",
+                "program": "Muziek voor miljoenen (EO) 1. Moderato uit Sonate nr. 1 voor strijkers, Rossini. 2. De herfst uit Concerto opus 8 nr. 3 ‘Le quattro stagione’, Vivaldi. 3. Feestmars, R. Strauss. Enigma Ensemble. 4. Concert voor viool en orkest nr. 2 in opus 19, Vieuxtemps. 5. Sonate K 125, D. Scarlatti. Godelieve Schrama, harp. 6. Concert voor piano en orkest nr. 6 KV 238, Mozart. 7. Ouverture Estrella de Soria, Ber- wald. 8. Nocturne in G, Field. John O'Conor, piano. 9. A song of the night opus 19 nr. 1, Holst. 10. Fuga/Allegro BWV 998, Bach. Julian Bream, gitaar."
+            },
+            {
+                "time": "10.30",
+                "program": "Ochtendconcert (Radio 4) 1. Concert voor piano en orkest nr. 3, Rachmaninov. 1de prijs- winnaar Vitaly Samoshko, piano. 2. Concert voor piano en orkest nr. 1, Tsjaikovsky. 2de prijswin- naar Alexander Ghindin, piano."
+            },
+            {
+                "time": "12.02",
+                "program": "du baroque (EO) Een uurtje barokmuziek. 1. Air uit Castor en Pollux, Rameau. 2. Concerto grosso nr. 9 in C, Avis- on. 3. Motet Kommt herzu, J.F. Doles. 4. Sonata Prima, F.M. Ver-"
+            },
+            {
+                "time": "13.07",
+                "program": "Orkesten en ensembles (EO) Het Nederlands Blazersensem- ble, opgericht in 1959, bestaat uit jonge soloblazers die met elkaar de nieuwe generatie vor- men van de internationaal be- faamde Nederlandse blazers- school."
+            },
+            {
+                "time": "14.02",
+                "program": "Middagconcert (Radio 4) 1. Dubbelkwartet opus 65, Spohr. 2. Prélude en Scherzo opus 11, Sjostakovitsj. 3. Strijk- sextet opus 18, Brahms. Ca."
+            },
+            {
+                "time": "15.25",
+                "program": "Thema (NPS) De Italiaanse componist Nino Rota. (1/5) Afl: de Tweede Sym- fonie in F, het Strijkkwartet en per il film Gattopardo."
+            },
+            {
+                "time": "16.34",
+                "program": "A 4 Presentatie: Willem Vos. Spits- uurprogramma met klassieke muziek-actualiteiten en aandacht voor nieuw uitgekomen cd's."
+            },
+            {
+                "time": "18.30",
+                "program": "De wandelende tak (VPRO) Over de Congolese orkestleider en gitarist Luambo Makiadi, beter bekend als Franco."
+            },
+            {
+                "time": "19.30",
+                "program": "Het orgel N(&Y Willem van Twillert bespeelt het orgel van de Grote of Sint Joris- kerk te Amersfoort."
+            },
+            {
+                "time": "20.02",
+                "program": "Supplement (VPRO/NPS) Element: een chronologische im- pressie van de elektr(on)isch aangedreven gitaar in de recen- te muziekgeschiedenis. Het ver- haal gaat dat ergens in de jaren dertig een jongeman met z'n les- gitaartje mee zat te spelen met een 78-toerenplaat."
+            },
+            {
+                "time": "0.02",
+                "program": "Vincent na middernacht (NPS)"
+            },
+            {
+                "time": "1.02",
+                "endtime": "7.00",
+                "program": "Euroclassic Notturno (Radio 4} O.m. 1. Kwartet in C KV 157,"
+            }
+        ]
+    },
+    "RADIO 5": {
+        "special": "Nieuws (NOS) Elk heel uur t/m 18.00, 21.00, 22.00 en 0.00",
+        "programs": [
+            {
+                "time": "6.02",
+                "program": "De gezamenlijke zenders Peazens & Moddergat (VPRO)"
+            },
+            {
+                "time": "7.05",
+                "program": "Pyjamapret (TELEAC/NOT)"
+            },
+            {
+                "time": "7.15",
+                "program": "Sportief (NOS)"
+            },
+            {
+                "time": "7.32",
+                "program": "Piek 5 (EO) Opiniërende actualiteit."
+            },
+            {
+                "time": "8.05",
+                "program": "(VPRO/NPS/RNW) Live gesprekken met Nederlan- ders overal ter wereld."
+            },
+            {
+                "time": "9.02",
+                "program": "VARA op 5 (VARA) Met om:"
+            },
+            {
+                "time": "9.02",
+                "program": "Punch."
+            },
+            {
+                "time": "9.45",
+                "program": "Bericht uit 1974."
+            },
+            {
+                "time": "10.02",
+                "program": "Paneldiscussie."
+            },
+            {
+                "time": "11.02",
+                "program": "De reportage."
+            },
+            {
+                "time": "11.55",
+                "program": "Taante."
+            },
+            {
+                "time": "12.02",
+                "program": "Debat op 5 (HUMAN) Een debat over een actueel thema."
+            },
+            {
+                "time": "13.05",
+                "program": "De Radio 5 Documentaire (HUMAN) Nieuwetijdskinderen."
+            },
+            {
+                "time": "13.50",
+                "program": "Stroei voei (HUMAN)"
+            },
+            {
+                "time": "14.02",
+                "program": "Ophef en vertier (VARA) Live kunst en cultuurmagazine. Een gesprek met Charlotte Mut- saers over haar nieuwe boek Zeepijn."
+            },
+            {
+                "time": "16.02",
+                "program": "Boven het dal (HUMAN) (Live) Interview met mediëvist en letterkundige Frits Pieter van Oostrom (1953). Hij werd al op zijn 29ste hoogleraar Historische Letterkunde in Leiden en was de jongste hoogleraar van Neder- land."
+            },
+            {
+                "time": "16.45",
+                "program": "Het Radioverhaal (HUMAN)"
+            },
+            {
+                "time": "17.05",
+                "program": "Radio UIT (NPS) Culturele actualiteiten reporta- ges, interviews en muziek."
+            },
+            {
+                "time": "17.45",
+                "program": "Kwartier Humanisme (HUMAN) Homo-emancipatie in ontwikke- lingslanden. Ook in ontwikke- lingslanden laten homo's en les- bo's steeds vaker hun gezicht zien."
+            },
+            {
+                "time": "18.02",
+                "program": "Religie en in het Arabisch (NMO)"
+            },
+            {
+                "time": "18.45",
+                "program": "Actualiteiten in het Turks (NMO)"
+            },
+            {
+                "time": "19.00",
+                "program": "Nieuws en actualiteiten (NPS)"
+            },
+            {
+                "time": "19.00",
+                "program": "Turks."
+            },
+            {
+                "time": "19.45",
+                "program": "Marokkaans en Berber.s"
+            },
+            {
+                "time": "20.30",
+                "program": "Chinees."
+            },
+            {
+                "time": "21.00",
+                "program": "Kumar Sanu of MTV (OHM)"
+            },
+            {
+                "time": "22.02",
+                "endtime": "0.00",
+                "program": "De avonden (VPRO) Om ca."
+            },
+            {
+                "time": "22.03",
+                "program": "Gesproken uit- zicht. Om ca."
+            },
+            {
+                "time": "22.10",
+                "program": "De nieuwe moraal. Een gesprek met Karen Vintges. Om ca."
+            },
+            {
+                "time": "23.00",
+                "program": "Kleine dieren aangetroffen. Om ca."
+            },
+            {
+                "time": "23.05",
+                "program": "The way up north. Een radioreis. Deel 4. Om ca."
+            },
+            {
+                "time": "23.45",
+                "program": "De Soul van Pete Felleman. Van- daaa over Teena Marie."
+            }
+        ]
+    },
+    "null": {
+        "special": "",
+        "programs": [
+            {
+                "time": "8.00",
+                "program": "Ochtendeditie. Werken van Respighi."
+            },
+            {
+                "time": "10.20",
+                "program": "Nieuw klassiek."
+            },
+            {
+                "time": "12.00",
+                "program": "Bach 2000."
+            },
+            {
+                "time": "13.00",
+                "program": "Gaude- amus. International Young Com- posers Meeting, Apeldoorn."
+            },
+            {
+                "time": "14.00",
+                "program": "De Tsjechische twintigste eeuw. Werken van Janácek. De kettingreactie."
+            },
+            {
+                "time": "17.00",
+                "program": "220 Volt"
+            },
+            {
+                "time": "18.00",
+                "program": "Beursberichten."
+            },
+            {
+                "time": "18.05",
+                "program": "Vlaams voor geen geld. Werken van H. Roelstraete, R. Coryn, L. Goosen en R. Tas."
+            },
+            {
+                "time": "18.55",
+                "program": "Concert- gebouwnieuws."
+            },
+            {
+                "time": "19.00",
+                "endtime": "0.00",
+                "program": "Oude muziek, met om"
+            },
+            {
+                "time": "19.00",
+                "program": "Roots, de Middeleeuwse wortels van twaalftoonsmuziek (1). Werken van J. Ciconia, G. de Machaut, Webern, Bach en Boulez."
+            },
+            {
+                "time": "20.00",
+                "program": "Muziek in de Nederlanden in de 17e eeuw. Werken van Monte- verdi, Huygens, Du Mont, L. Rossi, Froberger e.a."
+            },
+            {
+                "time": "21.00",
+                "program": "Bach en de anderen. Werken van Bach, Pergolesi en Corelli. Italiaanse renaissance en vroege barok. Werken van Anon, Maine- rio, R. Mantovano, M. Uccelini, M. Dall'aquila e.a."
+            },
+            {
+                "time": "23.00",
+                "program": "klingende Fingersprache. Werken van Bach."
+            },
+            {
+                "time": "0.00",
+                "endtime": "8.00",
+                "program": "De nacht."
+            }
+        ]
+    }
+}

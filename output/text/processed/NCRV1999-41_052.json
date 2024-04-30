@@ -1,0 +1,661 @@
+{
+    "VRT": {
+        "special": "",
+        "programs": [
+            {
+                "time": "10.00",
+                "endtime": "12.00",
+                "program": "Donna op TV 1."
+            },
+            {
+                "time": "12.35",
+                "program": "Blokken. O"
+            },
+            {
+                "time": "13.00",
+                "program": "Nieuws."
+            },
+            {
+                "time": "13.30",
+                "program": "Neighbours."
+            },
+            {
+                "time": "13.52",
+                "program": "Herh nieuws."
+            },
+            {
+                "time": "16.50",
+                "program": "Days of our lives Soap, VS. 3120589"
+            },
+            {
+                "time": "17.35",
+                "program": "Neighbours Soap, Aus. Harold is nog niet klaar om de grote stap te zetten in zijn relatie met Madge. 759367"
+            },
+            {
+                "time": "18.00",
+                "program": "Journaal 718270"
+            },
+            {
+                "time": "18.10",
+                "program": "The bold and the Soap, VS. Sly vertelt Jasmi- ne dat hij Jessica de ge- veinsde zwangerschap be- taald wil zetten. Jessica trap- pelt van ongeduld om Dylan te vertellen dat ze een jaar in het buitenland kan gaan stu- deren. Brooke is in de wol- ken wanneer Bridget vraagt om terug naar huis te mo- gen. & 5375947"
+            },
+            {
+                "time": "18.30",
+                "program": "Biokken Spel. D 558270"
+            },
+            {
+                "time": "19.00",
+                "program": "Journaal 692034"
+            },
+            {
+                "time": "19.35",
+                "program": "Man bijt hond 316251"
+            },
+            {
+                "time": "20.00",
+                "program": "Thuis Soap, B. Florke kan Simonne niet overhalen om Frank te- rug te nemen. Kristoff krijgt verrassend bezoek en Bianca zoekt opnieuw troost bij Tom."
+            },
+            {
+                "time": "20.25",
+                "program": "10 jaar kampioen! Programma waarin An Swartenbroeckx uit F.C. De Kampioenen terugblikt op de succesvolie comedyserie. 4609367"
+            },
+            {
+                "time": "21.35",
+                "program": "Koppen Portretten. O @ 2635909"
+            },
+            {
+                "time": "22.15",
+                "program": "Man bijt hond ® 739928 Aans!. KENO."
+            },
+            {
+                "time": "22.39",
+                "program": "Nieuws & 400361541"
+            },
+            {
+                "time": "23.10",
+                "endtime": "9.00",
+                "program": "Nieuws."
+            }
+        ]
+    },
+    "null": {
+        "special": "",
+        "programs": [
+            {
+                "time": "9.00",
+                "program": "Paysages"
+            },
+            {
+                "time": "10.30",
+                "program": "Overzicht."
+            },
+            {
+                "time": "11.45",
+                "program": "Magazine Euro- news."
+            },
+            {
+                "time": "11.55",
+                "program": "Les feux de"
+            },
+            {
+                "time": "12.50",
+                "program": "Nieuws."
+            },
+            {
+                "time": "13.30",
+                "program": "Cover."
+            },
+            {
+                "time": "13.35",
+                "program": "Savannah."
+            },
+            {
+                "time": "14.25",
+                "program": "Télétourisme."
+            },
+            {
+                "time": "15.00",
+                "program": "Lundi sports."
+            },
+            {
+                "time": "15.30",
+                "program": "Cartes postales."
+            },
+            {
+                "time": "15.50",
+                "program": "Ici bla bla."
+            },
+            {
+                "time": "16.55",
+                "program": "Les rues de San Francisco."
+            },
+            {
+                "time": "17.50",
+                "program": "Murder, she wrote."
+            },
+            {
+                "time": "18.45",
+                "program": "Regionaal nieuws."
+            },
+            {
+                "time": "18.50",
+                "program": "Régions soir."
+            },
+            {
+                "time": "19.10",
+                "program": "Cartes sur"
+            },
+            {
+                "time": "19.25",
+                "program": "30 ans déjà."
+            },
+            {
+                "time": "19.30",
+                "program": "Nieuws."
+            },
+            {
+                "time": "20.15",
+                "program": "Forts en Spel."
+            },
+            {
+                "time": "21.25",
+                "program": "La kiné. Drama, F."
+            },
+            {
+                "time": "22.55",
+                "program": "Coup de film."
+            },
+            {
+                "time": "23.15",
+                "program": "Nieuws."
+            },
+            {
+                "time": "23.40",
+                "program": "24 H sur les marchés."
+            },
+            {
+                "time": "23.45",
+                "program": "Javas."
+            },
+            {
+                "time": "23.55",
+                "program": "Politieke uitzending."
+            },
+            {
+                "time": "0.05",
+                "program": "Nachttv."
+            },
+            {
+                "time": "4.00",
+                "program": "Ochtendtv."
+            },
+            {
+                "time": "11.00",
+                "program": "Claire La- marche."
+            },
+            {
+                "time": "12.05",
+                "program": "100% question."
+            },
+            {
+                "time": "12.30",
+                "program": "Frans nieuws."
+            },
+            {
+                "time": "13.05",
+                "program": "Lignes de vie."
+            },
+            {
+                "time": "14.00",
+                "program": "Nieuws."
+            },
+            {
+                "time": "14.15",
+                "program": "La petite Komisch dra- ma, F. 1987. Regie: Danièle Du- broux. [E]"
+            },
+            {
+                "time": "16.00",
+                "program": "Nieuws."
+            },
+            {
+                "time": "16.15",
+                "program": "Questions."
+            },
+            {
+                "time": "16.30",
+                "program": "Bons baisers d'Amérique."
+            },
+            {
+                "time": "17.05",
+                "program": "Pyramide."
+            },
+            {
+                "time": "17.30",
+                "program": "Questions pour un cham- pion."
+            },
+            {
+                "time": "18.00",
+                "program": "Nieuws."
+            },
+            {
+                "time": "18.15",
+                "program": "La pe- tite allumeuse. Komisch drama, F. 1987."
+            },
+            {
+                "time": "20.00",
+                "program": "Zwitsers nieuws."
+            },
+            {
+                "time": "20.30",
+                "program": "Frans nieuws."
+            },
+            {
+                "time": "21.05",
+                "program": "Temps présent. Magazine."
+            },
+            {
+                "time": "22.00",
+                "program": "Nieuws."
+            },
+            {
+                "time": "22.15",
+                "program": "police judiciaire(11 en 12/12)."
+            },
+            {
+                "time": "0.00",
+                "program": "Bel- gisch nieuws."
+            },
+            {
+                "time": "0.30",
+                "program": "Nachttv."
+            },
+            {
+                "time": "7.00",
+                "program": "Business breakfast."
+            },
+            {
+                "time": "8.00",
+                "program": "BBC Breakfast news."
+            },
+            {
+                "time": "10.00",
+                "program": "Kilroy. (D Aans!. Nieuws."
+            },
+            {
+                "time": "11.00",
+                "program": "City Nieuws."
+            },
+            {
+                "time": "12.00",
+                "program": "meals in minutes."
+            },
+            {
+                "time": "12.30",
+                "program": "House invaders."
+            },
+            {
+                "time": "13.00",
+                "program": "Pass the buck."
+            },
+            {
+                "time": "13.30",
+                "program": "my bluff."
+            },
+            {
+                "time": "14.00",
+                "program": "Nieuws."
+            },
+            {
+                "time": "14.30",
+                "program": "Nieuws."
+            },
+            {
+                "time": "14.45",
+                "program": "Neighbours."
+            },
+            {
+                "time": "15.10",
+                "program": "Diagnosis murder."
+            },
+            {
+                "time": "15.55",
+                "program": "The good life."
+            },
+            {
+                "time": "16.25",
+                "program": "Tweenies. B"
+            },
+            {
+                "time": "16.45",
+                "program": "Pablo."
+            },
+            {
+                "time": "16.50",
+                "program": "Fudge."
+            },
+            {
+                "time": "17.10",
+                "program": "island 15407251"
+            },
+            {
+                "time": "17.35",
+                "program": "Microsoap Jeugdserie. 65624893"
+            },
+            {
+                "time": "18.00",
+                "program": "Newsround 25351522"
+            },
+            {
+                "time": "18.10",
+                "program": "Byker Grove D E 18386270"
+            },
+            {
+                "time": "18.35",
+                "program": "Neighbours Soap, Aus. B 33201522"
+            },
+            {
+                "time": "19.00",
+                "program": "Nieuws & 70230541 19,30 Regionaal nieuws & 70239812"
+            },
+            {
+                "time": "20.00",
+                "program": "Celebrity holiday memories (Slot) Programma waarin bekend- heden vakantieherinnerin- gen ophalen. 70236725"
+            },
+            {
+                "time": "20.30",
+                "program": "EastEnders Soap, GB. Kathy bereidt haar vertrek naar Zuid-Afrika voor en stelt Phil een uitima- tum. & 70235096"
+            },
+            {
+                "time": "21.00",
+                "program": "hospital Reportageserie over een diergeneeskundige kliniek. Een bull terriër ondergaat een operatie. & 70250305"
+            },
+            {
+                "time": "21.30",
+                "program": "Starting out Comedyserie, GB. Dean pro- beert Sam van Steve weg te lokken. & 70259676"
+            },
+            {
+                "time": "22.00",
+                "program": "Nieuws & 70256589"
+            },
+            {
+                "time": "22.30",
+                "program": "Crimewatch UK Programma waarin de poli- tie de hulp van kijkers in- roept bij het oplossen van misdrijven. 76554164"
+            },
+            {
+                "time": "23.15",
+                "program": "Paddington Green Reportageserie over de be- woners rond Paddington Green in West-Londen. & 21954396"
+            },
+            {
+                "time": "23.45",
+                "program": "McCoist and MacAulay Talkshow. 42960247"
+            },
+            {
+                "time": "0.20",
+                "program": "Crimewatch UK update."
+            },
+            {
+                "time": "0.30",
+                "program": "Film"
+            },
+            {
+                "time": "0.35",
+                "program": "Mot- her, jugs and speed. Actie, VS, 1976. Met Bill Cosby e.a. Regie: Peter Yates. & 34918771 2,10 BBC News."
+            },
+            {
+                "time": "7.00",
+                "program": "Open University."
+            },
+            {
+                "time": "8.00",
+                "program": "Philbert the frog."
+            },
+            {
+                "time": "8.05",
+                "program": "Playdays."
+            },
+            {
+                "time": "8.25",
+                "program": "Tom and Jerry kids."
+            },
+            {
+                "time": "8.40",
+                "program": "Seinfeld."
+            },
+            {
+                "time": "8.50",
+                "program": "Blue Peter."
+            },
+            {
+                "time": "9.15",
+                "program": "Yogi's treasure hunt. H}"
+            },
+            {
+                "time": "9.35",
+                "program": "Moomin."
+            },
+            {
+                "time": "10.00",
+                "program": "Number adventures."
+            },
+            {
+                "time": "10.15",
+                "program": "Words and pictures. Wri- ting anictures."
+            },
+            {
+                "time": "10.45",
+                "program": "Watch."
+            },
+            {
+                "time": "11.00",
+                "program": "Teletub- bies."
+            },
+            {
+                "time": "11.30",
+                "program": "Tweenies."
+            },
+            {
+                "time": "11.50",
+                "program": "Numbertime."
+            },
+            {
+                "time": "12.05",
+                "program": "What? Where? When? Why?"
+            },
+            {
+                "time": "12.20",
+                "program": "English ex- press."
+            },
+            {
+                "time": "12.40",
+                "program": "Megamaths."
+            },
+            {
+                "time": "13.00",
+                "program": "Space ark."
+            },
+            {
+                "time": "13.10",
+                "program": "Around Scotland."
+            },
+            {
+                "time": "13.30",
+                "program": "Working Iunch."
+            },
+            {
+                "time": "14.00",
+                "program": "The enchanted lands. [H]"
+            },
+            {
+                "time": "14.10",
+                "program": "Megamaths."
+            },
+            {
+                "time": "14.30",
+                "program": "Holiday snaps."
+            },
+            {
+                "time": "14.45",
+                "program": "Green fire. Avontuur, VS, 1954. 69397909"
+            },
+            {
+                "time": "16.20",
+                "program": "Nieuws."
+            },
+            {
+                "time": "16.30",
+                "program": "Whose house?"
+            },
+            {
+                "time": "17.00",
+                "program": "Ready, steady, cook Wedstrijd. 48741812"
+            },
+            {
+                "time": "17.30",
+                "program": "Delia winter collection & 48751299 Culinaire rubriek."
+            },
+            {
+                "time": "18.00",
+                "program": "Lowri Talkshow. ® 12552034"
+            },
+            {
+                "time": "18.35",
+                "program": "Ask the family Spel. & 33209164"
+            },
+            {
+                "time": "19.00",
+                "program": "Fresh Prince of Bel Air 90405251 Jeugdserie, VS. E"
+            },
+            {
+                "time": "19.25",
+                "program": "Heartbreak High Dramaserie, Aus. De wordt getroffen door een voedselvergiftiging. 74099812"
+            },
+            {
+                "time": "20.10",
+                "program": "The O zone Popprogramma. & 31589638"
+            },
+            {
+                "time": "20.30",
+                "program": "From the edge Reportage. 70233638"
+            },
+            {
+                "time": "21.00",
+                "program": "Two fat ladies Culinaire serie over de Engelse keuken. 70258947"
+            },
+            {
+                "time": "21.30",
+                "program": "Delia’s how to cook Culinair magazine. 70257218"
+            },
+            {
+                "time": "22.00",
+                "program": "War of the century Documentaireserie over het verloop van de oorlog tus- sen Duitsland en Sovjet- Unie. & 77371589"
+            },
+            {
+                "time": "22.50",
+                "program": "Royal College of Art Documentaireserie over de kunstacademie van Londen. Bruce Peter heeft het plan om een oud spoorbaantra- ject te veranderen in een racebaan. 27553299"
+            },
+            {
+                "time": "23.30",
+                "program": "Newsnight & 37669657"
+            },
+            {
+                "time": "0.20",
+                "program": "Monty Python's cir- cus."
+            },
+            {
+                "time": "0.50",
+                "program": "Seinfeld."
+            },
+            {
+                "time": "1.10",
+                "program": "Top gear take 2."
+            },
+            {
+                "time": "7.00",
+                "program": "BBC Learning zone."
+            }
+        ]
+    },
+    "KETNET": {
+        "special": "",
+        "programs": [
+            {
+                "time": "16.00",
+                "program": "& 295305"
+            },
+            {
+                "time": "18.00",
+                "program": "Mijn gedacht! ® 340893"
+            },
+            {
+                "time": "18.05",
+                "program": "Viavia Q 7769096"
+            },
+            {
+                "time": "18.15",
+                "program": "Mijn gedacht! 5795218"
+            },
+            {
+                "time": "18.20",
+                "program": "Hey Arnold & 730218"
+            },
+            {
+                "time": "18.35",
+                "program": "Mijn gedacht!"
+            },
+            {
+                "time": "18.40",
+                "program": "Bloep bloep Bloopers. & 188831"
+            },
+            {
+                "time": "18.55",
+                "program": "Ket & Co"
+            },
+            {
+                "time": "19.00",
+                "program": "Doug 508247"
+            },
+            {
+                "time": "19.10",
+                "program": "Blake and Mortimer Tekenfilmserie. 469522"
+            },
+            {
+                "time": "19.35",
+                "program": "Third rock from the sun 489386 Comedyserie, VS. Sally, Har- ry en Tommy kunnen in een restaurant maar net vermij- den dat een grote kandelaar op hun hoofd terechtkomt."
+            }
+        ]
+    },
+    "CANVAS": {
+        "special": "",
+        "programs": [
+            {
+                "time": "20.00",
+                "program": "Journaal Ù 495102"
+            },
+            {
+                "time": "20.30",
+                "program": "TerZake Actualiteiten & 647183"
+            },
+            {
+                "time": "20.55",
+                "program": "Rare streken Documentaireserie. Afl: De vissers van St. in Alaska gaan op krab- benvangst in de Beringzee, een gevaarlijk gebied waar enorme stormen ontstaan. 6324819"
+            },
+            {
+                "time": "21.55",
+                "program": "Trendspotting Programma over de nieuw- ste trends in de samenle- ving. & 511980"
+            },
+            {
+                "time": "22.25",
+                "program": "Niet te wissen Sport. 2754947"
+            },
+            {
+                "time": "23.15",
+                "program": "Het derde oog Serie documentaires. Een portret van wielerbaas Paul De Baeremaker. O 3 3136251"
+            },
+            {
+                "time": "0.15",
+                "endtime": "2.00",
+                "program": "TerZake"
+            }
+        ]
+    }
+}

@@ -1,0 +1,451 @@
+{
+    "RADIO 1": {
+        "special": "Nieuws (NOS) Elk heel uur en om 6.30, 7.30, 8.30, 12.30, 13.30, 17.30 en 18.30 en om 16.30 Radio Beursnieuws",
+        "programs": [
+            {
+                "time": "6.06",
+                "program": "Ochtendjournaat (NOS)"
+            },
+            {
+                "time": "9.04",
+                "program": "Woensdageditie (VARA) Met om:"
+            },
+            {
+                "time": "9.04",
+                "program": "1 op 1. Eén hoofd- persoon in het nieuws."
+            },
+            {
+                "time": "10.04",
+                "program": "Buitenlandse zaken."
+            },
+            {
+                "time": "10.15",
+                "program": "Het forum Buitenzorg."
+            },
+            {
+                "time": "11.04",
+                "program": "Binnen- landse kwesties."
+            },
+            {
+                "time": "12.07",
+                "program": "Middagjournaal (NOS)"
+            },
+            {
+                "time": "13.33",
+                "program": "Rechtenkwesties (NPS) De stand van zaken in de Neder- landse rechtstaat."
+            },
+            {
+                "time": "15.04",
+                "program": "Weldenkende mensen (NPS) Opiniërend programma."
+            },
+            {
+                "time": "16.04",
+                "program": "Cultuur en media (NPS) Cultuurprogramma."
+            },
+            {
+                "time": "17.07",
+                "program": "Avondjournaal (NOS)"
+            },
+            {
+                "time": "19.04",
+                "program": "Roodgloeiend (VARA)"
+            },
+            {
+                "time": "20.04",
+                "program": "Langs de lijn (NOS)"
+            },
+            {
+                "time": "23.07",
+                "program": "Met het oog op morgen (NOS)"
+            },
+            {
+                "time": "0.04",
+                "program": "Voor wie niet slapen kan (EO) Ca."
+            },
+            {
+                "time": "0.15",
+                "program": "Stof tot nadenken."
+            },
+            {
+                "time": "1.02",
+                "program": "Alle mensen"
+            },
+            {
+                "time": "2.30",
+                "program": "Zingen in de nacht (EO)"
+            },
+            {
+                "time": "3.02",
+                "program": "Gospels van toen (EO)"
+            },
+            {
+                "time": "4.02",
+                "endtime": "6.00",
+                "program": "Country trail (EO)"
+            }
+        ]
+    },
+    "RADIO 2": {
+        "special": "Nieuws (NOS) Elk heel uur",
+        "programs": [
+            {
+                "time": "6.04",
+                "program": "Ontbijtradio (VARA)"
+            },
+            {
+                "time": "9.04",
+                "program": "Gouden uren (TROS)"
+            },
+            {
+                "time": "12.04",
+                "program": "Tijd voor twee met Frits Spits (KRO)"
+            },
+            {
+                "time": "14.04",
+                "program": "Maat in de middag N(&V Een vrolijk muziekprogramma."
+            },
+            {
+                "time": "16.04",
+                "program": "Thuis op twee (AVRO)"
+            },
+            {
+                "time": "19.04",
+                "program": "De gouden greep (EO) Populaire muziek."
+            },
+            {
+                "time": "20.04",
+                "program": "Theater van het sentiment (KRO) 13 oktober 1973 herleeft."
+            },
+            {
+                "time": "23.04",
+                "program": "Take it easy (EO) Sfeervolle muziek."
+            },
+            {
+                "time": "0.00",
+                "endtime": "6.00",
+                "program": "Als Radio 1"
+            }
+        ]
+    },
+    "RADIO 3": {
+        "special": "Nieuws (NOS) Elk heel uur",
+        "programs": [
+            {
+                "time": "6.04",
+                "program": "Evers staat op (KRO) Presentatie: Edwin Evers."
+            },
+            {
+                "time": "9.04",
+                "program": "Arbeidsvitaminen (AVRO) Met 0.a. 1. You oughta know, Al- anis Morissette. 2. Exterminate, Snap. 3. Baby makes her blue jeans talk, Dr. Hook. 4. Taillights fade, Buffalo Tom. 5. Shoop shoop song, Cher. 6. Gettin' jig- gy wit it, Will Smith. 7. Freebird, Lynyrd Skynyrd. 8. | just want to make love to you, Etta James. 9. Belle of St. Mark, Sheila E. 10. Walk this world, Heather Nova. 11. Two tribes, Frankie Goes To Hollywood. 12. Piece of the rock, Mothers Finest. 13. Body and soul, Thelonious Monster. 14. Ain't no mountain high enough, Boys Town Gang. 15. Where's the love, Hanson. Knockin'"
+            },
+            {
+                "time": "12.04",
+                "program": "Denk aan Henk (VARA)"
+            },
+            {
+                "time": "14.04",
+                "program": "Rob Stenders (VARA)"
+            },
+            {
+                "time": "16.04",
+                "program": "ruuddewild.nl (BNN/TROS)"
+            },
+            {
+                "time": "18.04",
+                "program": "Kort en Klijn (NPS)"
+            },
+            {
+                "time": "20.04",
+                "program": "Isabelle (NPS) Met (onbekende) trendy muziek."
+            },
+            {
+                "time": "22.04",
+                "program": "Club lek (VPRO) Met live Spearmint en NRA."
+            },
+            {
+                "time": "1.02",
+                "program": "Kicken voor je kiezen (Radio 3)"
+            },
+            {
+                "time": "4.02",
+                "endtime": "6.00",
+                "program": "Pyjama FM (AVRO/KRO)"
+            }
+        ]
+    },
+    "RADIO 4": {
+        "special": "",
+        "programs": [
+            {
+                "time": "0.00",
+                "program": "en"
+            },
+            {
+                "time": "7.05",
+                "program": "Vroeg op 4 (KRO) Dagelijks ochtendmagazine."
+            },
+            {
+                "time": "9.04",
+                "program": "Muziek voor miljoenen (EO) 1. Suite voor viool en strijkor- kest, Sibelius. 2. Moderato uit Sonate nr.1 voor strijkers, Rossi- ni. 3. Orkestsuite BWV Bach. 4. Now, o now, | needs must part, Dowland. S. 2 Duo's voor hoorn KV 487/496a, Mozart. 6. From foreign lands opus 23, Moszkovsky. 7. Polonaise nr. 6 opus 53, Chopin. Martha Arge- rich, piano. 8. In the fen country, Vaughan-Williams. 9. Adagio uit Concert voor hobo en orkest opus 9 nr. 2, Albinoni."
+            },
+            {
+                "time": "10.30",
+                "program": "Ochtendconcert (Radio 4) 1. Ouverture Le carnaval Ro- main, Berlioz. 2. Concert voor piano en orkest nr. 1, Widor. 3. Suite Pelléas et Mélissande, Fauré. 4. Poème choréographi- que La péri, Dukas."
+            },
+            {
+                "time": "12.02",
+                "program": "Jong talent (TROS) 1. Sonate in F, Mozart. 2. Sona- te, Saint-Saêns. 3. Sonate, Pou- lenc. Pauline Oostenrijk, hobo. Ivo Jansen, piano."
+            },
+            {
+                "time": "13.07",
+                "program": "Instrumentale kamermuziek (EO) De altviool in de kamermuziek {2). 1. Sonate voor altviool en piano in Mendelssohn. 2. Märchenbilder opus 113, Schu- mann. 3. Adagio ma non tanto e cantabile uit Strijktrio, Beetho- ven."
+            },
+            {
+                "time": "14.02",
+                "program": "Middagconcert (Radio Eerste akte uit de opera Semira- mide van Rossini. Rolverdeling: Semiramide: Nelly Miricioiu, sopraan. Arsace: Daniela Barcel- lona, alt. Azema: lana lliev,"
+            },
+            {
+                "time": "16.20",
+                "program": "Thema (NPS) Nino Rota (3/5). Afl: het korte in- termezzo voor altviool en piano."
+            },
+            {
+                "time": "16.34",
+                "program": "A 4 Presentatie: Lex Bohimeijer. Spitsuurprogramma met klassie- ke muziek-actualiteiten en nieuw uitgekomen cd's."
+            },
+            {
+                "time": "18.30",
+                "program": "Operette (VARA) Nieuws uit de platenstudio's. 1. Ouverture Eine Nacht in Venedig, 2. Treu sein, das liegt mir nicht uit Eine Nacht in Venedig, Thomas Hampson. 3. Die Mädis vom Chantant, Die Csárdásfürstin, Kalman. Thomas Hampson. 4. ich Zigeunergeigen uit Gräfin Mariza, Kalman. Sari Barabas. 5. Wals Accelerationen opus 234, 6. Ich so gern einmal verliebt uit Sissy, Kreisler. Hilde Güden. 7. The gay hussar uit The chieftain, Sul- livan. Arthur Davies. 8. When the budding bloom of May uit Haddon Hall, Sullivan. 9. Finale uit Das Land des Le- har. 10. Potpourri Die Zirkusprin- zessin, Kalman."
+            },
+            {
+                "time": "19.30",
+                "program": "De Nederlanden (AVRO) Herdenkingsconcert in de Ruïne- kerk te Bergen t.g.v. de tienjarige sterfdag van de Hongaars/Ne- derlandse componist Géza Frid."
+            },
+            {
+                "time": "20.02",
+                "program": "Avondconcert (NPS/VARANPRO) A. De Matinee: 1. Prélude à d'un faune, Debus- sy. 2. Concert voor viool en or- kest, Hahn. 3. Livres pour cor- des, Boulez. 4. Suite uit De vuur- vogel, Stravinsky. Met om"
+            },
+            {
+                "time": "21.30",
+                "program": "B. Confrontaties in de jaren 1. Blaaskwintet, Henze. 2. île de feu, Messiaen. 3. Quantitäten, B. Nilsson. 4. Klavierstück V, Stock- hausen. Canteyodjaya, Mes- siaen. 6. 6 Bagatellen voor blaaskwintet, Ligeti. 7. Octet, Hindemith. Doelenensemble. To- moko Mukaiyama, piano."
+            },
+            {
+                "time": "23.00",
+                "program": "dit nog wel jazz? (VPRO) Boeren!; het kwartet van trom- pettist Eric Boeren (2)."
+            },
+            {
+                "time": "0.02",
+                "program": "Vincent na middernacht (NPS)"
+            },
+            {
+                "time": "1.02",
+                "endtime": "7.00",
+                "program": "Euroclassic Notturno (Radio 4) O.m.: een oude archiefopname uit Bulgarije, een opname uit 1955. Werken van Beethoven."
+            }
+        ]
+    },
+    "RADIO 5": {
+        "special": "Nieuws (NOS) Elk heel uur t/m 18.00, 21.00, 22.00 en 0.00",
+        "programs": [
+            {
+                "time": "6.02",
+                "program": "De gezamenlijke zenders Peazens & Moddergat (VPRO)"
+            },
+            {
+                "time": "7.05",
+                "program": "Pyjamapret (TELEAC/NOT)"
+            },
+            {
+                "time": "7.15",
+                "program": "Sportief (NOS)"
+            },
+            {
+                "time": "7.32",
+                "program": "Piek 5 (EO)"
+            },
+            {
+                "time": "8.05",
+                "program": "Wereldnet (VPRO/NPS/RNW)"
+            },
+            {
+                "time": "9.02",
+                "program": "KRO's Vijfde verdieping (KRO)"
+            },
+            {
+                "time": "10.02",
+                "program": "Een reisverhaal,"
+            },
+            {
+                "time": "10.30",
+                "program": "bij (3). Hoor- spel."
+            },
+            {
+                "time": "11.02",
+                "program": "Het verhaal achter een liedtekst met Co de Kloet en relatietherapeut Liesbeth Stam over het leven in een relatie zon- der seks."
+            },
+            {
+                "time": "12.02",
+                "program": "Het Debat op 5."
+            },
+            {
+                "time": "13.05",
+                "program": "Radio 5 (RVU) Over wonen aan de snelweg A2."
+            },
+            {
+                "time": "13.45",
+                "program": "Radio Mundo (RVU) Wereldmuziek met een verhaal."
+            },
+            {
+                "time": "14.02",
+                "program": "Vijfde verdieping (KRO)"
+            },
+            {
+                "time": "14.02",
+                "program": "Op zoek naar de eigen cultuur van gemeente Raven- stein."
+            },
+            {
+                "time": "15.02",
+                "program": "het cultureel tafel- gesprek, een radio-boekimpres- sie en de cultuurreportage."
+            },
+            {
+                "time": "16.02",
+                "program": "Portret van Coen Stork, voormalig ambassadeur in Roe-"
+            },
+            {
+                "time": "17.05",
+                "program": "Radio UIT (NPS)"
+            },
+            {
+                "time": "17.50",
+                "program": "PvdA (PP)"
+            },
+            {
+                "time": "18.08",
+                "program": "Schriftgeleerden (RKK/KRO) Vandaag: Jacques Janssen over de nieuwe vertaling van De hel van Dante Alighieri."
+            },
+            {
+                "time": "18.25",
+                "program": "Op verhaal komen (RKK/KRO)"
+            },
+            {
+                "time": "18.55",
+                "program": "Scheepspraat (RKK/KRO)"
+            },
+            {
+                "time": "19.00",
+                "program": "Nieuws en actualiteiten {NPS)"
+            },
+            {
+                "time": "19.00",
+                "program": "Turks."
+            },
+            {
+                "time": "19.45",
+                "program": "Marokkaans en Berbers."
+            },
+            {
+                "time": "20.30",
+                "program": "Chinees."
+            },
+            {
+                "time": "21.02",
+                "program": "Andersdenkenden {RKK/KRO) Gerard Klaasen ontvangt Volks- krant-hoofdredacteur Pieter Broertjes en minister van land- bouw en visserij Laurens-Jan Brinkhorst. Beiden zijn ex-her- vormd."
+            },
+            {
+                "time": "21.22",
+                "program": "Tot uw dienst (RKK/KRO) Op bezoek bij de koren van St. Bavo in Haarlem (2)."
+            },
+            {
+                "time": "21.47",
+                "program": "Ter overweging (RKK/KRO) Radio-avondgebed, vanuit de St. Bavo-kathedraal."
+            },
+            {
+                "time": "22.02",
+                "endtime": "0.00",
+                "program": "De avonden (VPRO) Om ca."
+            },
+            {
+                "time": "22.03",
+                "program": "Arnon Grunberg vanuit New York. Ca."
+            },
+            {
+                "time": "22.10",
+                "program": "Crossing Border 1999. Live. Ca."
+            },
+            {
+                "time": "23.50",
+                "program": "Verklankte verzen."
+            }
+        ]
+    },
+    "COnCERT": {
+        "special": "",
+        "programs": [
+            {
+                "time": "8.00",
+                "program": "De ochtendeditie."
+            },
+            {
+                "time": "10.00",
+                "program": "Nieuw klassiek. Werken van Moszkovsky en Schöck."
+            },
+            {
+                "time": "12.15",
+                "program": "Paul Korenhofs opera actueel."
+            },
+            {
+                "time": "13.00",
+                "program": "Mariama."
+            },
+            {
+                "time": "14.00",
+                "program": "Concert- agenda wereldmuziek."
+            },
+            {
+                "time": "14.05",
+                "program": "Concertopnamen."
+            },
+            {
+                "time": "15.30",
+                "program": "Nieuwe"
+            },
+            {
+                "time": "16.00",
+                "program": "Klassieke muziek uit India."
+            },
+            {
+                "time": "17.00",
+                "program": "Popart."
+            },
+            {
+                "time": "18.00",
+                "program": "Het radio diner."
+            },
+            {
+                "time": "19.00",
+                "endtime": "0.00",
+                "program": "Eigentijd- se muziek, met om"
+            },
+            {
+                "time": "19.00",
+                "program": "Dijk- doorbraak."
+            },
+            {
+                "time": "20.00",
+                "program": "De Tsjechische twintigste eeuw. Werken van Schulhoff en Janacek."
+            },
+            {
+                "time": "21.00",
+                "program": "Con- certopnamen. Werken van P. Clark, M. Robb, Rozalie Hirs en Lotta Wennäkoski."
+            },
+            {
+                "time": "23.00",
+                "program": "220 Volt."
+            },
+            {
+                "time": "0.00",
+                "endtime": "8.00",
+                "program": "De nacht."
+            }
+        ]
+    }
+}

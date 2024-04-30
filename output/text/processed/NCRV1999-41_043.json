@@ -1,0 +1,709 @@
+{
+    "NET 5": {
+        "special": "",
+        "programs": [
+            {
+                "time": "7.00",
+                "program": "NieuwsNET 5. 29186508"
+            },
+            {
+                "time": "12.30",
+                "program": "NET 5 presentatie. 57281508"
+            },
+            {
+                "time": "13.05",
+                "program": "Maarten en Rijk."
+            },
+            {
+                "time": "13.50",
+                "program": "Spin city."
+            },
+            {
+                "time": "14.15",
+                "program": "Sparks. & 41980614"
+            },
+            {
+                "time": "14.40",
+                "program": "USA High. 60859121"
+            },
+            {
+                "time": "15.05",
+                "program": "Major Dad. 22088071"
+            },
+            {
+                "time": "15.30",
+                "program": "Disney feest. 24072091"
+            },
+            {
+                "time": "16.10",
+                "program": "Pink Panther Tekenfilm. 51745072"
+            },
+            {
+                "time": "16.20",
+                "program": "21 Jump Street Politieserie, VS. 54284343"
+            },
+            {
+                "time": "17.15",
+                "program": "Hills 90210 Dramaserie, VS. 3] 47993633"
+            },
+            {
+                "time": "18.05",
+                "program": "The pretender VS. 99647275"
+            },
+            {
+                "time": "19.00",
+                "program": "Nieuws & 28850343"
+            },
+            {
+                "time": "19.20",
+                "program": "Zaal over de vloer Portretten. 66277546"
+            },
+            {
+                "time": "19.50",
+                "program": "Men behaving badly Comedyserie, GB. Dorothy is herstellende van een opera- tie, maar Gary's geduld als verpleger is snel op. 51838053"
+            },
+            {
+                "time": "20.30",
+                "program": "Kavanagh Q.C Dramaserie, GB. Een trawler zinkt en bijna alle opvaren- den komen om het leven. 12620362"
+            },
+            {
+                "time": "22.00",
+                "program": "24 uur ziekenhuis Docusoap. & 11013695"
+            },
+            {
+                "time": "22.35",
+                "program": "Haenen voor 11 Amusement. 50123275"
+            },
+            {
+                "time": "23.35",
+                "program": "Monty ftying circus & 71098850 Comedyserie, GB."
+            },
+            {
+                "time": "0.10",
+                "program": "Men behaving badly. 61980638"
+            },
+            {
+                "time": "0.40",
+                "program": "Het Nieuws. (H 65083305"
+            }
+        ]
+    },
+    "GEOGR.": {
+        "special": "",
+        "programs": [
+            {
+                "time": "6.00",
+                "program": "Ochtendtv."
+            },
+            {
+                "time": "13.00",
+                "program": "Gouden leeuwen van het regenwoud."
+            },
+            {
+                "time": "13.30",
+                "program": "Waar de afkomst nog in doorklinkt."
+            },
+            {
+                "time": "14.00",
+                "program": "De terugkeer van de poema."
+            },
+            {
+                "time": "14.30",
+                "program": "Een kwes- tie van geduld."
+            },
+            {
+                "time": "15.00",
+                "program": "Mijn ach- tertuin: de Serengeti."
+            },
+            {
+                "time": "16.00",
+                "program": "Ver- halen van de Serengeti."
+            },
+            {
+                "time": "17.00",
+                "program": "De kunst van de krijger."
+            },
+            {
+                "time": "18.00",
+                "program": "Stor- men in het diepe. 17631343"
+            },
+            {
+                "time": "19.00",
+                "program": "Mysterie van de schemer- zone. 56104148"
+            },
+            {
+                "time": "20.00",
+                "program": "De ver- dwenen rivier. 32540169"
+            },
+            {
+                "time": "20.30",
+                "program": "Dolfijneneiland. & 32532140"
+            },
+            {
+                "time": "21.00",
+                "program": "Yukonna. 32524121"
+            },
+            {
+                "time": "21.30",
+                "program": "Cameramannen paraat. 32523492"
+            },
+            {
+                "time": "22.00",
+                "program": "Extreme we- tenschap. 23996527"
+            },
+            {
+                "time": "23.00",
+                "program": "Toe- vluchtsoord Noordpool: een be- dreigende wildernis. 23987879"
+            },
+            {
+                "time": "0.00",
+                "program": "De verdwenen rivier."
+            },
+            {
+                "time": "0.30",
+                "program": "Dolfijneneiland."
+            },
+            {
+                "time": "1.00",
+                "program": "Yukonna."
+            },
+            {
+                "time": "1.30",
+                "program": "Camaramannen paraat."
+            },
+            {
+                "time": "2.00",
+                "program": "Nachttv."
+            }
+        ]
+    },
+    "6": {
+        "special": "",
+        "programs": [
+            {
+                "time": "7.00",
+                "program": "Popeye."
+            },
+            {
+                "time": "8.05",
+                "program": "Po- peye/Bugs Bunny."
+            },
+            {
+                "time": "8.20",
+                "program": "Hart van Nederland."
+            },
+            {
+                "time": "8.45",
+                "program": "Mork and Mindy."
+            },
+            {
+                "time": "9.10",
+                "program": "Taxi."
+            },
+            {
+                "time": "9.35",
+                "program": "All in the family."
+            },
+            {
+                "time": "10.05",
+                "program": "Jake and the fatman."
+            },
+            {
+                "time": "10.55",
+                "program": "Peter R. de Vries, misdaad- verslaggever."
+            },
+            {
+                "time": "11.55",
+                "program": "Safa- ri."
+            },
+            {
+                "time": "12.15",
+                "program": "Mysteries, magic and miracles."
+            },
+            {
+                "time": "12.40",
+                "program": "Start op zes."
+            },
+            {
+                "time": "13.10",
+                "program": "Vakantie-tv."
+            },
+            {
+                "time": "13.40",
+                "program": "Oerend hard. B"
+            },
+            {
+                "time": "14.10",
+                "program": "Goudkust. Soap, NL. B"
+            },
+            {
+                "time": "14.40",
+                "program": "Funny face. Mu- ziek, VS, 1957. Met Audrey Hepburn, Fred Astaire, Kay Thompson e.a. Regie: Stan- ley Donen. Zie Filmkeuze pag. 12/13 & 90373072"
+            },
+            {
+                "time": "16.25",
+                "program": "Silk talkings Actieserie, VS. 55081633"
+            },
+            {
+                "time": "17.15",
+                "program": "The A-team H 16318695"
+            },
+            {
+                "time": "18.10",
+                "program": "Jerry Springer Talkshow, VS. 70628324"
+            },
+            {
+                "time": "19.00",
+                "program": "Door het lint! Reportages, GB. 48279614"
+            },
+            {
+                "time": "19.30",
+                "program": "Nieuws 84937508"
+            },
+            {
+                "time": "19.55",
+                "program": "Explosief 63984546 Aansi. Trekking Lucky 10."
+            },
+            {
+                "time": "20.30",
+                "program": "Forrest Gump Drama, VS, 1994. Met Tom Hanks e.a. Regie: Robert Ze- meckis. Zie Filmkeuze pag. 12/13 0 ® 48888985"
+            },
+            {
+                "time": "22.30",
+                "program": "Hart van Nederland 81452898 Lucky 10."
+            },
+            {
+                "time": "22.55",
+                "program": "Forrest Gump Vervolg. 98352898"
+            },
+            {
+                "time": "23.30",
+                "program": "Politie, blauw in ‘t nauw 3 17475072"
+            },
+            {
+                "time": "0.05",
+                "program": "Jerry Springer."
+            },
+            {
+                "time": "0.50",
+                "program": "Regatta time."
+            },
+            {
+                "time": "1.25",
+                "program": "Nachttv."
+            }
+        ]
+    },
+    "CARTOON NETW": {
+        "special": "",
+        "programs": [
+            {
+                "time": "6.00",
+                "program": "Ochtendblok."
+            },
+            {
+                "time": "12.30",
+                "program": "Taz-Ma- nia."
+            },
+            {
+                "time": "13.00",
+                "program": "Animaniacs."
+            },
+            {
+                "time": "13.30",
+                "program": "Top Cat."
+            },
+            {
+                "time": "14.00",
+                "program": "2 stupid dogs."
+            },
+            {
+                "time": "14.30",
+                "program": "Droopy."
+            },
+            {
+                "time": "15.00",
+                "program": "Monster tails."
+            },
+            {
+                "time": "15.15",
+                "program": "Dumb & Dumber."
+            },
+            {
+                "time": "15.30",
+                "program": "Flying Rhino junior high."
+            },
+            {
+                "time": "16.00",
+                "program": "Waynehead."
+            },
+            {
+                "time": "16.30",
+                "endtime": "18.00",
+                "program": "Cartoon cartoons met om:"
+            },
+            {
+                "time": "16.30",
+                "program": "Ed, Edd n Eddy."
+            },
+            {
+                "time": "17.00",
+                "program": "Cow & chicken."
+            },
+            {
+                "time": "17.30",
+                "program": "De Powerpuff girls."
+            },
+            {
+                "time": "18.00",
+                "program": "Tom & Jerry."
+            },
+            {
+                "time": "18.30",
+                "program": "Looney tunes."
+            },
+            {
+                "time": "19.00",
+                "endtime": "20.30",
+                "program": "Zeep met om:"
+            },
+            {
+                "time": "19.00",
+                "program": "The Addams family."
+            },
+            {
+                "time": "19.30",
+                "program": "The Flintstones."
+            },
+            {
+                "time": "20.00",
+                "program": "The Jet- sons."
+            },
+            {
+                "time": "20.30",
+                "program": "Scooby Doo."
+            },
+            {
+                "time": "22.00",
+                "program": "Cartoon cartoons met om:"
+            },
+            {
+                "time": "21.00",
+                "program": "Dexter."
+            },
+            {
+                "time": "21.30",
+                "program": "Johhny Bra- vo."
+            },
+            {
+                "time": "22.00",
+                "program": "The mask."
+            },
+            {
+                "time": "22.30",
+                "program": "Dumb & Dumber."
+            },
+            {
+                "time": "23.00",
+                "program": "Tom & Jerry."
+            },
+            {
+                "time": "23.30",
+                "program": "Looney tunes."
+            },
+            {
+                "time": "0.00",
+                "program": "* Cow & Chicken."
+            },
+            {
+                "time": "0.30",
+                "program": "* | am Weasel."
+            },
+            {
+                "time": "1.00",
+                "program": "* Wacky races."
+            },
+            {
+                "time": "1.30",
+                "program": "* Top Cat. * Nachtblok. (* = Niet Ned."
+            }
+        ]
+    },
+    "VERONICA": {
+        "special": "",
+        "programs": [
+            {
+                "time": "9.00",
+                "endtime": "11.15",
+                "program": "Veronica live."
+            },
+            {
+                "time": "11.15",
+                "program": "Onderweg naar mor- gen. E"
+            },
+            {
+                "time": "11.50",
+                "program": "Big brother."
+            },
+            {
+                "time": "12.20",
+                "endtime": "16.00",
+                "program": "Veronica live. B] 30689072"
+            },
+            {
+                "time": "16.10",
+                "program": "Boy meets worid Comedyserie, VS. 43021904"
+            },
+            {
+                "time": "16.35",
+                "program": "MacGyver Actieserie, VS. & 49619966"
+            },
+            {
+                "time": "17.30",
+                "program": "Hercules Actieserie, VS. 44834445"
+            },
+            {
+                "time": "18.25",
+                "program": "Growing pains Comedyserie, VS. 15902463"
+            },
+            {
+                "time": "18.55",
+                "program": "The fresh prince of Bel Air 14132940 Comedyserie, VS."
+            },
+            {
+                "time": "19.25",
+                "program": "Onderweg naar morgen 3 18817782 Soap, NL. Bento krijgt bij trainingen ineens last van hartkloppingen."
+            },
+            {
+                "time": "20.00",
+                "program": "Big brother Realitysoap. & 48262324"
+            },
+            {
+                "time": "20.30",
+                "program": "SamSam & 33858966 Comedyserie, NL."
+            },
+            {
+                "time": "21.05",
+                "program": "Live opgenomen Satire. & 95180546"
+            },
+            {
+                "time": "21.40",
+                "program": "Airport Docusoap, GB. 15080140"
+            },
+            {
+                "time": "22.20",
+                "program": "& Co Docusoap. 95024782"
+            },
+            {
+                "time": "22.50",
+                "program": "112 weekend Realityprogramma. 98342411"
+            },
+            {
+                "time": "23.25",
+                "program": "Hoe hoort het eigenlijk? 54104633"
+            },
+            {
+                "time": "0.05",
+                "program": "De heilige koe. 56245034"
+            },
+            {
+                "time": "0.40",
+                "endtime": "2.40",
+                "program": "Stu- dio 8. Late night spelpro- aramma. 19326560"
+            }
+        ]
+    },
+    "EUROSPORT": {
+        "special": "",
+        "programs": [
+            {
+                "time": "8.30",
+                "program": "Judo. WK. 2594492"
+            },
+            {
+                "time": "10.00",
+                "program": "Voetbal. Samenvatting van de Euro 2000. & 47889072"
+            },
+            {
+                "time": "13.00",
+                "program": "Triaton. Franse & 527546"
+            },
+            {
+                "time": "14.00",
+                "program": "Judo. WK in Bir- mingham. & 932091"
+            },
+            {
+                "time": "15.30",
+                "program": "Voet- bal. Samenvatting van de Euro 2000. 26754324"
+            },
+            {
+                "time": "18.30",
+                "program": "Extreme sports. & 973701"
+            },
+            {
+                "time": "19.30",
+                "program": "nis. Champions League voor clubteams in Frankrijk: Caen te- gen Royal Villette Charleroi. 512411"
+            },
+            {
+                "time": "21.30",
+                "program": "Autosport. FIA GT kampioenschap voor toerwa- gens: 9de ronde. & 337985"
+            },
+            {
+                "time": "22.30",
+                "program": "Autosport. FIA WK Rally van San Remo, 1ste etappe. 812091"
+            },
+            {
+                "time": "23.00",
+                "program": "EK legends. [H] B} 327508"
+            },
+            {
+                "time": "0.00",
+                "program": "Motorsport. Races van gisteren uit de Grand Prix van Zuid-Afrika. 981386"
+            },
+            {
+                "time": "1.00",
+                "endtime": "1.30",
+                "program": "Autosport. FIA WK Rally van San Remo in 4012015"
+            }
+        ]
+    },
+    "null": {
+        "special": "",
+        "programs": [
+            {
+                "time": "6.30",
+                "program": "18.00 The new Addams family 31645904 Comedyserie, VS."
+            },
+            {
+                "time": "18.30",
+                "program": "The Simpsons Animatieserie, VS. 26790053"
+            },
+            {
+                "time": "19.00",
+                "program": "Goudkust Soap, NL. Nick en Mariët staan op het punt te vertrek- ken voor hun wereldreis. 48271072"
+            },
+            {
+                "time": "19.30",
+                "program": "De kampioen van Spel. 48270343"
+            },
+            {
+                "time": "20.00",
+                "program": "M.A.S.H. Comedyserie, VS. Hawkeye schrikt van zijn maandelijkse drankrekening. 48277256"
+            },
+            {
+                "time": "20.30",
+                "program": "M.A.S.H. & 48276527 Comedyserie, VS. Potter is het gezeur van zijn perso- neel over de kwaliteit van de recreationele activiteiten zat."
+            },
+            {
+                "time": "21.00",
+                "program": "Manchester United vs. the rest of the world Rechtstreeks verslag van een voetbalwedstrijd tussen Manchester United en een team samengesteld uit we- reldsterren Eric Canto- na. 48887256"
+            },
+            {
+                "time": "23.00",
+                "program": "Seinfeld Comedyserie, VS. George valt op de receptioniste van zijn bedrijf. 17245148"
+            },
+            {
+                "time": "23.30",
+                "program": "Politie! Realityserie. 18695689"
+            },
+            {
+                "time": "0.00",
+                "program": "David Letterman. Talk- show, VS. 29714580"
+            },
+            {
+                "time": "1.00",
+                "program": "NYPD blue. Politieserie, VS. Andy heeft problemen met zijn prostaat. &) 68340218"
+            },
+            {
+                "time": "2.00",
+                "endtime": "4.30",
+                "program": "Homeshopping. 38143980"
+            }
+        ]
+    },
+    "MUZZIK": {
+        "special": "",
+        "programs": [
+            {
+                "time": "5.10",
+                "program": "The Blues Montreux"
+            },
+            {
+                "time": "6.10",
+                "program": "Zagorsk: Der Chor der Mon- che."
+            },
+            {
+                "time": "7.00",
+                "program": "Musique emotion."
+            },
+            {
+                "time": "9.00",
+                "program": "Donizatti. “La fille du régiment” door S. Sequi."
+            },
+            {
+                "time": "11.05",
+                "program": "Scarpia."
+            },
+            {
+                "time": "12.00",
+                "program": "Eine kleine Jazzmusik."
+            },
+            {
+                "time": "13.00",
+                "program": "Fado - licht en duisternis."
+            },
+            {
+                "time": "14.00",
+                "program": "Accent on the offbeat. Choreografie van Peter Martins en W. Marsalis."
+            },
+            {
+                "time": "15.05",
+                "program": "Carnival of shadows."
+            },
+            {
+                "time": "16.10",
+                "program": "Plague and the moonflower."
+            },
+            {
+                "time": "17.30",
+                "program": "Andrè Cacca- relli Quartet. West Side Story."
+            },
+            {
+                "time": "19.00",
+                "program": "Le journal de Muzzik."
+            },
+            {
+                "time": "19.30",
+                "program": "Voice of firestone. Lisa della Casa in opera."
+            },
+            {
+                "time": "20.30",
+                "program": "Pianostuk- ken van Nietzsche."
+            },
+            {
+                "time": "21.00",
+                "program": "Gounod. “Romèo & Juliette”, door D. Kaegi."
+            },
+            {
+                "time": "23.30",
+                "program": "Le journal de Muzzik."
+            },
+            {
+                "time": "0.00",
+                "program": "Tribute to Cal Tjader. Montreal 1998."
+            },
+            {
+                "time": "1.00",
+                "program": "Good music."
+            },
+            {
+                "time": "1.55",
+                "program": "De zangkunst. Tenoren, bassen en baritons."
+            },
+            {
+                "time": "3.05",
+                "program": "Nachttv."
+            }
+        ]
+    }
+}

@@ -1,0 +1,418 @@
+{
+    "NEDERLAND 1": {
+        "special": "",
+        "programs": [
+            {
+                "time": "7.00",
+                "program": "NOS-Journaal. 85868"
+            },
+            {
+                "time": "7.05",
+                "program": "NL Net. (KRO) Act. uit de regio. 1507990"
+            },
+            {
+                "time": "7.30",
+                "program": "NOS-Journaal. 3364481"
+            },
+            {
+                "time": "7.38",
+                "program": "Ontbijt- tv. (KRO) Met om"
+            },
+            {
+                "time": "8.00",
+                "program": "en"
+            },
+            {
+                "time": "8.30",
+                "program": "NOS- Journaal. & 305867868"
+            },
+            {
+                "time": "9.00",
+                "program": "NOS-Jour- naal. 99023"
+            },
+            {
+                "time": "9.09",
+                "program": "De ochtenden. (AVRO) Q 402437690"
+            },
+            {
+                "time": "9.47",
+                "program": "Vinger aan de (AVRO) 206041077"
+            },
+            {
+                "time": "10.12",
+                "program": "Beeldenstorm. (AVRO) & 202026139"
+            },
+            {
+                "time": "10.21",
+                "program": "Close-up: De Boro- budur: Het wonder van Java. (AVRO) H 109490597"
+            },
+            {
+                "time": "11.10",
+                "program": "Man bijt hond. (NCRV)"
+            },
+            {
+                "time": "11.35",
+                "program": "Get the pic- ture. (KRO) H 8726665"
+            },
+            {
+                "time": "12.00",
+                "program": "Opspo- ring verzocht. (AVRO) 94431"
+            },
+            {
+                "time": "12.24",
+                "program": "KRO's Kindertijd. Met"
+            },
+            {
+                "time": "12.24",
+                "program": "Musti. H"
+            },
+            {
+                "time": "12.30",
+                "program": "Nieuwe avonturen van Beertje Paddington."
+            },
+            {
+                "time": "12.52",
+                "program": "Oake Doke. & 403571752"
+            },
+            {
+                "time": "13.02",
+                "program": "NOS-Tekst tv."
+            },
+            {
+                "time": "16.00",
+                "program": "NOS-Journaal 3 64787"
+            },
+            {
+                "time": "16.08",
+                "program": "NL Net (KRO) Actualiteiten uit de regio. & 302489690"
+            },
+            {
+                "time": "16.33",
+                "program": "Studio RKK 309499226 Actualiteiten uit kerk en samenleving."
+            },
+            {
+                "time": "17.01",
+                "program": "Alles kits 106754481 Met"
+            },
+            {
+                "time": "17.03",
+                "program": "Catdog."
+            },
+            {
+                "time": "17.27",
+                "program": "Rocko's mo- dern life."
+            },
+            {
+                "time": "17.50",
+                "program": "Duo."
+            },
+            {
+                "time": "17.52",
+                "program": "Speelgoed."
+            },
+            {
+                "time": "18.02",
+                "program": "The nanny Comedyserie, VS. Fran ontmoet in een bar de man van haar dromen: een arts met een snelle auto. 200009023"
+            },
+            {
+                "time": "18.29",
+                "program": "Man bijt hond Informatief programma. 3] 400992706"
+            },
+            {
+                "time": "18.58",
+                "program": "Untamed Amazonia (AVRO) Natuurserie over het Amazonegebied waar de dieren hun eigen leven leiden en als in beeld worden ge- bracht. & 302171787"
+            },
+            {
+                "time": "19.28",
+                "program": "Get the picture (AVRO) Kennisquiz. & 300640706"
+            },
+            {
+                "time": "20.00",
+                "program": "NOS-Journaal 41481"
+            },
+            {
+                "time": "20.31",
+                "program": "Netwerk Actualiteitenrubriek. 100083435"
+            },
+            {
+                "time": "21.06",
+                "program": "Ruth Rendell mysteries (KRO) Misdaadserie, GB. Mary, de toekomstige vrouw van Luke, komt dodelijk ten val. Het lijkt er verdacht veel op dat Elvira, de dochter van Lukes, daar de hand in heeft gehad. 105599435"
+            },
+            {
+                "time": "22.03",
+                "program": "Hotel (6/6) (KRO) Docusoap over het reilen en zeilen van het personeel van het Britannia Adelphi, een van de betere hotels in Liverpool (G.B.). Afl: The Beatles. 300080961"
+            },
+            {
+                "time": "22.39",
+                "program": "Werelden: Moeders (iKON) Documentaire, VS. Aan het woord komen in dit programma moeders van verschillende en met uiteen- lopende culturele en sociale achter- gronden. In vraaggesprekken vertellen ze over hun visie op het moederschap. Zie toelichting 406329961"
+            },
+            {
+                "time": "23.33",
+                "program": "Druk, druk, (1/3) (KRO) Documentaireserie over onze arbeids- moraal. Is (hard) werken nu wel of niet zaligmakend? Zie toelichting en het artikel op pagina 19 300042771"
+            },
+            {
+                "time": "0.13",
+                "program": "De Vrije Gedachte & 300020172"
+            },
+            {
+                "time": "0.33",
+                "endtime": "2.00",
+                "program": "Netwerk herh. N(&V"
+            }
+        ]
+    },
+    "NEDERLAND 2": {
+        "special": "",
+        "programs": [
+            {
+                "time": "7.00",
+                "program": "NOS-Tekst tv."
+            },
+            {
+                "time": "9.00",
+                "program": "TELEAC/NOT Met om"
+            },
+            {
+                "time": "9.00",
+                "endtime": "9.15",
+                "program": "Koekeloere. Afl: De spin. 246874"
+            },
+            {
+                "time": "9.20",
+                "program": "Bio-Bits Bovenbouw. (3) Afl: Beweging d.m.v. ciliën & Werking van ciliën. 2691077"
+            },
+            {
+                "time": "9.40",
+                "program": "Chem-Bits Middenbouw. (6) Afl: Reactiesnelheid - invloed concentratie en evenwicht. 5148435"
+            },
+            {
+                "time": "10.00",
+                "endtime": "10.25",
+                "program": "Teletubbies. 603145"
+            },
+            {
+                "time": "10.30",
+                "program": "Science Bank: Natuur- kunde. (3) Afl: Elektriciteit en magnetis- me. & 6014400"
+            },
+            {
+                "time": "10.45",
+                "endtime": "11.00",
+                "program": "ZEP. Afl: Boeken. & 2373435"
+            },
+            {
+                "time": "12.00",
+                "program": "NOS-Jour- naal. 442481"
+            },
+            {
+                "time": "12.08",
+                "program": "Rappatongo. 300158435"
+            },
+            {
+                "time": "12.35",
+                "program": "Rail away. (EO) 870400"
+            },
+            {
+                "time": "12.58",
+                "program": "De zon- dagavond van BNN. [E] ® 308334690"
+            },
+            {
+                "time": "13.52",
+                "program": "Radar. (TROS) 3 200180023"
+            },
+            {
+                "time": "14.20",
+                "program": "Het ziekenhuis. (EO) 7483477"
+            },
+            {
+                "time": "14.42",
+                "program": "Middernacht klassiek (EO) 205076936"
+            },
+            {
+                "time": "15.00",
+                "program": "(TROS) 135329"
+            },
+            {
+                "time": "15.54",
+                "program": "PvdA."
+            },
+            {
+                "time": "16.00",
+                "program": "Xieje op 2 567139 (TROS/EO/TELEAC/NOT) Met om"
+            },
+            {
+                "time": "16.00",
+                "program": "Teletubbies."
+            },
+            {
+                "time": "16.26",
+                "program": "Ka- bouter Plop."
+            },
+            {
+                "time": "16.30",
+                "program": "Okee magazine De Bijbel. Afl: Engelen (2)."
+            },
+            {
+                "time": "16.52",
+                "program": "Plonsters"
+            },
+            {
+                "time": "17.00",
+                "program": "Quiz van de 20ste eeuw (EO) Spelprogramma. 119961"
+            },
+            {
+                "time": "17.29",
+                "program": "2 Vandaag (EO/TROS/NOS)"
+            },
+            {
+                "time": "18.00",
+                "program": "Journaal."
+            },
+            {
+                "time": "19.00",
+                "program": "Rappatongo (TROS) Spel. Met: Ron Boszhard, Erik Hulze- bosch, Bea Meulman en Jeroen Smit. Presentatie: Nance. O & 471954"
+            },
+            {
+                "time": "19.30",
+                "program": "Knoop in je zakdoek (TELEAC/NOT) Afl: Knoopspel."
+            },
+            {
+                "time": "19.47",
+                "program": "Puur natuur (TROS) & 200191961 Natuurprogramma. 1. Zwanen in Neder- land. 2. Vogelhut Zwanenwater. 3. Specialist Hessel Wiegman redt aan- gespoelde zeehonden op Terschelling."
+            },
+            {
+                "time": "20.30",
+                "program": "NOS-Studio Sport & 4386348 Met o.m. de voetbalcompetitie en van de schaatsmarathon in Utrecht. Presentatie: Mark Smeets en Jack van Gelder."
+            },
+            {
+                "time": "21.55",
+                "program": "Socutera & 3998961"
+            },
+            {
+                "time": "21.59",
+                "program": "Andrea Bocelli (TROS) Muziekspecial met recent verschenen nummers. Zie toelichting & 409073226"
+            },
+            {
+                "time": "23.00",
+                "program": "Studio NOS & 595597 Met onder meer wedstrijden in het be- taald voetbal. Om"
+            },
+            {
+                "time": "23.30",
+                "program": "Journaal."
+            }
+        ]
+    },
+    "NEDERLAND 3": {
+        "special": "",
+        "programs": [
+            {
+                "time": "12.00",
+                "program": "NOS-Journaal. 440023"
+            },
+            {
+                "time": "12.10",
+                "program": "Lingo."
+            },
+            {
+                "time": "12.30",
+                "program": "Barend & Witteman. E"
+            },
+            {
+                "time": "13.00",
+                "program": "NOS-Journaal. 820684"
+            },
+            {
+                "time": "13.05",
+                "program": "MiddagEditie. ) 4974684"
+            },
+            {
+                "time": "13.30",
+                "program": "NOS- Sportjournaal. & 289313"
+            },
+            {
+                "time": "13.41",
+                "program": "Gogs. 102120481"
+            },
+            {
+                "time": "13.55",
+                "program": "Villa Achterwerk. [H]"
+            },
+            {
+                "time": "16.00",
+                "program": "NOS-Journaal & 461955"
+            },
+            {
+                "time": "16.09",
+                "program": "Heartbreak High (VARA) Dramaserie, Aus. 403360023 Laat De Leeuw (VARA) Praatprogramma. 303886394"
+            },
+            {
+                "time": "18.00",
+                "program": "Villa Achterwerk (VPRO) Met om"
+            },
+            {
+                "time": "18.00",
+                "program": "Hoelahoep."
+            },
+            {
+                "time": "18.08",
+                "program": "Kipper. Animatieserie, GB. 307661400"
+            },
+            {
+                "time": "18.15",
+                "program": "Sesamstraat (NPS) & 291955"
+            },
+            {
+                "time": "18.30",
+                "program": "NOS-Jeugdjournaal 290400"
+            },
+            {
+                "time": "18.43",
+                "program": "Het Klokhuis (NPS) 309272481 Afl: Computergeschiedenis."
+            },
+            {
+                "time": "19.04",
+                "program": "Lingo (VARA) & 400271936 Woordspel met Frangois Boulangé. [T"
+            },
+            {
+                "time": "19.29",
+                "program": "Barend & Witteman (VARA) Praatprogramma. 400215955"
+            },
+            {
+                "time": "20.00",
+                "program": "Het blauwe licht (VPRO) Mediaprogramma. & 353597"
+            },
+            {
+                "time": "20.33",
+                "program": "Werken aan werk: de vis (RVU) Documentairserie. Afl.: Visfileerders op Urk. Zie toelichting & 300989936"
+            },
+            {
+                "time": "21.01",
+                "program": "Pitch: De Nederlandse Dansdagen 1999 (2) (NPS) Cultureel programma. Het festival ‘Nederlandse Dansdagen 1999' maakt Maastricht drie dagen tot het epicentrum van dansend en dansminnend Neder- land. Een selectie van producties uit het afgelopen seizoen geeft een idee van ‘the state of dance’ in Nederland op de valreep van de eeuw. Het centrale thema van het nevenprogramma is dit jaar ‘Jong fysiek talent’. & 100951495"
+            },
+            {
+                "time": "21.51",
+                "program": "PvdA 104864049"
+            },
+            {
+                "time": "22.00",
+                "program": "NOS-Journaal & 494619"
+            },
+            {
+                "time": "22.16",
+                "program": "NOS-Sportjournaal Met onder meer wedstrijden in het betaald voetbal. 103967058"
+            },
+            {
+                "time": "22.34",
+                "program": "Nova (NPS/VARA) & 400163936 Actualiteitenprogramma."
+            },
+            {
+                "time": "23.04",
+                "program": "NOS-Den Haag vandaag Parlementair nieuws. & 400704969"
+            },
+            {
+                "time": "23.25",
+                "endtime": "0.16",
+                "program": "Laat De Leeuw (VARA) Praatprogramma met Paul de Leeuw, rechtstreeks uit A'dam. & 4215936"
+            }
+        ]
+    }
+}

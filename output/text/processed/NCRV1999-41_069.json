@@ -1,0 +1,919 @@
+{
+    "ARD": {
+        "special": "",
+        "programs": [
+            {
+                "time": "5.30",
+                "program": "Morgenmagazin."
+            },
+            {
+                "time": "9.00",
+                "program": "Ta- gesschau."
+            },
+            {
+                "time": "9.03",
+                "program": "Verbotene Liebe."
+            },
+            {
+                "time": "9.28",
+                "program": "ARD- Frühstücksbuffet. Met om"
+            },
+            {
+                "time": "10.00",
+                "program": "10.30 Ein Mann steht auf. (2/2) T O & 275559"
+            },
+            {
+                "time": "12.00",
+                "program": "Tagesschau um zwölf."
+            },
+            {
+                "time": "12.15",
+                "program": "ARD-Buffet."
+            },
+            {
+                "time": "13.00",
+                "program": "Tagesschau."
+            },
+            {
+                "time": "13.05",
+                "program": "ARD-Mittagsmagazin. Met heute."
+            },
+            {
+                "time": "14.00",
+                "program": "Tagesschau."
+            },
+            {
+                "time": "14.03",
+                "program": "Wunschbox."
+            },
+            {
+                "time": "15.00",
+                "program": "Ta- gesschau un drei."
+            },
+            {
+                "time": "15.15",
+                "program": "Abenteuer Wildnis - Tiere in Gefahr. Serie natuurdocu- mentaires. De lichamen van robben hebben zich perfect aan het leven in het water aangepast. Met de massale jacht die in de vorige eeuw op de dieren begon, heeft dat hen echter geen bijzon- der voordeel opgeleverd."
+            },
+            {
+                "time": "16.00",
+                "program": "Fliege. Talkshow."
+            },
+            {
+                "time": "17.00",
+                "program": "Tagesschau um fünf D & 135172"
+            },
+            {
+                "time": "17.15",
+                "program": "Brisant S 991153"
+            },
+            {
+                "time": "17.43",
+                "program": "ARD vor acht"
+            },
+            {
+                "time": "17.43",
+                "program": "Regionale informatie."
+            },
+            {
+                "time": "17.55",
+                "program": "Verbotene Liebe, serie."
+            },
+            {
+                "time": "18.25",
+                "program": "Marienhof."
+            },
+            {
+                "time": "18.55",
+                "program": "Gros- stadrevier."
+            },
+            {
+                "time": "19.52",
+                "program": "Weer & 205125066"
+            },
+            {
+                "time": "20.00",
+                "program": "Tagesschau M"
+            },
+            {
+                "time": "20.15",
+                "program": "Klemperer - Ein Leben in Deutschland (2/12) Dramaserie, Klemperer kiest op de universiteit openlijk voor de Führer. Hij heeft geen keus. Zo goed als het gaat, doet hij zijn werk. Hij schrijft, maar geen enke- le uitgever wil zijn werk pu- bliceren. D D & 2165443"
+            },
+            {
+                "time": "21.05",
+                "program": "Panorama & 3869801 Actualiteitenrubriek."
+            },
+            {
+                "time": "21.45",
+                "program": "Expeditionen ins Tierreich @ 943998 Serie natuurdocumentaires. De Neushoorn wordt in Afri- ka met uitroeiing bedreigt."
+            },
+            {
+                "time": "22.30",
+                "program": "Tagesthemen 551375"
+            },
+            {
+                "time": "23.00",
+                "program": "CityExpress 737714 Virtuele serie, is bang om zich voorgoed aan Merle te binden. D"
+            },
+            {
+                "time": "23.45",
+                "program": "Die grosse Buch- nacht der ARD Verslag van de Frankfurter Buchmesse. & 8446998"
+            },
+            {
+                "time": "1.15",
+                "program": "Nachtmagazin."
+            },
+            {
+                "time": "1.35",
+                "program": "Ch- ronik der Wende."
+            },
+            {
+                "time": "1.50",
+                "program": "Tchin tchin. Romantiek, 1991. & 47425592"
+            },
+            {
+                "time": "3.25",
+                "program": "Nachtmagazin."
+            },
+            {
+                "time": "3.45",
+                "program": "Die schönsten Bahnstrecken Europas."
+            },
+            {
+                "time": "4.20",
+                "program": "Nachttv."
+            }
+        ]
+    },
+    "ZDF": {
+        "special": "",
+        "programs": [
+            {
+                "time": "9.00",
+                "program": "Ta- gesschau."
+            },
+            {
+                "time": "9.03",
+                "program": "Volle Kanne, Susanne."
+            },
+            {
+                "time": "9.30",
+                "program": "Bekenntnisse des Hochstaplers Felix Krull. Komedie, 1957. Met Horst Buchholz, Liselotte Pulver, Paul Dahike e.a. Re- gie: Kurt Hoffmann. & 8612462"
+            },
+            {
+                "time": "11.15",
+                "program": "Die Wi- cherts von nebenan."
+            },
+            {
+                "time": "12.00",
+                "program": "Tagesschau um"
+            },
+            {
+                "time": "12.15",
+                "program": "drehscheibe Deutsch- land. Presseschau."
+            },
+            {
+                "time": "13.00",
+                "program": "Tagesschau."
+            },
+            {
+                "time": "13.05",
+                "program": "ARD-Mittagsmagazin."
+            },
+            {
+                "time": "13.50",
+                "program": "ZDF Sport extra: voetbal. Rechtstreeks verslag van het EK in Odenburg, kwalificatie dames, c.a."
+            },
+            {
+                "time": "14.50",
+                "program": "heute. 97007849"
+            },
+            {
+                "time": "16.00",
+                "program": "heute - in Europa."
+            },
+            {
+                "time": "16.15",
+                "program": "Risiko. Lotto."
+            },
+            {
+                "time": "17.00",
+                "program": "heute & 396714"
+            },
+            {
+                "time": "17.15",
+                "program": "hallo Deutschland Magazine. & 4599882"
+            },
+            {
+                "time": "17.40",
+                "program": "Leute heute & 1945578"
+            },
+            {
+                "time": "17.50",
+                "program": "Ein Fali für zwei Misdaadserie, De pro- minente kunsthandelaar Jochen Scherbach is twee jaar geleden vrijgesproken van de moord op een jonge vrouw, die dood in het zwembad is aangetroffen. Hij denkt dat de aantrekkelij- ke studente Katja als lokaas wordt gebruikt om hem als- nog achter slot en grendel te krijgen. D H 9707284"
+            },
+            {
+                "time": "19.00",
+                "program": "heute & 417646"
+            },
+            {
+                "time": "19.20",
+                "program": "Weer & 2051424"
+            },
+            {
+                "time": "19.25",
+                "program": "Die Sternbergs Dramaserie, Alexandra gaat voor het eerst werken als leerling-verpleegster in de Sternberg-kliniek. De ou- ders van Torsten zijn zeer verbaasd als een jongeman zich voorstelt als de partner van hun zoon. 8662917"
+            },
+            {
+                "time": "20.15",
+                "program": "30 Jahre ‘Die Flippers’ Muzikale rondreis door Tessin. 206153"
+            },
+            {
+                "time": "21.15",
+                "program": "auslandsjournal Magazine. 931462"
+            },
+            {
+                "time": "21.45",
+                "program": "heute-journal Met weer. 927269"
+            },
+            {
+                "time": "22.15",
+                "program": "Berlin Mitte Talkshow. 9612917"
+            },
+            {
+                "time": "23.00",
+                "program": "Die Johannes B. Kerner-Show 522578"
+            },
+            {
+                "time": "23.45",
+                "program": "heute nacht & 9633153"
+            },
+            {
+                "time": "0.00",
+                "program": "zdf.de."
+            },
+            {
+                "time": "1.50",
+                "program": "heute nacht."
+            },
+            {
+                "time": "2.05",
+                "program": "Die Johannes B. Ker- ner-Show,"
+            },
+            {
+                "time": "2.50",
+                "program": "auslands- journal."
+            },
+            {
+                "time": "3.20",
+                "program": "Die Stern- bergs. D"
+            },
+            {
+                "time": "4.05",
+                "program": "Strassen- feger. O"
+            },
+            {
+                "time": "4.20",
+                "program": "Risiko."
+            },
+            {
+                "time": "5.05",
+                "program": "hallo Deutschland."
+            }
+        ]
+    },
+    "NORD 3": {
+        "special": "",
+        "programs": [
+            {
+                "time": "6.00",
+                "program": "Ochtendtv."
+            },
+            {
+                "time": "9.00",
+                "program": "Nordmaga- zin."
+            },
+            {
+                "time": "9.30",
+                "program": "Hamburger Journal."
+            },
+            {
+                "time": "10.00",
+                "program": "Schleswig-Holstein-Maga- zin."
+            },
+            {
+                "time": "10.30",
+                "program": "Hallo Niedersachsen."
+            },
+            {
+                "time": "11.00",
+                "program": "buten un binnen."
+            },
+            {
+                "time": "11.30",
+                "program": "Pa- riser Geschichten."
+            },
+            {
+                "time": "12.00",
+                "program": "Fliege."
+            },
+            {
+                "time": "13.00",
+                "program": "Freut euch des Nordens."
+            },
+            {
+                "time": "13.45",
+                "program": "Chronik der Wende. Walter Mellon."
+            },
+            {
+                "time": "15.00",
+                "program": "Tagesschau um drei."
+            },
+            {
+                "time": "15.15",
+                "program": "Bilderbuch Deutschland."
+            },
+            {
+                "time": "16.00",
+                "program": "N3 ab 4."
+            },
+            {
+                "time": "17.55",
+                "program": "N3 regional."
+            },
+            {
+                "time": "18.00",
+                "program": "Die Sendung mit der Maus."
+            },
+            {
+                "time": "18.30",
+                "program": "Unser Sandmännchen."
+            },
+            {
+                "time": "18.35",
+                "program": "N3 regional."
+            },
+            {
+                "time": "18.45",
+                "program": "DAS!"
+            },
+            {
+                "time": "19.30",
+                "program": "N3 regional."
+            },
+            {
+                "time": "20.00",
+                "program": "Tagesschau."
+            },
+            {
+                "time": "20.15",
+                "program": "Neufundland. &"
+            },
+            {
+                "time": "21.00",
+                "program": "The McKenzie break. Oorlog, GB, 1970. &)"
+            },
+            {
+                "time": "22.40",
+                "program": "Rudis Lacharchiv."
+            },
+            {
+                "time": "23.00",
+                "program": "extra 3."
+            },
+            {
+                "time": "23.30",
+                "program": "Ein Haus in der Toscana. Serie"
+            },
+            {
+                "time": "0.20",
+                "program": "Lindenstrasse."
+            },
+            {
+                "time": "0.50",
+                "program": "Ink."
+            },
+            {
+                "time": "1.10",
+                "program": "Brisant."
+            },
+            {
+                "time": "1.40",
+                "program": "Musikladen."
+            },
+            {
+                "time": "2.25",
+                "program": "Nachttv."
+            }
+        ]
+    },
+    "WDR": {
+        "special": "",
+        "programs": [
+            {
+                "time": "6.00",
+                "program": "Cursus Engels."
+            },
+            {
+                "time": "6.30",
+                "program": "mit- twochs"
+            },
+            {
+                "time": "8.00",
+                "program": "Hier und Heute."
+            },
+            {
+                "time": "8.15",
+                "program": "Ochtendgymnas- tiek."
+            },
+            {
+                "time": "8.30",
+                "program": "Cursus natuurkunde."
+            },
+            {
+                "time": "9.00",
+                "program": "Dagtv."
+            },
+            {
+                "time": "15.00",
+                "program": "Tagesschau um drei."
+            },
+            {
+                "time": "15.15",
+                "program": "Tagesschau vor 20 Jahren."
+            },
+            {
+                "time": "15.30",
+                "program": "WDR ser- viceZeit Verkehr."
+            },
+            {
+                "time": "16.00",
+                "program": "Hier und Heute - Reportage."
+            },
+            {
+                "time": "16.15",
+                "program": "Spiele des Lebens."
+            },
+            {
+                "time": "17.00",
+                "program": "Lokal- zeit NRW."
+            },
+            {
+                "time": "17.05",
+                "program": "Verbotene liebe."
+            },
+            {
+                "time": "17.30",
+                "program": "Lindenstrasse."
+            },
+            {
+                "time": "18.00",
+                "program": "Lokalzeit."
+            },
+            {
+                "time": "18.05",
+                "program": "Hier und Heute - Reportage."
+            },
+            {
+                "time": "18.20",
+                "program": "WDR Service- Zeit Geld."
+            },
+            {
+                "time": "18.50",
+                "program": "Aktuelle Stunde."
+            },
+            {
+                "time": "19.30",
+                "program": "Lokalzeit."
+            },
+            {
+                "time": "20.00",
+                "program": "Tages- schau."
+            },
+            {
+                "time": "20.15",
+                "program": "Polizeiruf 110."
+            },
+            {
+                "time": "21.45",
+                "program": "NRW am Abend."
+            },
+            {
+                "time": "22.00",
+                "program": "Frau-TV."
+            },
+            {
+                "time": "22.30",
+                "program": "WDR Talkshow."
+            },
+            {
+                "time": "0.00",
+                "program": "Lindenstrasse."
+            },
+            {
+                "time": "0.30",
+                "program": "Nachttv."
+            }
+        ]
+    },
+    "null": {
+        "special": "",
+        "programs": [
+            {
+                "time": "6.00",
+                "program": "DASDING im TV."
+            },
+            {
+                "time": "7.30",
+                "program": "Cursus natuurkunde."
+            },
+            {
+                "time": "8.00",
+                "program": "Tele- gym."
+            },
+            {
+                "time": "8.15",
+                "program": "Tiere und Pflanzen."
+            },
+            {
+                "time": "8.30",
+                "program": "Hart trainiert, und doch ver- loren."
+            },
+            {
+                "time": "8.45",
+                "program": "Tatort Umwelt."
+            },
+            {
+                "time": "9.15",
+                "program": "Transasia."
+            },
+            {
+                "time": "9.45",
+                "program": "Ochtendtv."
+            },
+            {
+                "time": "13.00",
+                "program": "Früh-Stück mit Tieren."
+            },
+            {
+                "time": "13.15",
+                "program": "ARD-Buffet."
+            },
+            {
+                "time": "14.00",
+                "program": "100 Deutsche Jahre."
+            },
+            {
+                "time": "14.30",
+                "program": "Geheim- nisvolle Welt."
+            },
+            {
+                "time": "15.00",
+                "program": "Die Sendung mit der Maus. 15,35 Matt und Jenny."
+            },
+            {
+                "time": "16.00",
+                "program": "Alfredissimo!"
+            },
+            {
+                "time": "16.30",
+                "program": "Die Fallers."
+            },
+            {
+                "time": "17.00",
+                "program": "Wunschbox."
+            },
+            {
+                "time": "18.00",
+                "program": "Aktuell."
+            },
+            {
+                "time": "18.05",
+                "program": "Hierzuland."
+            },
+            {
+                "time": "18.15",
+                "program": "Einfach köstlich!"
+            },
+            {
+                "time": "18.50",
+                "program": "Treffpunkt."
+            },
+            {
+                "time": "19.20",
+                "program": "Landesschau."
+            },
+            {
+                "time": "19.45",
+                "program": "Aktuell."
+            },
+            {
+                "time": "20.00",
+                "program": "Tagesschau."
+            },
+            {
+                "time": "20.15",
+                "program": "Ländersache."
+            },
+            {
+                "time": "21.00",
+                "program": "Fahr mal hin."
+            },
+            {
+                "time": "21.30",
+                "program": "Aktuell."
+            },
+            {
+                "time": "21.45",
+                "program": "Sport."
+            },
+            {
+                "time": "22.15",
+                "program": "Zeichen der"
+            },
+            {
+                "time": "23.00",
+                "program": "Aktuell."
+            },
+            {
+                "time": "23.05",
+                "program": "Duel. Horror, VS, 1971."
+            },
+            {
+                "time": "0.30",
+                "program": "Nachttv."
+            }
+        ]
+    },
+    "RTL+": {
+        "special": "",
+        "programs": [
+            {
+                "time": "6.00",
+                "program": "Ochtendtv."
+            },
+            {
+                "time": "12.00",
+                "program": "Punkt 12."
+            },
+            {
+                "time": "13.00",
+                "program": "Die Oliver Geissen Show."
+            },
+            {
+                "time": "14.00",
+                "program": "Birte Karalus."
+            },
+            {
+                "time": "15.00",
+                "program": "Bärbel Schäfer."
+            },
+            {
+                "time": "16.00",
+                "program": "Hans Meiser."
+            },
+            {
+                "time": "17.00",
+                "program": "The nanny."
+            },
+            {
+                "time": "17.30",
+                "program": "Unter uns."
+            },
+            {
+                "time": "18.00",
+                "program": "Guten Abend."
+            },
+            {
+                "time": "18.30",
+                "program": "Exclusiv."
+            },
+            {
+                "time": "18.45",
+                "program": "Aktuell."
+            },
+            {
+                "time": "19.10",
+                "program": "Ex- plosiv."
+            },
+            {
+                "time": "19.40",
+                "program": "Gute Zeiten, schlechte Zeiten. Soap, Did. 3 53508801"
+            },
+            {
+                "time": "20.15",
+                "program": "Der Clown. Actieserie, & 8276443"
+            },
+            {
+                "time": "21.15",
+                "program": "Balko. Politieserie, 3 4309004"
+            },
+            {
+                "time": "22.15",
+                "program": "Die Wache. Po- litieserie, Did. 8541424"
+            },
+            {
+                "time": "23.15",
+                "program": "Tequila & Bonetti. Mis- daadserie, VS. & 2039424"
+            },
+            {
+                "time": "0.00",
+                "program": "Nachtjournal."
+            },
+            {
+                "time": "0.30",
+                "program": "Nachttv."
+            }
+        ]
+    },
+    "SAT": {
+        "special": "",
+        "programs": [
+            {
+                "time": "5.30",
+                "program": "Ochtendtv."
+            },
+            {
+                "time": "10.30",
+                "program": "So ist das Leben."
+            },
+            {
+                "time": "11.00",
+                "program": "Jörg Pilawa."
+            },
+            {
+                "time": "12.00",
+                "program": "Vera am Mittag."
+            },
+            {
+                "time": "13.00",
+                "program": "Sonja."
+            },
+            {
+                "time": "14.00",
+                "program": "Ricky!"
+            },
+            {
+                "time": "15.00",
+                "program": "Star Trek: Deep Space Nine."
+            },
+            {
+                "time": "16.00",
+                "program": "Chicago Hope."
+            },
+            {
+                "time": "17.00",
+                "program": "Jeder gegen Jeden."
+            },
+            {
+                "time": "17.30",
+                "program": "Regionaal magazine."
+            },
+            {
+                "time": "18.00",
+                "program": "Richterin Barbara Salesch."
+            },
+            {
+                "time": "18.30",
+                "program": "Nieuws."
+            },
+            {
+                "time": "18.50",
+                "program": "Sport."
+            },
+            {
+                "time": "19.00",
+                "program": "Blitz."
+            },
+            {
+                "time": "19.40",
+                "program": "Echt wahr! Wetenschappe- lijk magazine."
+            },
+            {
+                "time": "20.15",
+                "program": "Kommissar Rex."
+            },
+            {
+                "time": "21.15",
+                "program": "Für alle Fälle Stefa- nie."
+            },
+            {
+                "time": "22.15",
+                "program": "Alphateam - Die Le- bensretter im OP."
+            },
+            {
+                "time": "23.15",
+                "program": "Harald Schmidt Show."
+            },
+            {
+                "time": "0.15",
+                "program": "Nachttv."
+            }
+        ]
+    },
+    "TMF": {
+        "special": "",
+        "programs": [
+            {
+                "time": "6.00",
+                "program": "Get up! (and dance). 74918559"
+            },
+            {
+                "time": "9.00",
+                "program": "Clip gallery. 55498462"
+            },
+            {
+                "time": "12.00",
+                "program": "Weekend spe- cial. & 47916882"
+            },
+            {
+                "time": "14.00",
+                "program": "Anthony Kamerling en Kasper van Kooten. 46385627 P.M. Interactief magazine. 92471608"
+            },
+            {
+                "time": "17.00",
+                "program": "D-Day. 79211882"
+            },
+            {
+                "time": "19.00",
+                "program": "De Dag Top 5. & 35479191"
+            },
+            {
+                "time": "20.00",
+                "program": "BOA (Bridget On Air). 35475375"
+            },
+            {
+                "time": "21.00",
+                "program": "UK charts. 14897153"
+            },
+            {
+                "time": "22.00",
+                "program": "Clip classics millennium proof. Met om"
+            },
+            {
+                "time": "22.00",
+                "program": "Nightguide. 14893337"
+            },
+            {
+                "time": "23.00",
+                "program": "TMF live! 14817917"
+            },
+            {
+                "time": "0.00",
+                "program": "CyberChoice."
+            }
+        ]
+    },
+    "MTV": {
+        "special": "",
+        "programs": [
+            {
+                "time": "5.00",
+                "program": "Non stop hits."
+            },
+            {
+                "time": "12.00",
+                "program": "Data videos. Op het tv-scherm wordt, naast de clip, achtergrondinfor- matie gegeven over de be- treffende artiest(en)."
+            },
+            {
+                "time": "13.00",
+                "program": "Byte- size. Snackporties van je favorie- te programma's."
+            },
+            {
+                "time": "15.00",
+                "program": "Hit list UK. Presentatie: Cat Deeley."
+            },
+            {
+                "time": "17.00",
+                "program": "Select MTV. Maak je eigen jukebox met Trey Farley."
+            },
+            {
+                "time": "18.00",
+                "program": "MTV: New. Presentatie: Lars Beckung."
+            },
+            {
+                "time": "19.00",
+                "program": "Bytesize."
+            },
+            {
+                "time": "20.00",
+                "program": "Top selection."
+            },
+            {
+                "time": "21.00",
+                "program": "Daria. Ani- matieserie."
+            },
+            {
+                "time": "21.30",
+                "program": "Bytesize."
+            },
+            {
+                "time": "0.00",
+                "program": "Alternative nation. Alternatieve clips."
+            },
+            {
+                "time": "2.00",
+                "program": "Night videos."
+            }
+        ]
+    }
+}
