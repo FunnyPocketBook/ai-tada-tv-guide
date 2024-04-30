@@ -1,0 +1,532 @@
+{
+    "VRT TV1": {
+        "special": "",
+        "programs": [
+            {
+                "time": "10.00",
+                "program": "Eucharistieviering."
+            },
+            {
+                "time": "11.00",
+                "program": "De zevende dag. O"
+            },
+            {
+                "time": "12.30",
+                "program": "Half uur natuur."
+            },
+            {
+                "time": "13.00",
+                "program": "Nieuws."
+            },
+            {
+                "time": "13.30",
+                "program": "Karate kid Actie, VS, 1989. Met Ralph Macchio, Noriyuki Mo- rita e.a. Regie: John G. Avildsen. 9995942"
+            },
+            {
+                "time": "15.21",
+                "program": "Hitkracht."
+            },
+            {
+                "time": "15.35",
+                "program": "Dad's army."
+            },
+            {
+                "time": "16.05",
+                "program": "George & Leo Comedyserie, VS. 883126"
+            },
+            {
+                "time": "16.30",
+                "program": "Early edition Dramaserie, VS. & 9456774"
+            },
+            {
+                "time": "17.15",
+                "program": "Vlaanderen vakantie- land & 6228316 Toeristisch magazine."
+            },
+            {
+                "time": "18.00",
+                "program": "Journaal (D & 518010"
+            },
+            {
+                "time": "18.10",
+                "program": "Bingovision Spel. 122213"
+            },
+            {
+                "time": "18.50",
+                "program": "Gelukkig zijn Compilatie. 7738126"
+            },
+            {
+                "time": "19.00",
+                "program": "Nieuws 569590"
+            },
+            {
+                "time": "19.55",
+                "program": "Keeping up appearances 239132 Comedyserie, GB. Hyacinth heeft de eerste vrije dagen van Richard al gepland."
+            },
+            {
+                "time": "20.25",
+                "program": "Met andere woorden Amusement met de verbor- gen camera. 3866652"
+            },
+            {
+                "time": "21.15",
+                "program": "Hof van Assisen (7) Rechtbankserie, B. Zola N\u2019Mbeko, een zwarte nacht- clubdanseres, wordt tijdens een ruzie door toptenniser Benny Allaerts neergesto- ken. T D"
+            },
+            {
+                "time": "22.05",
+                "program": "In the heat of the night Politieserie, VS. Jamison ontmoet in het gemeente- huis Lana Farren, de onwet- tige dochter van Chief Gillespie. 8186300"
+            },
+            {
+                "time": "22.50",
+                "program": "Nieuws 175584"
+            },
+            {
+                "time": "23.15",
+                "program": "Ask Harriet Comedyserie, 5459045"
+            },
+            {
+                "time": "23.37",
+                "endtime": "9.00",
+                "program": "Nieuws"
+            }
+        ]
+    },
+    "null": {
+        "special": "",
+        "programs": [
+            {
+                "time": "9.15",
+                "program": "Politieke uitzending."
+            },
+            {
+                "time": "9.45",
+                "program": "La pens\u00e9e et les hommes."
+            },
+            {
+                "time": "10.20",
+                "program": "Te- letubbies."
+            },
+            {
+                "time": "10.45",
+                "program": "de Noe."
+            },
+            {
+                "time": "11.10",
+                "program": "La plan\u00e8te des animaux."
+            },
+            {
+                "time": "11.15",
+                "program": "Lassie."
+            },
+            {
+                "time": "11.45",
+                "program": "Mise au point."
+            },
+            {
+                "time": "12.50",
+                "program": "Nieuws."
+            },
+            {
+                "time": "13.45",
+                "program": "Jar- dins & loisirs."
+            },
+            {
+                "time": "14.10",
+                "program": "Rosamunde Pilcher: Pour d'Elvie. Drama, Did."
+            },
+            {
+                "time": "15.40",
+                "program": "Voetbal. Rechtstreeks verslag van de wedstrijd Engeland - Belgi\u00eb."
+            },
+            {
+                "time": "18.05",
+                "program": "Autovision."
+            },
+            {
+                "time": "18.35",
+                "program": "Week- end sportif."
+            },
+            {
+                "time": "19.25",
+                "program": "30 ans d\u00e9j\u00e0."
+            },
+            {
+                "time": "19.30",
+                "program": "Nieuws."
+            },
+            {
+                "time": "20.15",
+                "program": "Le jardin ex- traordinaire."
+            },
+            {
+                "time": "20.50",
+                "program": "The preten- der."
+            },
+            {
+                "time": "21.40",
+                "program": "Autopsie."
+            },
+            {
+                "time": "23.35",
+                "program": "Con- tacts."
+            },
+            {
+                "time": "23.45",
+                "program": "Le roman d'un menteur."
+            },
+            {
+                "time": "1.05",
+                "program": "Nachttv."
+            },
+            {
+                "time": "4.00",
+                "program": "Ochtendtv."
+            },
+            {
+                "time": "8.00",
+                "program": "Canadees nieuws."
+            },
+            {
+                "time": "8.30",
+                "program": "Mission Pirattak."
+            },
+            {
+                "time": "9.05",
+                "program": "Bus et compagnie."
+            },
+            {
+                "time": "10.00",
+                "program": "Nieuws."
+            },
+            {
+                "time": "10.15",
+                "program": "Rince ta baig- noire."
+            },
+            {
+                "time": "11.05",
+                "program": "Thalassa."
+            },
+            {
+                "time": "12.05",
+                "program": "T\u00e9l\u00e9cin\u00e9ma."
+            },
+            {
+                "time": "12.30",
+                "program": "Frans nieuws."
+            },
+            {
+                "time": "13.05",
+                "program": "G\u00e9opolis."
+            },
+            {
+                "time": "14.00",
+                "program": "Nieuws."
+            },
+            {
+                "time": "14.15",
+                "program": "La carte aux tr\u00e9sors."
+            },
+            {
+                "time": "16.00",
+                "program": "Nieuws."
+            },
+            {
+                "time": "16.15",
+                "program": "Questions."
+            },
+            {
+                "time": "16.30",
+                "program": "Les carnets du bourlingueur."
+            },
+            {
+                "time": "17.05",
+                "program": "Kiosque."
+            },
+            {
+                "time": "18.00",
+                "program": "Nieuws."
+            },
+            {
+                "time": "18.15",
+                "program": "Vivement dimanche."
+            },
+            {
+                "time": "20.00",
+                "program": "Belgisch nieuws. Frans nieuws."
+            },
+            {
+                "time": "21.05",
+                "program": "Faut pas r\u00eaver. Nieuws."
+            },
+            {
+                "time": "22.15",
+                "program": "Arr\u00eat d'ur- gence. Misdaad, F."
+            },
+            {
+                "time": "23.45",
+                "program": "Images de pub."
+            },
+            {
+                "time": "0.00",
+                "program": "Zwitsers nieuws."
+            },
+            {
+                "time": "0.30",
+                "program": "Nachttv."
+            },
+            {
+                "time": "7.55",
+                "program": "The Bible: Abraham His- torisch, 1994. Met Richard Harris, Barbara Her- shey, Maximillian Schell e.a. Regie: Joseph Sargent. 87567687"
+            },
+            {
+                "time": "9.30",
+                "program": "Breakfast with Frost."
+            },
+            {
+                "time": "10.30",
+                "program": "Great North Run. Rechtstreeks ver- slag. 46267519"
+            },
+            {
+                "time": "13.00",
+                "program": "Countryfile. 39941720"
+            },
+            {
+                "time": "13.30",
+                "program": "On the record."
+            },
+            {
+                "time": "14.30",
+                "program": "EastEnders. D"
+            },
+            {
+                "time": "16.25",
+                "program": "The watcher in the woods. Drama, VS, 1979. Met Bette Davis e.a. Regie: John Hough. 75821300"
+            },
+            {
+                "time": "17.45",
+                "program": "Walking with dinosaurs 53093652 Documentaireserie."
+            },
+            {
+                "time": "18.15",
+                "program": "Nieuws 92674478"
+            },
+            {
+                "time": "18.35",
+                "program": "Regionaal nieuws en weerbericht. 64834478"
+            },
+            {
+                "time": "18.40",
+                "program": "Songs of praise Relius muziekprogram- ma. 86743942"
+            },
+            {
+                "time": "19.15",
+                "program": "Antiques inspectors Programma waarin experts op zoek gaan naar verbor- gen schatten achter Britse voordeuren. 74068942"
+            },
+            {
+                "time": "20.00",
+                "program": "Rolf\u2019s amazing world of animals 70292381 Dierenmagazine waarin de speciale band tussen mens en dier wordt benadrukt."
+            },
+            {
+                "time": "20.30",
+                "program": "As time goes by Comedyserie, GB. Jean en Lionel komen terug van het platteland en ontdekken dat Judiths vriend in hun huis heeft gezeten. 70291652"
+            },
+            {
+                "time": "21.00",
+                "program": "Ballykissangel Dramaserie, GB. Terwij! zand en modder een aards pro- bleem vormen rond het dorp, neemt Niamh een drastische beslissing om haar eigen probleem op te lossen. 39266045"
+            },
+            {
+                "time": "21.50",
+                "program": "Nieuws 74196519"
+            },
+            {
+                "time": "22.00",
+                "program": "Sex, chips and rock \u2018n\u2019 roll (Slot) Serie, GB. & 77402403"
+            },
+            {
+                "time": "22.50",
+                "program": "The vicar of Dibley Comedyserie, GB. & 73259328"
+            },
+            {
+                "time": "23.20",
+                "program": "Everyman Reportageserie. Portret van de geliefde performer en re- ligieuze presentator Harry Secombe. \u00ae 25513687"
+            },
+            {
+                "time": "0.10",
+                "program": "Net aid. Muzikaal amuse- mentsprogramma ten bate van een goed doel. Optre- dens van David Bowie, The Corrs, Catatonia, Robbie Wil- liams, Bryan Adams."
+            },
+            {
+                "time": "1.45",
+                "program": "The sky at night. D"
+            },
+            {
+                "time": "7.00",
+                "program": "BBC News 24."
+            },
+            {
+                "time": "8.30",
+                "program": "Teletubbies."
+            },
+            {
+                "time": "9.15",
+                "program": "Dear Mr Barker. 9,30 See itsaw it."
+            },
+            {
+                "time": "9.55",
+                "program": "Oscar's orchestra."
+            },
+            {
+                "time": "10.20",
+                "program": "Return to Jupiter. D"
+            },
+            {
+                "time": "10.50",
+                "program": "Animorphs."
+            },
+            {
+                "time": "11.15",
+                "program": "Belfry witches."
+            },
+            {
+                "time": "11.40",
+                "program": "Ocean odyssey."
+            },
+            {
+                "time": "12.05",
+                "program": "Micro- soap."
+            },
+            {
+                "time": "12.30",
+                "program": "See you in court."
+            },
+            {
+                "time": "13.00",
+                "program": "Michael Owen's soccer skills."
+            },
+            {
+                "time": "13.30",
+                "program": "Pure naughty."
+            },
+            {
+                "time": "14.00",
+                "program": "Stu- dent choice: What and whe- re?"
+            },
+            {
+                "time": "14.30",
+                "program": "Radical highs."
+            },
+            {
+                "time": "14.45",
+                "program": "The Malta story. Oor- log, GB. Met Alec Guinness, Jack Hawkins, Anthony Steel Regie: Brian Desmond Hurst. Een piloot die op weg is naar Egypte is gedwon- en om op Malta te landen. 69361584"
+            },
+            {
+                "time": "16.25",
+                "program": "The halls of Montezuma. Oorlog, VS, 1950. Met Richard Wid- mark, Jack Palance e.a. Re- gie: Lewis Milestone. Een marineofficier leidt zijn mannen van de ene slag op de Stille Oceaan door de andere. 17918233"
+            },
+            {
+                "time": "18.15",
+                "program": "Animal zone: Natural neighbours & 37622869 Natuurfilmpjes."
+            },
+            {
+                "time": "18.45",
+                "program": "Animal zone: Highland diary 78442497"
+            },
+            {
+                "time": "18.55",
+                "program": "Animal zone: The natural world & 45113478 Serie natuurdocumentaires"
+            },
+            {
+                "time": "19.45",
+                "program": "Star Trek: Voyager Sf-serie, VS. De voorraad zware waterstof van het ruimteschip raakt op. 74149861"
+            },
+            {
+                "time": "20.30",
+                "program": "The money programme 70299294 Economisch magazine."
+            },
+            {
+                "time": "21.00",
+                "program": "The spying game (Slot) 3 39264687 Documentaireserie over de rol van geheime diensten tij- dens de Koude Oorlog."
+            },
+            {
+                "time": "21.50",
+                "program": "Skint (Slot). Reportageserie over hoe te overleven als je blut bent. 74187861"
+            },
+            {
+                "time": "22.00",
+                "program": "The fast show Sketches. @ 70383687"
+            },
+            {
+                "time": "22.30",
+                "program": "Never mind the buzzcocks Popquiz. D EH 70382958"
+            },
+            {
+                "time": "23.00",
+                "program": "Clarkson Talkshow. 37604720"
+            }
+        ]
+    },
+    "KETNET": {
+        "special": "",
+        "programs": [
+            {
+                "time": "10.00",
+                "program": "Sportpaleis - WK Wielrennen. Rechtstreeks verslag. 60986958"
+            },
+            {
+                "time": "17.30",
+                "program": "Judo & 816045 Rechtstreeks: WK, finale."
+            },
+            {
+                "time": "19.00",
+                "program": "KET & Co"
+            },
+            {
+                "time": "19.05",
+                "program": "The crash zone Jeugdserie, Aus. 635381"
+            },
+            {
+                "time": "19.28",
+                "program": "KET & Co & 305520132"
+            },
+            {
+                "time": "19.30",
+                "program": "Muppets tonight Poppenserie, VS. Te gast: Whoopi Goldberg. & 816039"
+            },
+            {
+                "time": "19.55",
+                "program": "KET & Co & 7097923"
+            }
+        ]
+    },
+    "CANVAS": {
+        "special": "",
+        "programs": [
+            {
+                "time": "20.30",
+                "program": "Journaal ( \u00a9 286294"
+            },
+            {
+                "time": "20.30",
+                "program": "Hot doc Documentaireserie. Afl: Rwanda - het waarom. Over de genocide in Rwanda Achthonderdduizend mensen werden in enkele maanden tijd afgeslacht. Opgehitst door Radio Mille Collines werden buren voor altijd elkaars vijanden. 100861"
+            },
+            {
+                "time": "21.25",
+                "program": "overLeven Documentaireserie. Afl: Vis of vies? Biologe Magda Vinckx is na dertig jaar on- derzoek volledig op de hoogte van de eet- en paar- gewoontes van de Noord- zeetong. 2692294"
+            },
+            {
+                "time": "22.05",
+                "program": "Bach mag Humoristische serie rond klassieke muziek. Afl: Frede- ric Chopin. @ 175565"
+            },
+            {
+                "time": "22.40",
+                "program": "Het Braambos Michel van der Plas leidt ons rond in het leven van dichter Gezelle. 8435132"
+            },
+            {
+                "time": "23.25",
+                "program": "Not the nine o\u2019clock news Humor en sketches met Rowan Atkinson. 5373671"
+            },
+            {
+                "time": "23.50",
+                "endtime": "2.00",
+                "program": "Journaal"
+            }
+        ]
+    }
+}

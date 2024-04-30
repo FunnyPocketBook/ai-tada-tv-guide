@@ -1,0 +1,18 @@
+# See https://docs.ultralytics.com/yolov5/tutorials/train_custom_data/#option-2-create-a-manual-dataset
+
+# Train/val/test sets as 1) dir: path/to/imgs, 2) file: path/to/imgs.txt, or 3) list: [path/to/imgs1, path/to/imgs2, ..]
+path: yolo_data  # dataset root dir
+train: images/train  # train images (relative to 'path') 4 images
+val: images/val  # val images (relative to 'path') 4 images
+test: images/test # test images (optional)
+
+# Condensed classes down to only 4 classes. intro is merged into text, subtitle is merged into title
+names:
+  0: ad
+  1: image
+  2: text
+  3: title
+
+augmentation:
+  flipud: 0.5 
+  fliplr: 0.5
